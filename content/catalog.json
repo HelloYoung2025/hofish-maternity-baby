@@ -1,0 +1,540 @@
+{
+  "/": {
+    "en": {
+      "title": "HOFISH Maternity & Baby",
+      "intro": "Explore HOFISH’s pregnancy and nursing clothing, pumping bras, baby collections and articles for parents.",
+      "sections": [
+        {
+          "title": "Designed for pregnancy and nursing",
+          "items": [
+            "HOFISH presents its collections around practical, comfortable clothing for pregnancy, breastfeeding and the months after birth.",
+            "The homepage highlights nursing wear and maternity bottoms, with separate selections for bras and tops, and for leggings, jeans and shorts."
+          ]
+        },
+        {
+          "title": "Sustainability goals",
+          "items": [
+            "HOFISH describes four priorities: responsible manufacturing, designing products for longer use, lowering its carbon footprint and sourcing materials more sustainably."
+          ]
+        },
+        {
+          "title": "HOFISH on Instagram",
+          "items": [
+            "The homepage features a photo gallery under the HOFISH hashtag. The storefront is the source for the images."
+          ]
+        },
+        {
+          "title": "Awards featured by HOFISH",
+          "items": [
+            "The homepage features recognition from the National Parenting Product Awards (2022), BabyCenter’s Love It Awards (2021), Mom’s Choice Awards and the MadeForMums Awards (2022)."
+          ]
+        },
+        {
+          "title": "Store services and support",
+          "items": [
+            "The storefront provides shipping and returns information, order tracking and a customer service contact. The homepage also describes payments in multiple currencies and offers an email newsletter."
+          ]
+        }
+      ]
+    },
+    "de": {
+      "title": "HOFISH Maternity & Baby",
+      "intro": "Entdecken Sie Umstands- und Stillkleidung, Abpump-BHs, Kollektionen rund ums Baby und Beiträge für Eltern.",
+      "sections": [
+        {
+          "title": "Für Schwangerschaft und Stillzeit",
+          "items": [
+            "Bei HOFISH steht praktische, bequeme Kleidung für die Schwangerschaft, die Stillzeit und die Monate nach der Geburt im Mittelpunkt.",
+            "Die Startseite stellt Still-BHs und Stilltops sowie Umstandsleggings, -jeans und -shorts in getrennten Bereichen vor."
+          ]
+        },
+        {
+          "title": "Nachhaltigkeitsziele",
+          "items": [
+            "HOFISH nennt vier Schwerpunkte: verantwortungsvolle Herstellung, länger nutzbare Produkte, einen geringeren CO₂-Fußabdruck und eine nachhaltigere Materialbeschaffung."
+          ]
+        },
+        {
+          "title": "HOFISH auf Instagram",
+          "items": [
+            "Auf der Startseite gibt es eine Fotogalerie zum HOFISH-Hashtag. Die Bilder finden Sie im Originalshop."
+          ]
+        },
+        {
+          "title": "Von HOFISH präsentierte Auszeichnungen",
+          "items": [
+            "Auf der Startseite verweist HOFISH auf die National Parenting Product Awards (2022), die Love It Awards von BabyCenter (2021), die Mom’s Choice Awards und die MadeForMums Awards (2022)."
+          ]
+        },
+        {
+          "title": "Shop und Kundendienst",
+          "items": [
+            "Der Shop informiert über Versand und Rückgaben, bietet eine Sendungsverfolgung und nennt eine Kontaktadresse für den Kundendienst. Auf der Startseite werden auch Zahlungen in mehreren Währungen und ein E-Mail-Newsletter erwähnt."
+          ]
+        }
+      ]
+    },
+    "fr": {
+      "title": "HOFISH Maternity & Baby",
+      "intro": "Découvrez les vêtements de grossesse et d’allaitement, les soutiens-gorge de tirage, les collections pour bébé et les articles destinés aux parents.",
+      "sections": [
+        {
+          "title": "Pour la grossesse et l’allaitement",
+          "items": [
+            "HOFISH privilégie les vêtements pratiques et confortables pendant la grossesse, l’allaitement et les mois qui suivent la naissance.",
+            "La page d’accueil présente séparément les soutiens-gorge et hauts d’allaitement, puis les leggings, jeans et shorts de grossesse."
+          ]
+        },
+        {
+          "title": "Objectifs de durabilité",
+          "items": [
+            "HOFISH décrit quatre priorités : une fabrication responsable, des produits conçus pour durer, une empreinte carbone réduite et un approvisionnement plus durable."
+          ]
+        },
+        {
+          "title": "HOFISH sur Instagram",
+          "items": [
+            "La page d’accueil présente une galerie de photos associée au mot-dièse HOFISH. Les images sont à consulter sur la boutique d’origine."
+          ]
+        },
+        {
+          "title": "Distinctions présentées par HOFISH",
+          "items": [
+            "La page d’accueil met en avant les National Parenting Product Awards (2022), les Love It Awards de BabyCenter (2021), les Mom’s Choice Awards et les MadeForMums Awards (2022)."
+          ]
+        },
+        {
+          "title": "Services de la boutique",
+          "items": [
+            "La boutique présente les conditions de livraison et de retour, le suivi des commandes et les coordonnées du service client. L’accueil mentionne aussi le paiement dans plusieurs devises et une lettre d’information par e-mail."
+          ]
+        }
+      ]
+    }
+  },
+  "/collections/all": {
+    "en": {
+      "title": "All products",
+      "intro": "A single index of the products documented from the HOFISH catalog.",
+      "sections": []
+    },
+    "de": {
+      "title": "Alle Produkte",
+      "intro": "Übersicht aller in diesem Projekt erfassten Produkte aus dem HOFISH-Katalog.",
+      "sections": []
+    },
+    "fr": {
+      "title": "Tous les produits",
+      "intro": "Index des produits du catalogue HOFISH répertoriés dans ce projet.",
+      "sections": []
+    }
+  },
+  "/collections/all-bra": {
+    "en": {
+      "title": "All bras",
+      "intro": "The general bra collection groups styles intended for pregnancy, nursing and pumping.",
+      "sections": []
+    },
+    "de": {
+      "title": "Alle BHs",
+      "intro": "Die allgemeine BH-Kollektion vereint Modelle für Schwangerschaft, Stillzeit und Abpumpen.",
+      "sections": []
+    },
+    "fr": {
+      "title": "Tous les soutiens-gorge",
+      "intro": "La collection générale regroupe les modèles pour la grossesse, l’allaitement et le tirage du lait.",
+      "sections": []
+    }
+  },
+  "/collections/baby-bottle": {
+    "en": {
+      "title": "Baby bottles",
+      "intro": "A HOFISH catalog category for baby feeding bottles.",
+      "sections": []
+    },
+    "de": {
+      "title": "Babyflaschen",
+      "intro": "Katalogkategorie von HOFISH für Babyflaschen.",
+      "sections": []
+    },
+    "fr": {
+      "title": "Biberons",
+      "intro": "Rubrique du catalogue HOFISH consacrée aux biberons.",
+      "sections": []
+    }
+  },
+  "/collections/best-seller": {
+    "en": {
+      "title": "Best sellers",
+      "intro": "The storefront’s collection for featured best sellers.",
+      "sections": []
+    },
+    "de": {
+      "title": "Bestseller",
+      "intro": "Kollektion, in der der Shop seine Bestseller hervorhebt.",
+      "sections": []
+    },
+    "fr": {
+      "title": "Meilleures ventes",
+      "intro": "Collection dans laquelle la boutique met en avant ses meilleures ventes.",
+      "sections": []
+    }
+  },
+  "/collections/childrens-toys": {
+    "en": {
+      "title": "Children’s toys",
+      "intro": "The homepage links to this collection for children’s toys.",
+      "sections": []
+    },
+    "de": {
+      "title": "Kinderspielzeug",
+      "intro": "Die Startseite verweist auf diese Kollektion für Kinderspielzeug.",
+      "sections": []
+    },
+    "fr": {
+      "title": "Jouets pour enfants",
+      "intro": "Cette collection de jouets pour enfants figure parmi les rubriques de la page d’accueil.",
+      "sections": []
+    }
+  },
+  "/collections/electric-breast-pump": {
+    "en": {
+      "title": "Breast pumps and care",
+      "intro": "A catalog category for breast pumps and items used during breastfeeding.",
+      "sections": []
+    },
+    "de": {
+      "title": "Milchpumpen und Stillbedarf",
+      "intro": "Katalogkategorie für Milchpumpen und Artikel für die Stillzeit.",
+      "sections": []
+    },
+    "fr": {
+      "title": "Tire-lait et soins",
+      "intro": "Rubrique du catalogue consacrée aux tire-lait et aux articles pour la période de l’allaitement.",
+      "sections": []
+    }
+  },
+  "/collections/for-pregnancy": {
+    "en": {
+      "title": "For pregnancy",
+      "intro": "A general collection for the pregnancy stage.",
+      "sections": []
+    },
+    "de": {
+      "title": "Für die Schwangerschaft",
+      "intro": "Übergreifende Kollektion für die Schwangerschaft.",
+      "sections": []
+    },
+    "fr": {
+      "title": "Pour la grossesse",
+      "intro": "Collection générale dédiée à la période de la grossesse.",
+      "sections": []
+    }
+  },
+  "/collections/hot-selling": {
+    "en": {
+      "title": "Popular products",
+      "intro": "A separate collection for products highlighted by the storefront.",
+      "sections": []
+    },
+    "de": {
+      "title": "Beliebte Produkte",
+      "intro": "Eigene Kollektion für Produkte, die der Shop besonders hervorhebt.",
+      "sections": []
+    },
+    "fr": {
+      "title": "Produits populaires",
+      "intro": "Collection dédiée aux produits mis en avant par la boutique.",
+      "sections": []
+    }
+  },
+  "/collections/maternity-jeans": {
+    "en": {
+      "title": "Maternity jeans",
+      "intro": "Denim silhouettes in the maternity clothing catalog.",
+      "sections": []
+    },
+    "de": {
+      "title": "Umstandsjeans",
+      "intro": "Jeansmodelle aus dem Katalog für Umstandskleidung.",
+      "sections": []
+    },
+    "fr": {
+      "title": "Jeans de grossesse",
+      "intro": "Modèles en denim du catalogue de vêtements de grossesse.",
+      "sections": []
+    }
+  },
+  "/collections/maternity-jeans-short": {
+    "en": {
+      "title": "Maternity denim shorts",
+      "intro": "Short denim styles from the maternity clothing catalog.",
+      "sections": []
+    },
+    "de": {
+      "title": "Umstandsjeansshorts",
+      "intro": "Kurze Jeansmodelle aus dem Katalog für Umstandskleidung.",
+      "sections": []
+    },
+    "fr": {
+      "title": "Shorts en jean de grossesse",
+      "intro": "Modèles courts en denim du catalogue de vêtements de grossesse.",
+      "sections": []
+    }
+  },
+  "/collections/maternity-leggings": {
+    "en": {
+      "title": "Maternity leggings",
+      "intro": "Leggings designed with a stretchy high panel that covers the bump, described in classic and pocketed styles.",
+      "sections": []
+    },
+    "de": {
+      "title": "Umstandsleggings",
+      "intro": "Leggings mit hohem, dehnbarem Bauchbund, beschrieben in klassischen Varianten und Modellen mit Taschen.",
+      "sections": []
+    },
+    "fr": {
+      "title": "Leggings de grossesse",
+      "intro": "Leggings à bandeau haut et extensible couvrant le ventre, présentés en version classique ou avec poches.",
+      "sections": []
+    }
+  },
+  "/collections/maternity-nursing-bra": {
+    "en": {
+      "title": "Maternity and nursing bras",
+      "intro": "The homepage’s featured bra collection covers pregnancy and nursing styles.",
+      "sections": []
+    },
+    "de": {
+      "title": "Umstands- und Still-BHs",
+      "intro": "Diese auf der Startseite hervorgehobene BH-Kollektion umfasst Modelle für die Schwangerschaft und Stillzeit.",
+      "sections": []
+    },
+    "fr": {
+      "title": "Soutiens-gorge de grossesse et d’allaitement",
+      "intro": "La page d’accueil met en avant cette collection destinée à la grossesse et à l’allaitement.",
+      "sections": []
+    }
+  },
+  "/collections/maternity-pants": {
+    "en": {
+      "title": "Maternity pants",
+      "intro": "A catalog collection for pants designed for pregnancy.",
+      "sections": []
+    },
+    "de": {
+      "title": "Umstandshosen",
+      "intro": "Katalogkollektion für Hosen, die für die Schwangerschaft konzipiert sind.",
+      "sections": []
+    },
+    "fr": {
+      "title": "Pantalons de grossesse",
+      "intro": "Collection du catalogue consacrée aux pantalons conçus pour la grossesse.",
+      "sections": []
+    }
+  },
+  "/collections/maternity-pants-1": {
+    "en": {
+      "title": "Maternity pants",
+      "intro": "The maternity bottoms collection linked from the homepage, covering styles such as leggings and denim.",
+      "sections": []
+    },
+    "de": {
+      "title": "Umstandshosen",
+      "intro": "Diese auf der Startseite verlinkte Kollektion umfasst unter anderem Umstandsleggings und Jeans.",
+      "sections": []
+    },
+    "fr": {
+      "title": "Pantalons de grossesse",
+      "intro": "Cette collection, accessible depuis l’accueil, réunit notamment des leggings et des modèles en denim.",
+      "sections": []
+    }
+  },
+  "/collections/maternity-shorts": {
+    "en": {
+      "title": "Maternity shorts",
+      "intro": "Short pants in the pregnancy clothing catalog.",
+      "sections": []
+    },
+    "de": {
+      "title": "Umstandsshorts",
+      "intro": "Kurze Hosen aus dem Katalog für Umstandskleidung.",
+      "sections": []
+    },
+    "fr": {
+      "title": "Shorts de grossesse",
+      "intro": "Shorts du catalogue de vêtements de grossesse.",
+      "sections": []
+    }
+  },
+  "/collections/maternity-sleep-bra": {
+    "en": {
+      "title": "Maternity sleep bras",
+      "intro": "The collection description focuses on soft, wire-free bras for sleeping or relaxing during pregnancy and nursing.",
+      "sections": []
+    },
+    "de": {
+      "title": "Umstands-BHs für die Nacht",
+      "intro": "Die Kollektionsbeschreibung stellt weiche, bügellose BHs zum Schlafen und Entspannen in Schwangerschaft und Stillzeit vor.",
+      "sections": []
+    },
+    "fr": {
+      "title": "Soutiens-gorge de nuit pour la maternité",
+      "intro": "La description de la collection présente des modèles souples et sans armatures pour dormir ou se détendre pendant la grossesse et l’allaitement.",
+      "sections": []
+    }
+  },
+  "/collections/maternity-tees-tanks": {
+    "en": {
+      "title": "Maternity T-shirts and tanks",
+      "intro": "A clothing category for short-sleeve and sleeveless maternity tops.",
+      "sections": []
+    },
+    "de": {
+      "title": "Umstands-T-Shirts und -Tops",
+      "intro": "Katalogkategorie für kurzärmelige und ärmellose Umstandsoberteile.",
+      "sections": []
+    },
+    "fr": {
+      "title": "T-shirts et débardeurs de grossesse",
+      "intro": "Rubrique consacrée aux hauts de grossesse à manches courtes ou sans manches.",
+      "sections": []
+    }
+  },
+  "/collections/maternity-underwear": {
+    "en": {
+      "title": "Maternity underwear",
+      "intro": "Underwear designed for pregnancy, including styles that sit over the bump.",
+      "sections": []
+    },
+    "de": {
+      "title": "Umstandsunterwäsche",
+      "intro": "Unterwäsche für die Schwangerschaft, darunter Modelle mit einem Bund über dem Bauch.",
+      "sections": []
+    },
+    "fr": {
+      "title": "Sous-vêtements de grossesse",
+      "intro": "Sous-vêtements conçus pour la grossesse, dont des modèles qui couvrent le ventre.",
+      "sections": []
+    }
+  },
+  "/collections/nursing": {
+    "en": {
+      "title": "Nursing wear",
+      "intro": "Clothing grouped for breastfeeding, including bras and tops.",
+      "sections": []
+    },
+    "de": {
+      "title": "Stillkleidung",
+      "intro": "Kleidung für die Stillzeit, darunter BHs und Oberteile.",
+      "sections": []
+    },
+    "fr": {
+      "title": "Vêtements d’allaitement",
+      "intro": "Vêtements pour l’allaitement, dont des soutiens-gorge et des hauts.",
+      "sections": []
+    }
+  },
+  "/collections/nursing-pumping": {
+    "en": {
+      "title": "Nursing and pumping",
+      "intro": "A catalog category that brings breastfeeding and pumping together.",
+      "sections": []
+    },
+    "de": {
+      "title": "Stillen und Abpumpen",
+      "intro": "Katalogkategorie, die Stillen und Abpumpen zusammenfasst.",
+      "sections": []
+    },
+    "fr": {
+      "title": "Allaitement et tirage du lait",
+      "intro": "Rubrique du catalogue qui réunit allaitement et expression du lait.",
+      "sections": []
+    }
+  },
+  "/collections/nursing-tank": {
+    "en": {
+      "title": "Nursing tank tops",
+      "intro": "Sleeveless tops designed for breastfeeding access.",
+      "sections": []
+    },
+    "de": {
+      "title": "Stilltops",
+      "intro": "Ärmellose Oberteile mit Stillzugang.",
+      "sections": []
+    },
+    "fr": {
+      "title": "Débardeurs d’allaitement",
+      "intro": "Hauts sans manches conçus pour faciliter l’accès au sein.",
+      "sections": []
+    }
+  },
+  "/collections/pregnancy-clothing": {
+    "en": {
+      "title": "Pregnancy clothing",
+      "intro": "The homepage’s general category for clothing during pregnancy and nursing.",
+      "sections": []
+    },
+    "de": {
+      "title": "Umstandskleidung",
+      "intro": "Die auf der Startseite verlinkte allgemeine Kollektion für Schwangerschaft und Stillzeit.",
+      "sections": []
+    },
+    "fr": {
+      "title": "Vêtements de grossesse",
+      "intro": "La rubrique générale de l’accueil dédiée aux vêtements de grossesse et d’allaitement.",
+      "sections": []
+    }
+  },
+  "/collections/pumping-bra": {
+    "en": {
+      "title": "Pumping bras",
+      "intro": "The pumping-bra category linked from the main menu for styles that provide hands-free support.",
+      "sections": []
+    },
+    "de": {
+      "title": "Abpump-BHs",
+      "intro": "Im Hauptmenü verlinkte BH-Kollektion für freihändiges Abpumpen.",
+      "sections": []
+    },
+    "fr": {
+      "title": "Soutiens-gorge de tirage",
+      "intro": "Collection du menu principal dédiée aux modèles qui permettent de tirer son lait les mains libres.",
+      "sections": []
+    }
+  },
+  "/collections/pumping-bras": {
+    "en": {
+      "title": "Hands-free pumping bras",
+      "intro": "The collection description highlights wire-free styles that combine nursing and hands-free pumping in one bra.",
+      "sections": []
+    },
+    "de": {
+      "title": "BHs zum freihändigen Abpumpen",
+      "intro": "Die Kollektionsbeschreibung stellt bügellose Modelle vor, die Stillen und freihändiges Abpumpen in einem BH vereinen.",
+      "sections": []
+    },
+    "fr": {
+      "title": "Soutiens-gorge de tirage mains libres",
+      "intro": "La description de la collection présente des modèles sans armatures conçus à la fois pour l’allaitement et le tirage mains libres.",
+      "sections": []
+    }
+  },
+  "/collections/sports-acitve-bra": {
+    "en": {
+      "title": "Sports and active bras",
+      "intro": "The collection description focuses on support during exercise and access for nursing.",
+      "sections": []
+    },
+    "de": {
+      "title": "Sport- und Still-BHs",
+      "intro": "Die Kollektionsbeschreibung hebt stützende BHs für Bewegung mit Stillzugang hervor.",
+      "sections": []
+    },
+    "fr": {
+      "title": "Soutiens-gorge de sport et d’allaitement",
+      "intro": "La description de la collection met l’accent sur le maintien pendant l’activité physique et sur l’accès au sein.",
+      "sections": []
+    }
+  }
+}

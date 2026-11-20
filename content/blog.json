@@ -1,0 +1,302 @@
+{
+  "/blogs/news": {
+    "en": {
+      "title": "HOFISH Journal",
+      "intro": "Four posts from the HOFISH storefront cover breastfeeding, breast pumps and personal experiences after childbirth.",
+      "sections": []
+    },
+    "de": {
+      "title": "HOFISH-Magazin",
+      "intro": "Vier Beiträge aus dem HOFISH-Shop befassen sich mit dem Stillen, Milchpumpen und persönlichen Erfahrungen nach der Geburt.",
+      "sections": []
+    },
+    "fr": {
+      "title": "Journal HOFISH",
+      "intro": "Quatre articles de la boutique HOFISH abordent l’allaitement, les tire-laits et le vécu après l’accouchement.",
+      "sections": []
+    }
+  },
+  "/blogs/news/tagged/breast-pump": {
+    "en": {
+      "title": "Breast pump posts",
+      "intro": "Posts filed under the Breast Pump tag in the HOFISH Journal.",
+      "sections": []
+    },
+    "de": {
+      "title": "Beiträge zu Milchpumpen",
+      "intro": "Beiträge aus dem HOFISH-Magazin mit dem Schlagwort Milchpumpe.",
+      "sections": []
+    },
+    "fr": {
+      "title": "Articles sur les tire-laits",
+      "intro": "Articles du journal HOFISH classés sous le mot-clé Tire-lait.",
+      "sections": []
+    }
+  },
+  "/blogs/news/breast-pump-why-low-or-no-suction": {
+    "en": {
+      "title": "Breast pump with weak or no suction",
+      "intro": "The title asks about suction. The published text leaves that question unanswered and contains two FAQ entries about an unnamed electric pump.",
+      "sections": [
+        {
+          "title": "Flange and accessories",
+          "items": [
+            "The post describes a 24/28 mm flange and lists a 24 mm silicone funnel and 21 mm and 19 mm flanges as separately available accessories."
+          ]
+        },
+        {
+          "title": "Warranty and support",
+          "items": [
+            "In 2023 the post cited a 12-month warranty and a 24-hour response window via amazon@hofish.net. The pump model is unspecified, so check the warranty terms supplied with your product."
+          ]
+        }
+      ]
+    },
+    "de": {
+      "title": "Milchpumpe mit schwacher oder fehlender Saugkraft",
+      "intro": "Der Titel fragt nach der Saugkraft. Der veröffentlichte Text lässt diese Frage offen und enthält zwei Antworten zu einer elektrischen Milchpumpe ohne Modellangabe.",
+      "sections": [
+        {
+          "title": "Brusthaube und Zubehör",
+          "items": [
+            "Der Beitrag nennt eine Brusthaube in 24/28 mm sowie einen Silikontrichter in 24 mm und Brusthauben in 21 mm und 19 mm als separat erhältliches Zubehör."
+          ]
+        },
+        {
+          "title": "Garantie und Kundendienst",
+          "items": [
+            "Der Beitrag nannte 2023 eine Garantie von zwölf Monaten und eine Antwortfrist von 24 Stunden über amazon@hofish.net. Angaben zum Pumpenmodell fehlen. Maßgeblich sind die Garantiebedingungen zu Ihrem Produkt."
+          ]
+        }
+      ]
+    },
+    "fr": {
+      "title": "Tire-lait à aspiration faible ou nulle",
+      "intro": "Le titre pose une question sur l’aspiration. Le texte publié laisse cette question ouverte et répond à deux questions sur un tire-lait électrique dont le modèle reste indéterminé.",
+      "sections": [
+        {
+          "title": "Téterelle et accessoires",
+          "items": [
+            "L’article mentionne une téterelle de 24/28 mm et annonce un entonnoir en silicone de 24 mm et des téterelles de 21 mm et 19 mm comme accessoires vendus séparément."
+          ]
+        },
+        {
+          "title": "Garantie et assistance",
+          "items": [
+            "En 2023, l’article annonçait une garantie de douze mois et un délai de réponse de 24 heures via amazon@hofish.net. Le modèle de tire-lait reste indéterminé. Consultez les conditions de garantie fournies avec votre produit."
+          ]
+        }
+      ]
+    }
+  },
+  "/blogs/news/test": {
+    "en": {
+      "title": "Breastfeeding with flat or inverted nipples",
+      "intro": "The article discusses how nipple shape and breast fullness can affect a baby's latch as parent and baby learn to breastfeed.",
+      "sections": [
+        {
+          "title": "Nipple shape and latch",
+          "items": [
+            "The article discusses flat and inward-facing nipples and describes how a very full breast can also make latching more difficult."
+          ]
+        },
+        {
+          "title": "Approaches discussed in the article",
+          "items": [
+            "It covers hand expression, pumping, nipple stimulation and suction aids. The original also promotes Momcozy’s S9 Pro and S12 Pro wearable pumps.",
+            "It raises the possibility that a nipple shield can affect milk transfer and suggests discussing the fit and use of a shield with a lactation professional."
+          ]
+        },
+        {
+          "title": "Individual support",
+          "items": [
+            "For questions about latch or breast stimulation during pregnancy, ask a midwife, clinician or lactation professional about your circumstances."
+          ]
+        }
+      ]
+    },
+    "de": {
+      "title": "Stillen mit flachen oder eingezogenen Brustwarzen",
+      "intro": "Der Beitrag beschreibt, wie die Form der Brustwarzen und eine stark gefüllte Brust das Anlegen beeinflussen können, wenn Mutter und Kind das Stillen lernen.",
+      "sections": [
+        {
+          "title": "Form der Brustwarzen und Anlegen",
+          "items": [
+            "Der Beitrag behandelt flache und nach innen gerichtete Brustwarzen. Er beschreibt auch, wie eine sehr volle Brust das Anlegen erschweren kann."
+          ]
+        },
+        {
+          "title": "Im Beitrag erwähnte Hilfen",
+          "items": [
+            "Der Beitrag geht auf das Ausstreichen von Hand, Abpumpen, Brustwarzenstimulation und Saughilfen ein. Außerdem bewirbt das Original die tragbaren Milchpumpen S9 Pro und S12 Pro von Momcozy.",
+            "Der Beitrag weist darauf hin, dass Stillhütchen die Milchaufnahme beeinflussen können, und verweist bei Fragen zu Passform und Anwendung an eine Stillfachkraft."
+          ]
+        },
+        {
+          "title": "Individuelle Unterstützung",
+          "items": [
+            "Bei Fragen zum Anlegen oder zur Bruststimulation während der Schwangerschaft kann eine Hebamme, ärztliche Fachperson oder Stillberatung Ihre Situation einschätzen."
+          ]
+        }
+      ]
+    },
+    "fr": {
+      "title": "Allaiter avec des mamelons plats ou ombiliqués",
+      "intro": "L’article décrit comment la forme des mamelons et la tension des seins peuvent influer sur la prise du sein lors de l’apprentissage de l’allaitement.",
+      "sections": [
+        {
+          "title": "Forme des mamelons et prise du sein",
+          "items": [
+            "L’article évoque les mamelons plats ou rentrés. Il explique aussi qu’un sein très tendu peut compliquer la prise du sein."
+          ]
+        },
+        {
+          "title": "Approches évoquées dans l’article",
+          "items": [
+            "L’article aborde l’expression manuelle, l’usage d’un tire-lait, la stimulation des mamelons et les dispositifs d’aspiration. L’original fait aussi la promotion des tire-laits portables S9 Pro et S12 Pro de Momcozy.",
+            "L’article signale qu’un bout de sein en silicone peut influer sur la quantité de lait bue par le bébé et propose d’en discuter avec un professionnel de l’allaitement."
+          ]
+        },
+        {
+          "title": "Accompagnement personnalisé",
+          "items": [
+            "Pour toute question sur la prise du sein ou la stimulation mammaire pendant la grossesse, une sage-femme, un médecin ou un professionnel de l’allaitement peut vous orienter selon votre situation."
+          ]
+        }
+      ]
+    }
+  },
+  "/blogs/news/test-3": {
+    "en": {
+      "title": "Choosing a breast pump flange size",
+      "intro": "The flange is the part of the breast pump that fits against the breast. The article explains why fit matters and looks at tools for measuring nipple size.",
+      "sections": [
+        {
+          "title": "What the article says about fit",
+          "items": [
+            "The article describes a comfortable fit as one that lets the nipple move freely. It lists rubbing, pain and a large amount of surrounding tissue being pulled into the tunnel as possible fit problems."
+          ]
+        },
+        {
+          "title": "Measurement and sizing",
+          "items": [
+            "The source describes using a millimetre ruler or a sizing gauge with circular openings. It mentions 17, 19, 21, 24 and 27 mm flanges in connection with a third-party range and links to Momcozy’s sizing guide and products.",
+            "Use the sizing instructions supplied for your pump model. A lactation professional can help assess recurring discomfort or pumping difficulties."
+          ]
+        }
+      ]
+    },
+    "de": {
+      "title": "Die passende Größe für die Brusthaube finden",
+      "intro": "Die Brusthaube ist der Teil der Milchpumpe, der an der Brust anliegt. Der Beitrag erklärt, warum die Passform wichtig ist und welche Messhilfen es für die Größe der Brustwarze gibt.",
+      "sections": [
+        {
+          "title": "Woran der Beitrag eine passende Brusthaube erkennt",
+          "items": [
+            "Bei bequemer Passform kann sich die Brustwarze laut Beitrag frei bewegen. Reibung, Schmerzen und stark in den Tunnel gezogenes Gewebe nennt er als mögliche Hinweise auf eine unpassende Größe."
+          ]
+        },
+        {
+          "title": "Messen und Größe bestimmen",
+          "items": [
+            "Der Beitrag beschreibt ein Millimeterlineal und eine Messschablone mit runden Öffnungen. Zu einem Fremdsortiment nennt er Brusthauben in 17, 19, 21, 24 und 27 mm und verlinkt die Größentabelle und Produkte von Momcozy.",
+            "Richten Sie sich nach der Größenanleitung für Ihr Pumpenmodell. Bei wiederkehrenden Beschwerden oder Problemen beim Abpumpen kann eine Stillfachkraft die Passform beurteilen."
+          ]
+        }
+      ]
+    },
+    "fr": {
+      "title": "Choisir la taille de téterelle d’un tire-lait",
+      "intro": "La téterelle est la pièce du tire-lait qui se place contre le sein. L’article explique l’importance de l’ajustement et présente des outils pour mesurer le mamelon.",
+      "sections": [
+        {
+          "title": "Les critères d’ajustement selon l’article",
+          "items": [
+            "Selon l’article, le mamelon peut bouger librement dans une téterelle bien ajustée. Les frottements, la douleur et une grande quantité de tissu aspirée dans le tunnel sont présentés comme des signes possibles de mauvais ajustement."
+          ]
+        },
+        {
+          "title": "Mesure et choix de la taille",
+          "items": [
+            "L’article décrit deux outils, une règle graduée en millimètres et un gabarit percé d’ouvertures circulaires. Il cite des téterelles de 17, 19, 21, 24 et 27 mm en lien avec une gamme tierce et renvoie au guide des tailles et aux produits de Momcozy.",
+            "Suivez les indications de taille propres à votre modèle de tire-lait. Un professionnel de l’allaitement peut vous aider en cas d’inconfort persistant ou de difficultés à tirer votre lait."
+          ]
+        }
+      ]
+    }
+  },
+  "/blogs/news/test-2": {
+    "en": {
+      "title": "Three experiences from postpartum recovery",
+      "intro": "A first-person account reflects on physical healing, the early days of breastfeeding and the isolation that can come with overnight care.",
+      "sections": [
+        {
+          "title": "Recovering after childbirth",
+          "items": [
+            "The writer recalls receiving stitches for perineal tears after both vaginal births and learning about care from a postpartum nurse. The care routine described reflects the writer’s own experience."
+          ]
+        },
+        {
+          "title": "Learning to breastfeed",
+          "items": [
+            "The writer recounts painful early feeds and describes help from a hospital lactation consultant and other parents. The original also promotes Momcozy nursing products."
+          ]
+        },
+        {
+          "title": "Company in the early weeks",
+          "items": [
+            "The writer found overnight care less isolating after talking to a partner and exchanging nighttime messages with friends who also had newborns."
+          ]
+        }
+      ]
+    },
+    "de": {
+      "title": "Drei Erfahrungen aus dem Wochenbett",
+      "intro": "In diesem persönlichen Bericht geht es um die körperliche Erholung, die ersten Stillversuche und das Gefühl der Einsamkeit bei der nächtlichen Versorgung eines Neugeborenen.",
+      "sections": [
+        {
+          "title": "Erholung nach der Geburt",
+          "items": [
+            "Die Autorin erinnert sich an Dammrisse, die nach beiden vaginalen Geburten genäht wurden, und an die Anleitung durch eine Pflegefachkraft im Wochenbett. Die beschriebene Pflege gibt ihre persönliche Erfahrung wieder."
+          ]
+        },
+        {
+          "title": "Stillen lernen",
+          "items": [
+            "Die Autorin berichtet von Schmerzen beim anfänglichen Stillen und von der Unterstützung durch eine Stillberaterin im Krankenhaus und durch andere Eltern. Das Original bewirbt außerdem Stillprodukte von Momcozy."
+          ]
+        },
+        {
+          "title": "Gesellschaft in den ersten Wochen",
+          "items": [
+            "Nach einem Gespräch mit ihrem Partner und durch nächtliche Nachrichten mit befreundeten Eltern von Neugeborenen fühlte sich die Autorin bei der nächtlichen Betreuung weniger allein."
+          ]
+        }
+      ]
+    },
+    "fr": {
+      "title": "Trois expériences après l’accouchement",
+      "intro": "Ce témoignage évoque le rétablissement physique, les débuts de l’allaitement et la solitude parfois ressentie lors des réveils nocturnes.",
+      "sections": [
+        {
+          "title": "Se rétablir après l’accouchement",
+          "items": [
+            "L’autrice revient sur les points de suture après des déchirures du périnée lors de ses deux accouchements par voie basse et sur l’accompagnement reçu d’une infirmière. La routine de soins décrite relève de son expérience personnelle."
+          ]
+        },
+        {
+          "title": "Apprendre à allaiter",
+          "items": [
+            "Elle raconte ses premières tétées douloureuses et l’aide reçue d’une consultante en lactation à l’hôpital ainsi que d’autres parents. L’original fait également la promotion des produits d’allaitement de Momcozy."
+          ]
+        },
+        {
+          "title": "Se sentir entourée dans les premières semaines",
+          "items": [
+            "L’autrice s’est sentie moins seule la nuit après en avoir parlé avec son partenaire et commencé à échanger des messages nocturnes avec des proches qui avaient aussi des nouveau-nés."
+          ]
+        }
+      ]
+    }
+  }
+}
