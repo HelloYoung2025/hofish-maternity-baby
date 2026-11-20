@@ -126,6 +126,14 @@ h1 + .lede { margin-top: 1rem; }
 .prose dl { display: grid; grid-template-columns: max-content 1fr; gap: .5rem 1rem; }
 .prose dt { font-weight: 700; }
 .prose dd { margin: 0; }
+.contents { max-width: 78ch; padding: 1rem 1.25rem; background: var(--soft); border-radius: .55rem; }
+.contents h2 { font-size: 1.04rem; }
+.contents ul { margin-top: .5rem; padding-left: 1.2rem; }
+.prose table { width: 100%; margin-top: .7rem; border-collapse: collapse; font-size: .87rem; }
+.prose th, .prose td { padding: .45rem .55rem; text-align: left; border-bottom: 1px solid var(--border); overflow-wrap: anywhere; }
+.prose thead { background: var(--soft); }
+.prose tbody th { font-weight: 550; }
+.prose td:nth-child(2) { white-space: nowrap; }
 .small, .breadcrumb { color: var(--muted); font-size: .86rem; }
 .small { margin-top: .7rem; }
 .breadcrumb + h1 { margin-top: .7rem; }

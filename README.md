@@ -4,6 +4,8 @@
 
 A multilingual reference to the public HOFISH Maternity & Baby website. The project follows the source site's structure across home, collections, product pages, blog posts, and brand, support, and policy pages. Each entry has an independently written description and links to its source. The initial inventory starts with 59 URLs from the [official XML sitemap](https://www.hofish.com/sitemap.xml), supplemented by routes found in site navigation.
 
+**Browse all 64 pages on GitHub** · [English](docs/en/README.md) · [Deutsch](docs/de/README.md) · [Français](docs/fr/README.md)
+
 ## What HOFISH sells
 
 - **Nursing bras** include seamless, wire-free everyday and sports styles. Selected models have drop-down cups and come in multipacks.
@@ -21,6 +23,7 @@ Requires Python 3.9 or later. No Python packages are required.
 
 ```sh
 python3 scripts/build.py
+python3 scripts/github_docs.py
 python3 scripts/check.py
 python3 -m http.server 8000 --bind 127.0.0.1 --directory dist
 ```
@@ -31,7 +34,7 @@ python3 -m http.server 8000 --bind 127.0.0.1 --directory dist
 
 ## Update the content
 
-Edit the JSON files in [`content/`](content/). Keep the source URL and page identity consistent across English, German, and French. Rebuild and run the checks before opening a pull request. The generated `dist/` directory is excluded from Git.
+Edit the JSON files in [`content/`](content/). Keep the source URL and page identity consistent across English, German, and French. Rebuild both formats and run the checks before opening a pull request. Commit the generated Markdown in [`docs/`](docs/) with the data changes. The HTML build in `dist/` is excluded from Git.
 
 ## Licensing
 

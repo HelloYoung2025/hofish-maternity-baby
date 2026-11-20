@@ -2,57 +2,81 @@
   "/pages/about-us": {
     "en": {
       "title": "About HOFISH",
-      "intro": "HOFISH presents itself as a maternity and baby brand established in 2016, with its original About page focused on customers in the United States.",
+      "intro": "HOFISH describes itself as a maternity and baby brand founded in 2016. Its About page introduces the brand through its work on everyday comfort for mothers in the United States.",
       "sections": [
         {
-          "title": "For pregnancy and nursing",
+          "title": "Brand focus",
           "items": [
-            "The brand describes a range that includes nursing and pumping bras, nursing tops, maternity shorts and breast pumps.",
-            "HOFISH says its product development team uses customer feedback to refine day-to-day comfort and design."
+            "The brand says it designs for the ordinary routines of pregnancy, nursing and caring for a baby. It describes style and comfort as priorities alongside product quality.",
+            "Its goal in the brand statement is to make these products available to more mothers."
           ]
         },
         {
-          "title": "For babies and families",
+          "title": "Maternity products and the store catalog",
           "items": [
-            "The About page also mentions feeding products, children's toys and stroller organizers. Browse the collections to see the current catalog."
+            "The About page names nursing and pumping bras, nursing tops, maternity shorts and breast pumps. The documented catalog also includes maternity underwear, leggings and jeans.",
+            "HOFISH's brand description also mentions feeding accessories, children's toys and stroller organizers. The About page describes the brand range, and the catalog shows the individual products documented here."
+          ]
+        },
+        {
+          "title": "How HOFISH develops products",
+          "items": [
+            "HOFISH says its development team collects customers' observations and ideas, then revises design details to address day-to-day needs.",
+            "The brand highlights word-of-mouth recommendations for some of its nursing bras. That description comes from HOFISH's own About page."
           ]
         }
       ]
     },
     "de": {
       "title": "Über HOFISH",
-      "intro": "HOFISH stellt sich als Marke für Schwangerschaft und Babybedarf vor, die seit 2016 besteht. Die ursprüngliche Unternehmensseite richtet sich vor allem an Kundinnen und Kunden in den USA.",
+      "intro": "HOFISH beschreibt sich als 2016 gegründete Marke für werdende und stillende Mütter und für Babys. Auf der Markenseite stellt sie ihre Arbeit an alltagstauglichen Produkten für Mütter in den USA vor.",
       "sections": [
         {
-          "title": "Für Schwangerschaft und Stillzeit",
+          "title": "Worauf die Marke Wert legt",
           "items": [
-            "Die Marke nennt unter anderem Still-BHs, Abpump-BHs, Stilltops, Umstandsshorts und Milchpumpen.",
-            "Nach eigenen Angaben nutzt das Entwicklungsteam Rückmeldungen aus der Kundschaft, um Tragekomfort und Gestaltung im Alltag zu verbessern."
+            "HOFISH entwickelt nach eigener Darstellung Produkte für den Alltag in der Schwangerschaft, beim Stillen und bei der Betreuung eines Babys. Dabei nennt die Marke Komfort, Gestaltung und Produktqualität als Schwerpunkte.",
+            "Die Marke möchte nach eigenen Angaben möglichst viele Mütter erreichen."
           ]
         },
         {
-          "title": "Für Babys und Familien",
+          "title": "Umstandsprodukte und das Katalogsortiment",
           "items": [
-            "Auf der Unternehmensseite werden auch Produkte für die Babyernährung, Kinderspielzeug und Kinderwagen-Organizer genannt. Die Kollektionen zeigen das aktuelle Sortiment."
+            "Die Markenseite nennt Still- und Abpump-BHs, Stilltops, Umstandsshorts und Milchpumpen. Im erfassten Katalog stehen auch Umstandsunterwäsche, Leggings und Jeans.",
+            "In der Übersicht zur Marke werden außerdem Zubehör zum Füttern, Kinderspielzeug und Kinderwagen-Organizer erwähnt. Der Katalog führt die einzelnen hier erfassten Artikel auf."
+          ]
+        },
+        {
+          "title": "Wie HOFISH Produkte entwickelt",
+          "items": [
+            "Laut HOFISH sammelt das Entwicklungsteam Rückmeldungen und Ideen von Kundinnen. Diese fließen in Änderungen an den Produktdetails ein.",
+            "Nach eigener Darstellung werden einige Still-BHs von Müttern weiterempfohlen."
           ]
         }
       ]
     },
     "fr": {
       "title": "À propos de HOFISH",
-      "intro": "HOFISH se présente comme une marque de maternité et de puériculture créée en 2016. Sa page de présentation s’adresse principalement à la clientèle des États-Unis.",
+      "intro": "HOFISH se présente comme une marque de maternité et de puériculture créée en 2016. Sa page de présentation met l’accent sur le confort au quotidien pour les mères aux États-Unis.",
       "sections": [
         {
-          "title": "Pour la grossesse et l’allaitement",
+          "title": "Priorités de la marque",
           "items": [
-            "La marque présente notamment des soutiens-gorge d’allaitement et de tirage, des hauts d’allaitement, des shorts de grossesse et des tire-laits.",
-            "HOFISH indique que son équipe de développement s’appuie sur les retours de sa clientèle pour améliorer le confort et la conception des produits au quotidien."
+            "La marque dit concevoir des produits pour les gestes du quotidien pendant la grossesse, l’allaitement et les soins au bébé. Elle cite le confort, le style et la qualité parmi ses priorités.",
+            "HOFISH indique vouloir rendre ses produits accessibles au plus grand nombre de mères."
           ]
         },
         {
-          "title": "Pour les bébés et les familles",
+          "title": "Produits de maternité et catalogue",
           "items": [
-            "La présentation mentionne aussi des accessoires pour les repas de bébé, des jouets et des organiseurs de poussette. Les collections présentent l’offre actuelle."
+            "La présentation cite les soutiens-gorge d’allaitement et de tirage, les hauts d’allaitement, les shorts de grossesse et les tire-laits. Le catalogue recensé comprend aussi des sous-vêtements, des leggings et des jeans de grossesse.",
+            "La marque évoque également les accessoires pour les repas de bébé, les jouets et les rangements pour poussette. Le catalogue donne accès aux articles recensés dans le projet."
+          ]
+        },
+        {
+          "title": "Développement des produits",
+          "items": [
+            "HOFISH explique que son équipe recueille les besoins et les observations des clientes, puis revoit les détails des produits en conséquence.",
+            "La marque indique que certaines mères se recommandent ses soutiens-gorge d’allaitement. Cette appréciation provient de la présentation de HOFISH."
           ]
         }
       ]
@@ -61,57 +85,81 @@
   "/pages/contact": {
     "en": {
       "title": "Contact HOFISH",
-      "intro": "Reach HOFISH customer service by email, telephone or the form on the official store.",
+      "intro": "Contact the HOFISH store about a product, order, delivery or return through its official customer service channels.",
       "sections": [
         {
-          "title": "Customer service",
+          "title": "Email and telephone",
           "items": [
-            "Email contact@hofish.net or call +86 18059889045.",
-            "HOFISH lists customer service availability from Monday to Friday."
+            "Email contact@hofish.net or call +86 18059889045. HOFISH lists weekday availability, Monday through Friday, and gives no hours on the contact page.",
+            "For a product question, give the item name and the size or color you are asking about. For an order question, include the order reference and a short description of the issue."
           ]
         },
         {
-          "title": "Online form",
+          "title": "Send a message using the store form",
           "items": [
-            "The official form asks for your name, email address and message."
+            "Open the original HOFISH contact page, enter your name, email address and message, then submit the form there.",
+            "Use an email address where HOFISH can reply. The contact page does not publish a response-time estimate."
+          ]
+        },
+        {
+          "title": "Find the right service page",
+          "items": [
+            "Use Order tracking for a parcel that has shipped. For return instructions or an incorrect item, see the refund page and confirm the applicable terms with HOFISH.",
+            "For the recalled HF19HY mattress, use the dedicated recall page and the telephone number or email address in the CPSC notice."
           ]
         }
       ]
     },
     "de": {
       "title": "Kontakt zu HOFISH",
-      "intro": "Den HOFISH-Kundenservice erreichen Sie per E-Mail, telefonisch oder über das Formular im offiziellen Shop.",
+      "intro": "Bei Fragen zu Produkten, Bestellungen, Lieferungen oder Rückgaben erreichen Sie den HOFISH-Kundendienst über die offiziellen Kontaktwege.",
       "sections": [
         {
-          "title": "Kundenservice",
+          "title": "E-Mail und Telefon",
           "items": [
-            "Schreiben Sie an contact@hofish.net oder rufen Sie unter +86 18059889045 an.",
-            "HOFISH gibt als Erreichbarkeit des Kundenservice Montag bis Freitag an."
+            "Schreiben Sie an contact@hofish.net oder rufen Sie +86 18059889045 an. HOFISH nennt Montag bis Freitag als Servicetage und veröffentlicht auf der Kontaktseite keine Uhrzeiten.",
+            "Nennen Sie bei Produktfragen den Artikel und die betreffende Größe oder Farbe. Geben Sie bei Bestellfragen die Bestellreferenz und eine kurze Beschreibung des Anliegens an."
           ]
         },
         {
-          "title": "Onlineformular",
+          "title": "Eine Nachricht über das Shopformular senden",
           "items": [
-            "Das offizielle Formular fragt nach Ihrem Namen, Ihrer E-Mail-Adresse und Ihrer Nachricht."
+            "Öffnen Sie die originale Kontaktseite von HOFISH, geben Sie Ihren Namen, Ihre E-Mail-Adresse und die Nachricht ein und senden Sie das Formular dort ab.",
+            "Verwenden Sie eine E-Mail-Adresse, unter der der Kundendienst Sie erreichen kann. Auf der Kontaktseite wird keine Antwortfrist genannt."
+          ]
+        },
+        {
+          "title": "Die passende Serviceseite finden",
+          "items": [
+            "Den Status einer bereits versandten Sendung finden Sie in der Sendungsverfolgung. Bei Rückgaben oder einem falsch gelieferten Artikel sehen Sie in die Rückgabebedingungen und klären den konkreten Ablauf mit HOFISH.",
+            "Bei der zurückgerufenen Matratze HF19HY gelten die eigenen Kontaktangaben für den Rückruf in der CPSC-Meldung."
           ]
         }
       ]
     },
     "fr": {
       "title": "Contacter HOFISH",
-      "intro": "Vous pouvez joindre le service client de HOFISH par courriel, par téléphone ou via le formulaire de la boutique officielle.",
+      "intro": "Pour une question sur un produit, une commande, une livraison ou un retour, utilisez les coordonnées officielles du service client HOFISH.",
       "sections": [
         {
-          "title": "Service client",
+          "title": "Adresse électronique et téléphone",
           "items": [
-            "Écrivez à contact@hofish.net ou appelez le +86 18059889045.",
-            "HOFISH indique que son service client répond du lundi au vendredi."
+            "Écrivez à contact@hofish.net ou appelez le +86 18059889045. HOFISH indique assurer le service du lundi au vendredi. La page de contact ne précise pas d’horaires.",
+            "Pour une question produit, indiquez l’article et la taille ou la couleur concernée. Pour une question sur une commande, précisez sa référence et décrivez brièvement le problème."
           ]
         },
         {
-          "title": "Formulaire en ligne",
+          "title": "Envoyer un message depuis la boutique",
           "items": [
-            "Le formulaire officiel demande votre nom, votre adresse de courriel et votre message."
+            "Ouvrez la page de contact officielle, renseignez votre nom, votre adresse électronique et votre message, puis envoyez le formulaire sur cette page.",
+            "Utilisez une adresse où vous pouvez recevoir la réponse de HOFISH. La page de contact ne donne pas de délai de réponse."
+          ]
+        },
+        {
+          "title": "Choisir la bonne page d’assistance",
+          "items": [
+            "Pour un colis expédié, consultez le suivi de commande. Pour renvoyer un article ou signaler une erreur, lisez la politique de retour et confirmez les modalités avec HOFISH.",
+            "Pour le matelas HF19HY rappelé, consultez la page de rappel et utilisez les coordonnées indiquées dans l’avis de la CPSC."
           ]
         }
       ]
@@ -120,69 +168,84 @@
   "/pages/delivery": {
     "en": {
       "title": "Delivery rates and estimates",
-      "intro": "HOFISH's Delivery page lists three shipping methods. The store's other shipping pages publish different rates and estimates. Check your destination and current options at checkout.",
+      "intro": "The separate HOFISH Delivery page publishes three shipping methods for maternity wear. Other HOFISH shipping pages show different prices and estimated timeframes.",
       "sections": [
         {
-          "title": "Rates listed on the Delivery page",
+          "title": "Shipping methods and published estimates",
           "items": [
-            "Standard shipping costs US$5.99, with estimated arrival in 6–12 business days.",
-            "Express shipping costs US$8.99, with estimated arrival in 3–4 business days.",
-            "Priority shipping costs US$15.99, with estimated arrival in 1–3 business days.",
-            "The table separately lists 1–2 business days of estimated processing for all three methods."
+            "Standard shipping is USD 5.99, with estimated arrival in 6–12 business days. The table shows a processing estimate of 1–2 business days.",
+            "Express shipping is USD 8.99, with estimated arrival in 3–4 business days. The processing estimate is 1–2 business days.",
+            "Priority shipping is USD 15.99, with estimated arrival in 1–3 business days. The processing estimate is 1–2 business days."
           ]
         },
         {
-          "title": "When an order is processed",
+          "title": "Packing and processing",
           "items": [
-            "HOFISH packs and ships on weekdays and says most orders leave within 48 hours. Orders placed on weekends and some holidays are handled within the following two business days.",
-            "Incomplete payment details can add two business days. Out-of-stock items can add five business days.",
-            "Shipping rates use the order subtotal before tax and shipping. HOFISH chooses a carrier based on the delivery address."
+            "The page says packages are prepared and dispatched Monday through Friday and most ship within 48 hours after ordering.",
+            "Weekend and selected holiday orders are processed within the next two business days. Missing or inaccurate payment information may add two business days. Out-of-stock items may add five business days."
+          ]
+        },
+        {
+          "title": "What determines the charge and the carrier",
+          "items": [
+            "The order subtotal before tax and shipping is used to calculate the rate. HOFISH says it chooses the carrier according to the delivery address.",
+            "The footer's Shipping Delivery page instead quotes destination-specific charges and a 3–5 business day transit estimate. The alternate Shipping policy gives another timeline. Review the shipping price and timing offered at checkout."
           ]
         }
       ]
     },
     "de": {
       "title": "Versandkosten und Lieferzeiten",
-      "intro": "Auf seiner Lieferseite nennt HOFISH drei Versandarten. Andere Versandseiten des Shops geben abweichende Preise und Zeiten an. Die aktuellen Optionen für Ihre Lieferadresse sehen Sie im Bestellvorgang.",
+      "intro": "Die separate HOFISH-Seite Delivery führt drei Versandarten für Umstandskleidung auf. Andere Seiten des Shops nennen abweichende Preise und Lieferzeiten.",
       "sections": [
         {
-          "title": "Preise laut Lieferseite",
+          "title": "Versandarten und genannte Schätzzeiten",
           "items": [
-            "Standardversand kostet 5,99 USD, mit voraussichtlicher Zustellung in 6–12 Werktagen.",
-            "Expressversand kostet 8,99 USD, mit voraussichtlicher Zustellung in 3–4 Werktagen.",
-            "Priority-Versand kostet 15,99 USD, mit voraussichtlicher Zustellung in 1–3 Werktagen.",
-            "Für alle drei Versandarten weist die Tabelle zusätzlich eine geschätzte Bearbeitungszeit von 1–2 Werktagen aus."
+            "Standardversand kostet 5,99 USD. Die Seite schätzt die Ankunft auf 6–12 Werktage und weist 1–2 Werktage Bearbeitungszeit aus.",
+            "Expressversand kostet 8,99 USD. Die Seite schätzt die Ankunft auf 3–4 Werktage und weist 1–2 Werktage Bearbeitungszeit aus.",
+            "Prioritätsversand kostet 15,99 USD. Die Seite schätzt die Ankunft auf 1–3 Werktage und weist 1–2 Werktage Bearbeitungszeit aus."
           ]
         },
         {
-          "title": "Bearbeitung von Bestellungen",
+          "title": "Verpacken und Bearbeiten",
           "items": [
-            "HOFISH verpackt und versendet Bestellungen von Montag bis Freitag und nennt für die meisten Bestellungen einen Versand innerhalb von 48 Stunden. Bestellungen an Wochenenden und bestimmten Feiertagen werden innerhalb der folgenden zwei Werktage bearbeitet.",
-            "Unvollständige Zahlungsangaben können die Bearbeitung um zwei Werktage verzögern. Nicht vorrätige Artikel können weitere fünf Werktage erfordern.",
-            "Für die Versandkosten zählt der Warenwert vor Steuern und Versand. HOFISH wählt den Versanddienstleister anhand der Lieferadresse."
+            "Laut Seite verpackt und versendet HOFISH montags bis freitags. Die meisten Bestellungen verlassen das Lager innerhalb von 48 Stunden nach Bestellung.",
+            "Am Wochenende und an bestimmten Feiertagen eingegangene Bestellungen werden innerhalb der folgenden zwei Werktage bearbeitet. Fehlende oder fehlerhafte Zahlungsangaben können zwei Werktage hinzufügen. Bei nicht lagernden Artikeln können fünf Werktage hinzukommen."
+          ]
+        },
+        {
+          "title": "Berechnung der Gebühr und Auswahl des Versanddienstes",
+          "items": [
+            "Grundlage für die Berechnung ist der Bestellwert vor Steuern und Versand. HOFISH gibt an, den Versanddienst je nach Lieferadresse auszuwählen.",
+            "Die Versandseite im Footer nennt zielabhängige Gebühren und 3–5 Werktage Transportzeit. Die alternative Versandrichtlinie nennt wiederum andere Fristen. Prüfen Sie Preis und Laufzeit im Bestellvorgang."
           ]
         }
       ]
     },
     "fr": {
       "title": "Tarifs et délais de livraison",
-      "intro": "La page Livraison de HOFISH présente trois modes d’expédition. D’autres pages de la boutique indiquent des tarifs et des délais différents. Vérifiez les options actuelles pour votre adresse lors de la commande.",
+      "intro": "La page Delivery de HOFISH présente trois modes de livraison pour les vêtements de grossesse. Les autres pages de livraison de la boutique donnent des tarifs et des délais différents.",
       "sections": [
         {
-          "title": "Tarifs indiqués sur la page Livraison",
+          "title": "Modes de livraison et estimations publiées",
           "items": [
-            "L’envoi standard coûte 5,99 USD, pour une livraison estimée sous 6 à 12 jours ouvrés.",
-            "L’envoi express coûte 8,99 USD, pour une livraison estimée sous 3 à 4 jours ouvrés.",
-            "L’envoi prioritaire coûte 15,99 USD, pour une livraison estimée sous 1 à 3 jours ouvrés.",
-            "Le tableau indique séparément un délai de traitement de 1 à 2 jours ouvrés pour les trois modes d’expédition."
+            "La livraison standard coûte 5,99 USD. L’arrivée est estimée à 6–12 jours ouvrés, pour un délai de traitement affiché de 1–2 jours ouvrés.",
+            "La livraison express coûte 8,99 USD. L’arrivée est estimée à 3–4 jours ouvrés, pour un délai de traitement affiché de 1–2 jours ouvrés.",
+            "La livraison prioritaire coûte 15,99 USD. L’arrivée est estimée à 1–3 jours ouvrés, pour un délai de traitement affiché de 1–2 jours ouvrés."
           ]
         },
         {
-          "title": "Traitement des commandes",
+          "title": "Préparation et traitement",
           "items": [
-            "HOFISH prépare et expédie les commandes du lundi au vendredi et indique que la plupart partent sous 48 heures. Les commandes passées le week-end ou certains jours fériés sont traitées dans les deux jours ouvrés suivants.",
-            "Des informations de paiement incomplètes peuvent ajouter deux jours ouvrés. Un article en rupture de stock peut ajouter cinq jours ouvrés.",
-            "Les frais sont calculés à partir du sous-total hors taxes et hors frais de livraison. HOFISH choisit le transporteur en fonction de l’adresse de livraison."
+            "D’après cette page, HOFISH prépare les colis du lundi au vendredi et expédie la plupart des commandes sous 48 heures.",
+            "Les commandes passées le week-end ou certains jours fériés sont traitées dans les deux jours ouvrés qui suivent. Un problème dans les informations de paiement peut ajouter deux jours ouvrés. Un article en rupture peut en ajouter cinq."
+          ]
+        },
+        {
+          "title": "Calcul des frais et choix du transporteur",
+          "items": [
+            "Le prix est calculé à partir du sous-total avant taxes et frais d’expédition. HOFISH indique choisir le transporteur en fonction de l’adresse de livraison.",
+            "La page de livraison liée en pied de page donne des tarifs par destination et estime le transit à 3–5 jours ouvrés. Une autre politique donne des délais différents. Vérifiez les frais et le délai proposés lors de la commande."
           ]
         }
       ]
@@ -191,60 +254,117 @@
   "/pages/faqs": {
     "en": {
       "title": "Frequently asked questions",
-      "intro": "Find information about HOFISH products and orders. The FAQ page on the storefront currently contains sample questions about golf clubs.",
+      "intro": "This guide answers common HOFISH catalog and order questions using the relevant official product and support pages. The original FAQ body contains golf club template copy.",
       "sections": [
         {
-          "title": "Products and sizing",
+          "title": "Where do I find products and sizing?",
           "items": [
-            "Check the product description and variant selector for the features, sizes and colours of the style you are considering.",
-            "The size guide includes a model-specific example for the three-pack of seamless deep V nursing bras."
+            "The catalog groups nursing bras, hands-free pumping bras, nursing camisoles, maternity underwear and bottoms. Each item shows its listed options and any fabric, care or fitting details available from its source.",
+            "The general Size Chart page does not show a table. The size guide gives a model-specific example for the Deep-V seamless nursing bra three-pack. Check the exact product before comparing sizes across styles."
           ]
         },
         {
-          "title": "Orders and support",
+          "title": "How can I check if my pump fits a bra?",
           "items": [
-            "Use the store’s Order tracking page for a shipment update.",
-            "Check the shipping and refund pages for terms that apply to your order. Email contact@hofish.net with product or order questions."
+            "Open the exact pumping bra page and check how it holds the flange or wearable pump. The designs include overlapping fabric panels and zip openings.",
+            "Compatibility depends on the bra and pump setup. Check any model or flange names the product page gives and contact HOFISH if you need confirmation."
+          ]
+        },
+        {
+          "title": "Where is my parcel?",
+          "items": [
+            "Use the tracking number from the shipping notice on the official Order tracking page. For a missing tracking number, contact HOFISH with the order reference."
+          ]
+        },
+        {
+          "title": "Which delivery or return terms apply?",
+          "items": [
+            "Delivery and shipping pages give different rates and timings. Check the shipping options shown at checkout for your destination.",
+            "The footer return page and the separate Shopify policy use different instructions and date references. Ask HOFISH which one applies before sending an item back."
+          ]
+        },
+        {
+          "title": "How can I reach HOFISH?",
+          "items": [
+            "Email contact@hofish.net, call the telephone number on the Contact page, or use the official store form. For an HF19HY mattress, see the dedicated recall page."
           ]
         }
       ]
     },
     "de": {
       "title": "Häufig gestellte Fragen",
-      "intro": "Hier finden Sie Informationen zu HOFISH-Produkten und Bestellungen. Die FAQ-Seite im Shop enthält derzeit Beispielfragen zu Golfschlägern.",
+      "intro": "Diese Fragen zum HOFISH-Sortiment und zu Bestellungen werden aus den offiziellen Produkt- und Serviceseiten beantwortet. Der Originaltext im FAQ-Bereich stammt aus einer Vorlage für Golfschläger.",
       "sections": [
         {
-          "title": "Produkte und Größen",
+          "title": "Wo stehen Angaben zu Produkten und Größen?",
           "items": [
-            "In der Produktbeschreibung und im Auswahlmenü finden Sie die Merkmale, Größen und Farben des jeweiligen Modells.",
-            "Der Größenratgeber enthält ein Beispiel für den Dreierpack nahtloser Still-BHs mit tiefem V-Ausschnitt."
+            "Im Katalog stehen Still-BHs, Abpump-BHs, Stilltops, Umstandsunterwäsche und Umstandshosen. Die Artikelseiten führen die auswählbaren Varianten sowie verfügbare Material-, Pflege- und Passformangaben auf.",
+            "Die allgemeine Größenseite zeigt keine Tabelle. In der Größenübersicht gibt es ein konkretes Beispiel für den nahtlosen Deep-V-Still-BH im Dreierpack. Prüfen Sie die Produktseite, wenn Sie Größen verschiedener Modelle vergleichen."
           ]
         },
         {
-          "title": "Bestellungen und Kundenservice",
+          "title": "Passt meine Milchpumpe zum BH?",
           "items": [
-            "Prüfen Sie den Sendungsstatus auf der Seite zur Bestellverfolgung im Shop.",
-            "Die Versand- und Erstattungsseiten erläutern die Bedingungen für Ihre Bestellung. Fragen zu Produkten und Bestellungen können Sie an contact@hofish.net richten."
+            "Sehen Sie beim betreffenden Abpump-BH nach, wie er die Brusthaube oder die tragbare Pumpe hält. Zu den Bauweisen zählen überlappende Stofflagen und Reißverschlussöffnungen.",
+            "Die Eignung hängt vom BH und der verwendeten Milchpumpe ab. Prüfen Sie die Modell- und Brusthaubenangaben auf der Produktseite und fragen Sie bei Bedarf bei HOFISH nach."
+          ]
+        },
+        {
+          "title": "Wo ist mein Paket?",
+          "items": [
+            "Geben Sie die Nummer aus der Versandmitteilung auf der offiziellen Seite zur Sendungsverfolgung ein. Fehlt die Nummer, fragen Sie HOFISH unter Angabe der Bestellreferenz."
+          ]
+        },
+        {
+          "title": "Welche Versand- oder Rückgabebedingungen gelten?",
+          "items": [
+            "Die Versandseiten nennen unterschiedliche Preise und Fristen. Maßgebliche Versandangebote für das Ziel sehen Sie im Bestellvorgang.",
+            "Die Rückgabeseite im Shop-Footer und die separate Shopify-Richtlinie nennen unterschiedliche Schritte und Fristbeginne. Klären Sie vor der Rücksendung mit HOFISH, welche Bedingungen gelten."
+          ]
+        },
+        {
+          "title": "Wie erreiche ich HOFISH?",
+          "items": [
+            "Schreiben Sie an contact@hofish.net, rufen Sie die auf der Kontaktseite genannte Nummer an oder verwenden Sie das offizielle Shopformular. Zur Matratze HF19HY gibt es eine eigene Rückrufseite."
           ]
         }
       ]
     },
     "fr": {
       "title": "Questions fréquentes",
-      "intro": "Retrouvez les informations sur les produits et les commandes HOFISH. La page de questions fréquentes de la boutique affiche actuellement des exemples portant sur des clubs de golf.",
+      "intro": "Ces réponses aux questions sur le catalogue et les commandes HOFISH s’appuient sur les fiches produits et les pages d’assistance officielles. Le corps de la FAQ d’origine contient le texte d’un modèle consacré à des clubs de golf.",
       "sections": [
         {
-          "title": "Produits et tailles",
+          "title": "Où trouver les produits et les tailles ?",
           "items": [
-            "La description et le menu des variantes indiquent les caractéristiques, tailles et coloris du modèle qui vous intéresse.",
-            "Le guide des tailles donne un exemple pour le lot de trois soutiens-gorge d’allaitement sans coutures à col V profond."
+            "Le catalogue regroupe les soutiens-gorge d’allaitement, les soutiens-gorge de tirage mains libres, les débardeurs d’allaitement, les sous-vêtements et les bas de grossesse. Chaque fiche affiche les variantes et les indications de matière, d’entretien ou de coupe disponibles dans la source.",
+            "La page générale des tailles n’affiche pas de tableau. Le guide donne un exemple propre au lot de trois soutiens-gorge d’allaitement sans coutures à décolleté en V. Consultez la fiche précise avant de comparer les tailles de plusieurs modèles."
           ]
         },
         {
-          "title": "Commandes et assistance",
+          "title": "Mon tire-lait convient-il au soutien-gorge ?",
           "items": [
-            "Consultez la page de suivi des commandes de la boutique pour connaître l’état de votre envoi.",
-            "Les pages sur la livraison et le remboursement présentent les conditions applicables à votre commande. Pour vos questions concernant un produit ou une commande, écrivez à contact@hofish.net."
+            "Regardez sur la fiche du modèle comment le soutien-gorge maintient la téterelle ou un tire-lait portable. Les modèles du catalogue utilisent notamment des couches de tissu ou des ouvertures à glissière.",
+            "La compatibilité dépend du soutien-gorge et du matériel de tirage. Vérifiez les références de modèles ou de téterelles éventuellement indiquées, puis demandez une confirmation à HOFISH si nécessaire."
+          ]
+        },
+        {
+          "title": "Où est mon colis ?",
+          "items": [
+            "Saisissez le numéro de suivi figurant dans la notification d’expédition sur la page de suivi officielle. Si vous ne retrouvez pas le numéro, écrivez à HOFISH avec la référence de commande."
+          ]
+        },
+        {
+          "title": "Quelles conditions de livraison ou de retour s’appliquent ?",
+          "items": [
+            "Les pages de livraison donnent des tarifs et des estimations différents. Vérifiez les options proposées pour votre destination lors de la commande.",
+            "La page de retour du pied de page et la politique Shopify distincte donnent des instructions et des dates de départ différentes. Confirmez la règle applicable auprès de HOFISH avant l’envoi."
+          ]
+        },
+        {
+          "title": "Comment joindre HOFISH ?",
+          "items": [
+            "Écrivez à contact@hofish.net, appelez le numéro de la page de contact ou utilisez le formulaire officiel. Pour le matelas HF19HY, consultez la page dédiée au rappel."
           ]
         }
       ]
@@ -253,63 +373,108 @@
   "/pages/hofish-mattresses-recalls": {
     "en": {
       "title": "HOFISH mattress recall",
-      "intro": "Stop using an affected mattress immediately. The U.S. Consumer Product Safety Commission (CPSC) announced recall 21-097 on March 17, 2021, because the mattresses failed the federal flammability standard and pose a fire hazard.",
+      "intro": "Stop using an affected mattress immediately. The U.S. Consumer Product Safety Commission (CPSC) issued recall 21-097 on March 17, 2021. The affected mattresses failed the mandatory U.S. flammability standard and pose a fire hazard.",
       "sections": [
         {
-          "title": "Identify the affected mattress",
+          "title": "Identify the affected product",
           "items": [
-            "The recall covers HOFISH 10-inch hybrid mattresses made with Certi-PUR certified foam and pocket springs, in twin, twin XL, full, queen and king sizes.",
-            "Look for a white tag underneath the head end. It reads “Made For HOFISH Inc.” on one side and “Prototype ID: HF19HY” on the other. The recall applies to the HF19HY prototype.",
-            "The affected mattresses were sold exclusively on Amazon.com between September 2019 and January 2020. The CPSC estimated that about 700 units were affected."
+            "The recall covers the HOFISH 10-inch hybrid foam and pocket-spring mattress in Twin, Twin XL, Full, Queen and King. The mattresses were compressed and sold in a box.",
+            "Look for a single-sided mattress with a white quilted top, a blue wave pattern, gray sides and white piping. Use the prototype number on the label to confirm the recall.",
+            "Check the white label on the underside at the head of the mattress. It identifies HOFISH Inc. and lists the prototype number HF19HY. Only that prototype is included."
           ]
         },
         {
-          "title": "Request the repair",
+          "title": "Arrange the free repair",
           "items": [
-            "Contact HOFISH for a free fitted cover designed to bring the mattress into compliance. The CPSC lists 888-731-2419, Monday through Friday from 9 a.m. to 5 p.m. U.S. Mountain Time, and frank@hofish.net.",
-            "The HOFISH page displays a draft dated January 21, 2021. The published CPSC notice gives the final date, recall number and label photos."
+            "Call HOFISH toll-free at 888-731-2419, Monday through Friday from 9 a.m. to 5 p.m. U.S. Mountain Time, or email frank@hofish.net.",
+            "Request the fitted cover that HOFISH supplies at no charge to bring the mattress into compliance. The published CPSC notice shows the mattress and both sides of the label.",
+            "If there is a problem getting the remedy, use the recall complaint form reached from the CPSC notice."
+          ]
+        },
+        {
+          "title": "Sale and production details",
+          "items": [
+            "The CPSC reports about 700 units sold exclusively through Amazon.com from September 2019 through January 2020 at about USD 190.",
+            "Vietnam Glory Home Furnishings Joint Stock Company manufactured the mattresses in Vietnam. HOFISH Inc. of Diamond Bar, California, was the importer.",
+            "The CPSC notice recorded no reported injuries or incidents at the time of publication."
+          ]
+        },
+        {
+          "title": "Which date and reference number to use",
+          "items": [
+            "HOFISH's page displays a draft dated January 21, 2021. Use the final CPSC notice dated March 17, 2021 and reference number 21-097."
           ]
         }
       ]
     },
     "de": {
       "title": "Rückruf von HOFISH-Matratzen",
-      "intro": "Benutzen Sie eine betroffene Matratze ab sofort nicht mehr. Die US-Verbraucherschutzbehörde CPSC veröffentlichte am 17. März 2021 den Rückruf 21-097. Die Matratzen erfüllen die US-Brandschutzanforderungen für Matratzen nicht und stellen eine Brandgefahr dar.",
+      "intro": "Benutzen Sie eine betroffene Matratze ab sofort nicht mehr. Die US-Verbraucherschutzbehörde CPSC veröffentlichte am 17. März 2021 den Rückruf 21-097. Die betroffenen Matratzen erfüllten die verbindliche US-Entflammbarkeitsnorm nicht und stellen eine Brandgefahr dar.",
       "sections": [
         {
-          "title": "Betroffene Matratzen erkennen",
+          "title": "Die betroffene Matratze erkennen",
           "items": [
-            "Betroffen sind 10 Zoll hohe HOFISH-Hybridmatratzen aus Certi-PUR-zertifiziertem Schaumstoff mit Taschenfedern in den US-Größen Twin, Twin XL, Full, Queen und King.",
-            "Prüfen Sie das weiße Etikett an der Unterseite des Kopfendes. Auf einer Seite steht „Made For HOFISH Inc.“, auf der anderen „Prototype ID: HF19HY“. Der Rückruf gilt für Matratzen mit der Kennung HF19HY.",
-            "Die betroffenen Matratzen wurden von September 2019 bis Januar 2020 ausschließlich über Amazon.com verkauft. Laut CPSC sind etwa 700 Stück betroffen."
+            "Betroffen sind etwa 25 cm dicke HOFISH-Hybridmatratzen aus Schaumstoff und Taschenfedern in den US-Größen Twin, Twin XL, Full, Queen und King. Sie wurden komprimiert im Karton verkauft.",
+            "Die einseitige Matratze hat eine weiße, gesteppte Oberseite mit blauen Wellen, graue Seiten und eine weiße Einfassung. Die Prototypnummer am Etikett entscheidet über die Zugehörigkeit zum Rückruf.",
+            "Auf der Unterseite am Kopfende befindet sich ein weißes Etikett. Es nennt HOFISH Inc. und die Prototypnummer HF19HY. Der Rückruf betrifft ausschließlich diesen Prototyp."
           ]
         },
         {
-          "title": "Kostenlose Nachbesserung anfordern",
+          "title": "Die kostenlose Nachrüstung anfordern",
           "items": [
-            "Wenden Sie sich an HOFISH, um einen kostenlosen passgenauen Bezug anzufordern, der die Matratze in Übereinstimmung mit der US-Norm bringen soll. Die CPSC nennt die Telefonnummer 888-731-2419, erreichbar montags bis freitags von 9 bis 17 Uhr US-Mountain-Time, und die E-Mail-Adresse frank@hofish.net.",
-            "Die HOFISH-Seite zeigt einen Entwurf vom 21. Januar 2021. Die veröffentlichte Meldung der CPSC enthält das endgültige Datum, die Rückrufnummer und Fotos des Etiketts."
+            "Rufen Sie HOFISH unter der gebührenfreien US-Nummer 888-731-2419 an, montags bis freitags von 9 bis 17 Uhr US-Mountain-Time. Sie können auch eine E-Mail an frank@hofish.net schreiben.",
+            "Fordern Sie den kostenlosen passgenauen Bezug an, der die Matratze in einen normgerechten Zustand bringen soll. Die CPSC-Meldung zeigt die Matratze und beide Seiten des Etiketts.",
+            "Bei Problemen mit der Abhilfe finden Sie in der CPSC-Meldung ein Beschwerdeformular zum Rückruf."
+          ]
+        },
+        {
+          "title": "Verkauf und Herstellung",
+          "items": [
+            "Laut CPSC wurden rund 700 Matratzen von September 2019 bis Januar 2020 ausschließlich über Amazon.com zu etwa 190 US-Dollar verkauft.",
+            "Vietnam Glory Home Furnishings Joint Stock Company fertigte die Matratzen in Vietnam. HOFISH Inc. aus Diamond Bar in Kalifornien war der Importeur.",
+            "Zum Zeitpunkt der veröffentlichten Meldung waren der CPSC keine Vorfälle oder Verletzungen gemeldet worden."
+          ]
+        },
+        {
+          "title": "Maßgebliche Rückrufdaten",
+          "items": [
+            "HOFISH zeigt einen Entwurf vom 21. Januar 2021. Maßgeblich ist die veröffentlichte CPSC-Meldung vom 17. März 2021 mit der Nummer 21-097."
           ]
         }
       ]
     },
     "fr": {
       "title": "Rappel de matelas HOFISH",
-      "intro": "Cessez immédiatement d’utiliser tout matelas concerné. La Commission américaine de sécurité des produits de consommation (CPSC) a annoncé le rappel 21-097 le 17 mars 2021. Les matelas présentent un risque d’incendie car ils ne respectent pas la norme fédérale d’inflammabilité.",
+      "intro": "Cessez immédiatement d’utiliser un matelas concerné. Le 17 mars 2021, la commission américaine de sécurité des produits de consommation (CPSC) a publié le rappel 21-097. Les matelas concernés ne respectaient pas la norme fédérale d’inflammabilité et présentent un risque d’incendie.",
       "sections": [
         {
-          "title": "Reconnaître le matelas concerné",
+          "title": "Identifier le modèle concerné",
           "items": [
-            "Le rappel vise les matelas hybrides HOFISH de 10 pouces d’épaisseur en mousse certifiée Certi-PUR et à ressorts ensachés, dans les tailles américaines Twin, Twin XL, Full, Queen et King.",
-            "Vérifiez l’étiquette blanche sous la tête du matelas. Elle porte la mention « Made For HOFISH Inc. » d’un côté et « Prototype ID: HF19HY » de l’autre. Le rappel s’applique au prototype HF19HY.",
-            "Les matelas concernés ont été vendus exclusivement sur Amazon.com, de septembre 2019 à janvier 2020. Selon la CPSC, environ 700 unités sont concernées."
+            "Le rappel concerne le matelas hybride HOFISH de 10 pouces, soit environ 25 cm, en mousse et à ressorts ensachés, dans les tailles américaines Twin, Twin XL, Full, Queen et King. Ces matelas ont été vendus comprimés dans un carton.",
+            "Le matelas à une seule face de couchage a un dessus blanc matelassé à motif de vagues bleues, des côtés gris et un bord blanc. Vérifiez le numéro de prototype sur l’étiquette pour confirmer le rappel.",
+            "Cherchez l’étiquette blanche sous le matelas, du côté tête. Elle mentionne HOFISH Inc. et le numéro de prototype HF19HY. Seul ce prototype est concerné."
           ]
         },
         {
-          "title": "Demander la réparation",
+          "title": "Demander la réparation gratuite",
           "items": [
-            "Contactez HOFISH pour obtenir gratuitement une housse ajustée destinée à mettre le matelas en conformité. La CPSC indique le 888-731-2419, du lundi au vendredi de 9 h à 17 h, heure des Rocheuses aux États-Unis, ainsi que l’adresse frank@hofish.net.",
-            "La page HOFISH affiche un projet d’avis daté du 21 janvier 2021. L’avis publié par la CPSC donne la date définitive, le numéro de rappel et les photos de l’étiquette."
+            "Contactez HOFISH au 888-731-2419, numéro gratuit aux États-Unis, du lundi au vendredi de 9 h à 17 h, heure des Rocheuses. Vous pouvez aussi écrire à frank@hofish.net.",
+            "Demandez la housse ajustée fournie gratuitement pour mettre le matelas en conformité. L’avis de la CPSC montre le matelas et les deux faces de l’étiquette.",
+            "En cas de difficulté pour obtenir la réparation, utilisez le formulaire de réclamation accessible depuis l’avis de la CPSC."
+          ]
+        },
+        {
+          "title": "Vente et fabrication",
+          "items": [
+            "D’après la CPSC, environ 700 matelas ont été vendus exclusivement sur Amazon.com de septembre 2019 à janvier 2020, à environ 190 USD.",
+            "Le fabricant vietnamien est Vietnam Glory Home Furnishings Joint Stock Company. HOFISH Inc., établi à Diamond Bar en Californie, était l’importateur.",
+            "À la date de publication de l’avis, la CPSC ne signalait aucun incident ni blessure."
+          ]
+        },
+        {
+          "title": "Date et référence à retenir",
+          "items": [
+            "La page HOFISH présente un projet d’avis daté du 21 janvier 2021. Reportez-vous à l’avis définitif 21-097 publié par la CPSC le 17 mars 2021."
           ]
         }
       ]
@@ -318,39 +483,63 @@
   "/pages/order-tracking": {
     "en": {
       "title": "Order tracking",
-      "intro": "Use the shipment tracking number on the official HOFISH tracking page to look up a parcel.",
+      "intro": "The official HOFISH tracking page looks up shipped parcels using the carrier's tracking number. HOFISH embeds 17TRACK on that page.",
       "sections": [
         {
-          "title": "Look up your parcel",
+          "title": "Look up a parcel",
           "items": [
-            "Enter the carrier's tracking number and start the search. The official page uses 17TRACK to retrieve shipment updates.",
-            "For help locating a tracking number, contact HOFISH at contact@hofish.net."
+            "Find the tracking number in the shipping notice from HOFISH. The search field is for the carrier's number printed on the shipment, which differs from the store order reference.",
+            "Open the original Order tracking page, enter the number, and submit it there. The 17TRACK widget displays any shipment events it has received."
+          ]
+        },
+        {
+          "title": "When tracking is unavailable",
+          "items": [
+            "Check the digits and letters against the shipping notice. The alternate Shipping policy says a new tracking record may take one to three working days to appear.",
+            "If a single order was sent in separate parcels, check the tracking number shown for each parcel in its dispatch notice.",
+            "Email contact@hofish.net if you cannot find the tracking number or need help interpreting the delivery status. Include your order reference so the store can locate the order."
           ]
         }
       ]
     },
     "de": {
       "title": "Sendungsverfolgung",
-      "intro": "Mit der Sendungsnummer können Sie Ihr Paket auf der offiziellen HOFISH-Seite verfolgen.",
+      "intro": "Auf der offiziellen HOFISH-Seite können Sie versandte Pakete über die Sendungsnummer des Versanddienstes verfolgen. Die Seite bindet 17TRACK ein.",
       "sections": [
         {
-          "title": "Paket verfolgen",
+          "title": "Eine Sendung nachschlagen",
           "items": [
-            "Geben Sie die Sendungsnummer des Versanddienstleisters ein und starten Sie die Suche. Die offizielle Seite ruft den Sendungsstatus über 17TRACK ab.",
-            "Falls Sie Ihre Sendungsnummer nicht finden, wenden Sie sich an contact@hofish.net."
+            "Die Sendungsnummer steht in der Versandmitteilung von HOFISH. Das Suchfeld erwartet die Nummer des Versanddienstes und unterscheidet sich von der Bestellreferenz des Shops.",
+            "Öffnen Sie die Originalseite zur Sendungsverfolgung, geben Sie die Nummer ein und starten Sie die Suche. Das 17TRACK-Widget zeigt die verfügbaren Versandmeldungen."
+          ]
+        },
+        {
+          "title": "Wenn noch kein Status verfügbar ist",
+          "items": [
+            "Vergleichen Sie die Ziffern und Buchstaben mit der Versandmitteilung. Laut der alternativen Versandrichtlinie kann eine neue Sendung erst nach ein bis drei Arbeitstagen in der Verfolgung erscheinen.",
+            "Bei mehreren Paketen zu einer Bestellung prüfen Sie die Nummer in der jeweiligen Versandmitteilung.",
+            "Schreiben Sie an contact@hofish.net, falls Sie keine Sendungsnummer finden oder Hilfe zum Lieferstatus benötigen. Geben Sie Ihre Bestellreferenz an."
           ]
         }
       ]
     },
     "fr": {
       "title": "Suivi de commande",
-      "intro": "Consultez le suivi de votre colis sur la page officielle de HOFISH à l’aide de son numéro de suivi.",
+      "intro": "Sur la page de suivi officielle de HOFISH, recherchez un colis expédié avec le numéro du transporteur. La page utilise le service 17TRACK.",
       "sections": [
         {
-          "title": "Suivre le colis",
+          "title": "Consulter le suivi d’un colis",
           "items": [
-            "Saisissez le numéro de suivi du transporteur et lancez la recherche. La page officielle utilise 17TRACK pour afficher les mises à jour.",
-            "Si vous avez besoin d’aide pour trouver le numéro de suivi, écrivez à contact@hofish.net."
+            "Repérez le numéro de suivi dans la notification d’expédition de HOFISH. Le champ de recherche attend le numéro attribué par le transporteur, distinct de la référence de commande de la boutique.",
+            "Ouvrez la page de suivi officielle, saisissez le numéro et lancez la recherche. Le module 17TRACK affiche les événements de livraison disponibles."
+          ]
+        },
+        {
+          "title": "Quand le suivi ne s’affiche pas",
+          "items": [
+            "Vérifiez les chiffres et les lettres dans la notification. La politique de livraison secondaire indique qu’il peut falloir un à trois jours ouvrés pour voir apparaître une nouvelle expédition.",
+            "Si la commande a été répartie en plusieurs colis, vérifiez le numéro de chaque colis dans sa notification d’expédition.",
+            "Si vous ne trouvez pas le numéro ou avez besoin d’aide pour comprendre le statut, écrivez à contact@hofish.net avec votre référence de commande."
           ]
         }
       ]
@@ -362,17 +551,46 @@
       "intro": "The HOFISH footer policy describes how the brand says it handles information from browsing, purchases, support and social media.",
       "sections": [
         {
-          "title": "Collection and use",
+          "title": "Data collected when customers visit or buy",
           "items": [
-            "The policy covers contact and account details, shipping and limited payment information, device and browsing activity, and information available on social networks.",
-            "It lists fulfillment, customer support, security, analytics, personalization and marketing as purposes. It describes sharing with service providers and advertisers, disclosures required by law and the use of cookies, pixels and email-open tracking."
+            "The policy covers contact, shipping, account and demographic details supplied through purchases, account registration or communications. It separately describes automatic device and browsing data, limited payment records and public profile information from social networks.",
+            "Providing personal details is described as voluntary, but declining can prevent purchases or access to features. The policy directs users to social-platform privacy settings for limiting profile access."
           ]
         },
         {
-          "title": "Choices and requests",
+          "title": "Purposes and grounds for processing",
           "items": [
-            "The text covers requests to access, copy, transfer, erase or restrict data, changes to consent, email opt-outs and additional provisions for California residents. It says the site is aimed at people aged 16 or older.",
-            "The footer policy states that HOFISH does not plan to sell data. The separate Shopify privacy page contains an unfinished template with a conflicting conditional passage about sales of personal information."
+            "HOFISH describes fulfilling orders, answering requests, developing products, conducting research and audits, running promotions and protecting customers. It cites legitimate interests, consent that can be withdrawn, and legal duties.",
+            "The marketing section discusses prior express consent for marketing emails, selected partner campaigns and personalization or measurement across third-party sites. Promotions can have additional data terms."
+          ]
+        },
+        {
+          "title": "Sharing, public posts and advertising",
+          "items": [
+            "Listed recipients and uses include business processors, advertisers, investors or other parties conducting analysis, fraud prevention and responding to legal demands. HOFISH also discusses insurance, risk management and protecting or defending its rights.",
+            "Comments and profile details can be visible to other users. The policy says online comments may be distributed outside the site, and third-party advertising services apply their own privacy settings and policies."
+          ]
+        },
+        {
+          "title": "Cookies, pixels and email tracking",
+          "items": [
+            "The text covers server logs, essential and preference cookies, social and advertising cookies, pixel tags and email-open confirmations. It gives examples for sign-in, remembering settings, personalization, analytics and targeted ads.",
+            "The described controls include a first-visit consent prompt and browser settings. The policy warns that disabling cookies can affect purchases or other site functions."
+          ]
+        },
+        {
+          "title": "Security, minors and sensitive information",
+          "items": [
+            "HOFISH describes safeguarding data, using online payment security measures and notifying users promptly of known breaches that could expose them to serious risk. The policy describes limits to transmission security and online exposure.",
+            "The policy describes the website and apps as intended for ages 16 and over and asks readers to report under-16 data for deletion. It also asks readers to avoid submitting sensitive information such as identity numbers, health or genetic data."
+          ]
+        },
+        {
+          "title": "Requests, California and newsletter choices",
+          "items": [
+            "The policy discusses confirmation and access, a free first digital copy, portability, deletion, restrictions, withdrawal of consent and email opt-outs. It describes identity checks, possible fees for further copies and exceptions to deletion.",
+            "For California, the text describes verified access and deletion requests, including verification of residency. It lists identifiers, commercial and browsing information, comments, location, employment and education as possible categories. It says HOFISH does not plan to sell data.",
+            "The newsletter section describes unsubscribing, possible retention of former subscriber records and sharing for ordinary marketing operations. The separate Shopify privacy template includes conflicting conditional sale language and leaves its choices incomplete."
           ]
         }
       ]
@@ -382,17 +600,46 @@
       "intro": "Die im HOFISH-Fußbereich verlinkte Erklärung beschreibt den Umgang mit Informationen aus Websitebesuchen, Käufen, Supportanfragen und sozialen Medien.",
       "sections": [
         {
-          "title": "Erhebung und Verwendung",
+          "title": "Daten bei Besuchen und Einkäufen",
           "items": [
-            "Die Erklärung behandelt Kontakt- und Kontodaten, Versand- und begrenzte Zahlungsdaten, Geräte- und Nutzungsdaten sowie Informationen aus sozialen Netzwerken.",
-            "Als Zwecke nennt sie Bestellabwicklung, Kundendienst, Sicherheit, Analyse, Personalisierung und Marketing. Sie beschreibt die Weitergabe an Dienstleister und Werbepartner, gesetzlich erforderliche Offenlegungen sowie Cookies, Tracking-Pixel und die Erfassung von E-Mail-Öffnungen."
+            "Die Erklärung erfasst Kontakt-, Versand-, Konto- und demografische Angaben aus Einkäufen, Registrierungen und Mitteilungen. Gesondert nennt sie automatisch erhobene Geräte- und Nutzungsdaten, begrenzte Zahlungsdaten sowie öffentlich verfügbare Profilinformationen aus sozialen Netzwerken.",
+            "Die Preisgabe persönlicher Angaben wird als freiwillig beschrieben. Ohne sie können Käufe oder Funktionen eingeschränkt sein. Für den Zugriff auf Profile verweist die Erklärung auf die Privatsphäre-Einstellungen der jeweiligen Plattform."
           ]
         },
         {
-          "title": "Wahlmöglichkeiten und Anfragen",
+          "title": "Zwecke und Grundlagen der Verarbeitung",
           "items": [
-            "Der Text behandelt Auskunft, Kopien, Übertragung, Löschung und Einschränkung der Verarbeitung, Änderungen der Einwilligung, Newsletter-Abmeldung und besondere Regelungen für Kalifornien. Die Website richtet sich laut Erklärung an Personen ab 16 Jahren.",
-            "Die im Fußbereich verlinkte Erklärung gibt an, dass HOFISH keinen Datenverkauf beabsichtigt. Die separate Shopify-Datenschutzerklärung enthält eine unfertige Vorlage mit einer widersprüchlichen, bedingten Passage zum Verkauf personenbezogener Daten."
+            "HOFISH nennt die Bestellabwicklung, die Beantwortung von Anfragen, Produktentwicklung, Forschung und Prüfungen, Werbeaktionen sowie den Schutz von Kundinnen und Kunden. Als Grundlagen nennt die Erklärung berechtigte Interessen, widerrufliche Einwilligung und gesetzliche Pflichten.",
+            "Der Marketingabschnitt behandelt die vorherige ausdrückliche Einwilligung für Werbe-E-Mails, bestimmte Partnerkampagnen sowie Personalisierung oder Erfolgsmessung über Websites Dritter hinweg. Für Werbeaktionen können zusätzliche Datenbedingungen gelten."
+          ]
+        },
+        {
+          "title": "Weitergabe, öffentliche Beiträge und Werbung",
+          "items": [
+            "Genannte Empfänger und Zwecke sind Auftragsverarbeiter, Werbepartner, Investoren oder andere mit Analysen befasste Stellen, Betrugsprävention und gesetzlich erforderliche Auskünfte. HOFISH behandelt auch Versicherung, Risikomanagement und die Wahrung oder Verteidigung eigener Rechte.",
+            "Kommentare und Profildaten können für andere Nutzende sichtbar sein. Kommentare können laut Erklärung auch außerhalb der Website verbreitet werden. Für Werbedienste Dritter gelten deren Datenschutzeinstellungen und -regeln."
+          ]
+        },
+        {
+          "title": "Cookies, Pixel und E-Mail-Tracking",
+          "items": [
+            "Die Erklärung behandelt Serverprotokolle, notwendige Cookies, Präferenz-, Social-Media- und Werbecookies, Pixel-Tags und die Erfassung von E-Mail-Öffnungen. Beispiele sind Anmeldung, gespeicherte Einstellungen, Personalisierung, Analyse und zielgerichtete Werbung.",
+            "Als Einstellmöglichkeiten werden ein Einwilligungshinweis beim ersten Besuch und die Browsereinstellungen genannt. Das Deaktivieren von Cookies kann laut Erklärung den Einkauf oder andere Funktionen beeinträchtigen."
+          ]
+        },
+        {
+          "title": "Sicherheit, Minderjährige und sensible Angaben",
+          "items": [
+            "HOFISH beschreibt Sicherheitsmaßnahmen für Daten und Onlinezahlungen und eine zeitnahe Benachrichtigung bei bekannten Vorfällen, die erhebliche Risiken verursachen können. Die Erklärung nennt Grenzen der Übertragungssicherheit und die Möglichkeit weltweiter Zugänglichkeit im Internet.",
+            "Laut Erklärung sind Website und Apps für Personen ab 16 Jahren gedacht. Daten jüngerer Personen sollen zur Löschung gemeldet werden. Von der Übermittlung sensibler Angaben wie Sozialversicherungsnummern, Gesundheits- oder Gendaten wird abgeraten."
+          ]
+        },
+        {
+          "title": "Anfragen, Kalifornien und Newsletter",
+          "items": [
+            "Die Erklärung behandelt Bestätigung und Auskunft, eine erste kostenlose digitale Kopie, Datenübertragbarkeit, Löschung, Einschränkung, Widerruf und E-Mail-Abmeldung. Sie nennt Identitätsprüfungen, mögliche Gebühren für weitere Kopien und Löschungsausnahmen.",
+            "Für Kalifornien beschreibt der Text Auskunfts- und Löschanfragen mit Prüfung von Identität und Wohnsitz. Er nennt Identifikatoren, Kauf- und Nutzungsinformationen, Kommentare, Standort-, Berufs- und Bildungsdaten als mögliche Kategorien. Er gibt an, dass HOFISH keinen Datenverkauf plant.",
+            "Der Newsletterabschnitt beschreibt die Abmeldung, die mögliche Aufbewahrung früherer Abonnentendaten und die Weitergabe für übliche Marketingaktivitäten. Die gesonderte Shopify-Datenschutzvorlage enthält eine widersprüchliche bedingte Passage zum Datenverkauf und lässt wesentliche Festlegungen offen."
           ]
         }
       ]
@@ -402,17 +649,46 @@
       "intro": "La politique liée en bas du site HOFISH présente le traitement des informations liées à la navigation, aux achats, à l’assistance et aux réseaux sociaux.",
       "sections": [
         {
-          "title": "Collecte et utilisation",
+          "title": "Données recueillies lors d’une visite ou d’un achat",
           "items": [
-            "La politique vise les coordonnées, les données du compte, de livraison et certaines données de paiement, les données de navigation et de l’appareil, ainsi que les informations issues des réseaux sociaux.",
-            "Elle cite l’exécution des commandes, l’assistance, la sécurité, les statistiques, la personnalisation et le marketing. Elle décrit le partage avec des prestataires et des annonceurs, les divulgations légalement requises, les cookies, les pixels et le suivi de l’ouverture des courriels."
+            "La politique couvre les coordonnées et les données de livraison, de compte et de profil démographique transmises lors d’un achat, d’une inscription ou d’un échange. Elle décrit aussi les données de navigation et d’appareil recueillies automatiquement, les données de paiement conservées en quantité limitée et les informations publiques des réseaux sociaux.",
+            "La transmission des renseignements personnels est présentée comme facultative, mais leur absence peut empêcher un achat ou l’accès à certaines fonctions. La politique renvoie aux paramètres de confidentialité des réseaux sociaux pour limiter l’accès aux profils."
           ]
         },
         {
-          "title": "Choix et demandes",
+          "title": "Finalités et fondements du traitement",
           "items": [
-            "Le texte traite des demandes d’accès, de copie, de portabilité, de suppression ou de limitation du traitement, du retrait du consentement, du désabonnement et de dispositions propres à la Californie. Il indique que le site s’adresse aux personnes de 16 ans ou plus.",
-            "La politique liée en bas du site indique que HOFISH ne prévoit pas de vendre les données. La page Shopify distincte contient un modèle inachevé avec un passage conditionnel contradictoire sur la vente de données personnelles."
+            "HOFISH indique traiter les commandes, répondre aux demandes, développer ses produits, mener des recherches et des audits, gérer les promotions et protéger sa clientèle. Le texte invoque les intérêts légitimes, le consentement révocable et les obligations légales.",
+            "La partie marketing prévoit un consentement exprès préalable pour les courriels promotionnels, certaines campagnes de partenaires et la personnalisation ou la mesure sur des sites tiers. Des règles supplémentaires peuvent s’appliquer aux promotions."
+          ]
+        },
+        {
+          "title": "Partage, publications et publicité",
+          "items": [
+            "Le texte cite les prestataires, les annonceurs, les investisseurs ou autres acteurs chargés de l’analyse, ainsi que la lutte contre la fraude et les demandes des autorités. HOFISH évoque aussi l’assurance, la gestion des risques et la défense de ses droits.",
+            "Les commentaires et certains détails de profil peuvent être visibles par d’autres utilisateurs. La politique prévoit une diffusion possible des commentaires en dehors du site. Les services publicitaires tiers appliquent leurs propres paramètres et règles de confidentialité."
+          ]
+        },
+        {
+          "title": "Cookies, pixels et suivi des courriels",
+          "items": [
+            "Le texte décrit les journaux des serveurs, les cookies essentiels et de préférence, les cookies sociaux et publicitaires, les pixels et le suivi de l’ouverture des courriels. Il cite la connexion, la mémorisation des réglages, la personnalisation, l’analyse et le ciblage publicitaire.",
+            "Le texte mentionne une demande de consentement lors de la première visite et les réglages du navigateur. Il signale que le blocage des cookies peut gêner les achats ou d’autres fonctions."
+          ]
+        },
+        {
+          "title": "Sécurité, mineurs et données sensibles",
+          "items": [
+            "HOFISH décrit des mesures de sécurité pour les données et les paiements en ligne ainsi qu’une notification rapide en cas d’incident connu susceptible de présenter un risque grave. Le texte précise les limites de la sécurité des transmissions et la possibilité d’une exposition mondiale sur Internet.",
+            "La politique indique que le site et les applications s’adressent aux personnes d’au moins 16 ans. Elle invite à signaler les données de personnes plus jeunes afin qu’elles soient supprimées et demande d’éviter l’envoi de renseignements sensibles tels que des numéros d’identification, des données de santé ou des données génétiques."
+          ]
+        },
+        {
+          "title": "Demandes, Californie et choix liés à l’infolettre",
+          "items": [
+            "Le texte traite de la confirmation et de l’accès, d’une première copie numérique gratuite, de la portabilité, de l’effacement, de la limitation, du retrait du consentement et du désabonnement. Il évoque la vérification de l’identité, des frais possibles pour les copies suivantes et des exceptions à l’effacement.",
+            "Pour la Californie, le texte décrit les demandes d’accès et d’effacement avec vérification de l’identité et de la résidence. Il énumère parmi les catégories possibles les identifiants, les informations d’achat et de navigation, les commentaires, la localisation, les données professionnelles et les études. HOFISH indique ne pas prévoir de vendre les données.",
+            "La section sur l’infolettre prévoit le désabonnement, la possibilité de conserver d’anciens dossiers d’inscription et le partage pour les opérations marketing courantes. La politique Shopify distincte contient un passage conditionnel contradictoire sur la vente de données et laisse des choix essentiels en suspens."
           ]
         }
       ]
@@ -424,17 +700,50 @@
       "intro": "This is the refund page linked in the storefront footer. Its timing and instructions differ from those on the separate Shopify refund policy. The storefront’s “7 Days Guarantee” badge links to this policy without defining a separate return window.",
       "sections": [
         {
-          "title": "Cancellation and eligibility",
+          "title": "Order cancellations",
           "items": [
-            "This page allows cancellation within 48 hours of ordering and estimates 3–5 business days for the credit to appear. It states a 30-day return window from purchase and also describes possible partial refunds more than 30 days after delivery. The Shopify policy instead gives 30 days from receipt to request a return.",
-            "The page requires unused goods, original packaging and proof of purchase. It excludes some personal-care items and says sale items are ineligible for refunds. It describes separate rules for gifts."
+            "The footer policy gives customers 48 hours after ordering to request cancellation. It estimates another 3–5 business days for the cancellation refund to appear on the original payment method."
           ]
         },
         {
-          "title": "Returns and exchanges",
+          "title": "Return window and item condition",
           "items": [
-            "The page asks customers to contact support@hofish-maternity.com before shipping a return and lists an Amazon Services address in Dallas. It assigns return postage to the customer and describes credits to the original payment method after inspection and approval.",
-            "For a damaged or defective item, this page specifies a 72-hour contact window from arrival. Ask HOFISH to confirm the applicable return window, address and shipping arrangements."
+            "This page measures the 30-day return and exchange window from the purchase date. Its partial-refund paragraph separately mentions goods sent back more than 30 days after delivery. The page leaves the relationship between those deadlines unclear.",
+            "It requires a receipt or other proof of purchase and asks for unused goods in the condition and packaging in which they arrived. It excludes some health and personal-care items and says discounted items do not qualify for refunds.",
+            "A partial refund may apply when a return lacks parts, is damaged or no longer in its original condition for reasons outside the store’s responsibility."
+          ]
+        },
+        {
+          "title": "Return shipping",
+          "items": [
+            "The page directs customers to support@hofish-maternity.com for return arrangements. It lists Amazon.com Services, Inc., 33333 LBJ FWY, Dallas, TX 75241-7203, United States, and tells customers to avoid shipping returns to the manufacturer. Confirm the address with the support team before sending anything.",
+            "The customer pays return postage, and the policy excludes those charges from the refund. For goods worth more than USD 75, it suggests tracking or shipping insurance and states that receipt of the package is unguaranteed."
+          ]
+        },
+        {
+          "title": "Refund decisions and delays",
+          "items": [
+            "The policy describes an email once the return arrives and is examined, followed by an approval or rejection. Approved amounts are credited to the same payment method. It gives a specific processing estimate for cancellations only.",
+            "For a missing credit, it asks the customer to check the account and contact the card issuer and bank before escalating to support@hofish-maternity.com."
+          ]
+        },
+        {
+          "title": "Defective or damaged products",
+          "items": [
+            "The page limits replacements to damaged or defective products and requires contacting support@hofish-maternity.com within 72 hours of delivery. How long a replacement takes to arrive depends on the destination."
+          ]
+        },
+        {
+          "title": "Gifts",
+          "items": [
+            "For a purchase designated as a gift and delivered directly to the recipient, an accepted return leads to gift credit sent to that recipient. The page describes a mailed certificate.",
+            "When the purchase was unmarked as a gift or went to the purchaser to give later, the policy sends the refund to that purchaser."
+          ]
+        },
+        {
+          "title": "Compare the published versions",
+          "items": [
+            "The separate Shopify refund policy counts 30 days from receipt, uses contact@hofish.net and describes a shipping label for accepted returns. Confirm which process applies to the order."
           ]
         }
       ]
@@ -444,17 +753,50 @@
       "intro": "Diese Erstattungsseite ist im Fußbereich des Shops verlinkt. Fristen und Abläufe unterscheiden sich von der separaten Shopify-Rückgaberichtlinie. Das Shop-Siegel „7 Days Guarantee“ verlinkt auf diese Richtlinie und nennt keine eigene Rückgabefrist.",
       "sections": [
         {
-          "title": "Stornierung und Voraussetzungen",
+          "title": "Bestellung stornieren",
           "items": [
-            "Diese Seite ermöglicht eine Stornierung bis 48 Stunden nach Bestellung und nennt 3–5 Werktage bis zur Gutschrift. Sie nennt eine Rückgabefrist von 30 Tagen ab Kauf, aber auch mögliche Teilerstattungen bei einer Rücksendung mehr als 30 Tage nach Lieferung. Die Shopify-Richtlinie nennt 30 Tage ab Erhalt für den Antrag.",
-            "Die Seite verlangt unbenutzte Ware in Originalverpackung und einen Kaufnachweis. Sie schließt bestimmte Körperpflegeprodukte und Erstattungen für reduzierte Artikel aus. Für Geschenke beschreibt sie eigene Regeln."
+            "Die im Fußbereich verlinkte Richtlinie erlaubt eine Stornierung innerhalb von 48 Stunden nach der Bestellung. Für die Gutschrift auf das verwendete Zahlungsmittel rechnet sie mit weiteren 3–5 Werktagen."
           ]
         },
         {
-          "title": "Rückgabe und Umtausch",
+          "title": "Rückgabefrist und Zustand der Ware",
           "items": [
-            "Die Seite bittet vor der Rücksendung um Kontakt unter support@hofish-maternity.com und nennt eine Adresse von Amazon Services in Dallas. Sie legt die Rücksendekosten dem Kunden auf und sieht nach Prüfung und Genehmigung eine Gutschrift auf dem ursprünglichen Zahlungsmittel vor.",
-            "Bei beschädigter oder mangelhafter Ware nennt diese Seite eine Meldefrist von 72 Stunden nach Erhalt. Lassen Sie Rückgabefrist, Adresse und Versandablauf von HOFISH bestätigen."
+            "Die Seite nennt 30 Tage ab Kauf für Rückgabe und Umtausch. In einem eigenen Abschnitt zu Teilerstattungen erwähnt sie außerdem Ware, die mehr als 30 Tage nach Lieferung zurückgeschickt wird. Wie diese Fristen zusammenwirken, bleibt offen.",
+            "Erforderlich sind ein Beleg oder sonstiger Kaufnachweis und unbenutzte Ware im Zustand und in der Verpackung der Lieferung. Bestimmte Gesundheits- und Körperpflegeartikel sind ausgeschlossen. Für reduzierte Artikel sieht die Seite keine Erstattung vor.",
+            "Eine Teilerstattung kann vorgesehen sein, wenn Teile fehlen oder die Ware beschädigt ist oder ihren ursprünglichen Zustand verloren hat, ohne dass der Shop dafür verantwortlich ist."
+          ]
+        },
+        {
+          "title": "Rückversand",
+          "items": [
+            "Für die Rücksendung verweist die Seite an support@hofish-maternity.com. Als Adresse nennt sie Amazon.com Services, Inc., 33333 LBJ FWY, Dallas, TX 75241-7203, USA. Sie weist darauf hin, die Ware nicht an den Hersteller zu schicken. Lassen Sie die richtige Adresse vor dem Versand bestätigen.",
+            "Die Kundschaft trägt das Rückporto. Die Richtlinie schließt dessen Erstattung aus. Bei Ware über 75 USD empfiehlt sie eine verfolgte oder versicherte Sendung und übernimmt keine Garantie für den Eingang."
+          ]
+        },
+        {
+          "title": "Entscheidung und ausstehende Gutschrift",
+          "items": [
+            "Die Richtlinie beschreibt eine E-Mail nach Eingang und Prüfung der Rücksendung, gefolgt von der Entscheidung über die Erstattung. Genehmigte Gutschriften gehen auf das ursprüngliche Zahlungsmittel. Eine genaue Bearbeitungsdauer nennt die Seite nur für Stornierungen.",
+            "Bei fehlender Gutschrift sollen Kundinnen und Kunden zuerst ihr Konto prüfen, dann Kartenanbieter und Bank kontaktieren und sich anschließend an support@hofish-maternity.com wenden."
+          ]
+        },
+        {
+          "title": "Beschädigte oder mangelhafte Produkte",
+          "items": [
+            "Die Seite sieht Ersatz nur für beschädigte oder mangelhafte Produkte vor. Sie verlangt eine Meldung an support@hofish-maternity.com innerhalb von 72 Stunden nach Lieferung. Die Lieferzeit für den Ersatz hängt vom Zielort ab."
+          ]
+        },
+        {
+          "title": "Geschenke",
+          "items": [
+            "Bei einem als Geschenk gekennzeichneten und direkt an die beschenkte Person gelieferten Kauf erhält diese bei akzeptierter Rückgabe ein Guthaben. Die Seite beschreibt dafür einen Gutschein per Post.",
+            "Ohne Kennzeichnung als Geschenk oder bei Lieferung an die kaufende Person zur späteren Übergabe geht die Erstattung an diese Person."
+          ]
+        },
+        {
+          "title": "Unterschiede zwischen den Richtlinien",
+          "items": [
+            "Die separate Shopify-Richtlinie rechnet 30 Tage ab Erhalt, nennt contact@hofish.net und beschreibt ein Versandetikett für akzeptierte Rückgaben. Lassen Sie den Ablauf für Ihre Bestellung bestätigen."
           ]
         }
       ]
@@ -464,17 +806,50 @@
       "intro": "Cette page de remboursement figure en bas de la boutique. Ses délais et ses démarches diffèrent de ceux de la politique Shopify distincte. Le macaron « 7 Days Guarantee » de la boutique renvoie à cette politique sans définir de délai de retour distinct.",
       "sections": [
         {
-          "title": "Annulation et admissibilité",
+          "title": "Annulation de commande",
           "items": [
-            "Cette page permet une annulation dans les 48 heures après la commande et indique un délai de 3 à 5 jours ouvrés pour le crédit. Elle indique 30 jours à compter de l’achat pour un retour, tout en évoquant de possibles remboursements partiels au-delà de 30 jours après la livraison. La politique Shopify accorde 30 jours à partir de la réception pour demander un retour.",
-            "La page exige un article inutilisé, l’emballage d’origine et une preuve d’achat. Elle exclut certains articles de soin et prévoit que les articles soldés ne sont pas remboursables. Elle décrit un traitement particulier pour les cadeaux."
+            "La politique liée en bas du site permet de demander l’annulation dans les 48 heures suivant la commande. Elle estime à 3 à 5 jours ouvrés le délai d’apparition du crédit sur le moyen de paiement initial."
           ]
         },
         {
-          "title": "Retours et échanges",
+          "title": "Délai de retour et état de l’article",
           "items": [
-            "La page demande de contacter support@hofish-maternity.com avant tout envoi et indique une adresse Amazon Services à Dallas. Les frais de retour sont à la charge du client et le remboursement intervient sur le moyen de paiement d’origine après inspection et validation.",
-            "En cas d’article endommagé ou défectueux, cette page fixe un délai de signalement de 72 heures après réception. Demandez à HOFISH de confirmer le délai, l’adresse et le mode d’expédition applicables."
+            "Cette page compte 30 jours à partir de l’achat pour un retour ou un échange. Le passage sur les remboursements partiels mentionne également les articles renvoyés plus de 30 jours après la livraison, sans expliquer comment ces deux délais s’articulent.",
+            "Elle exige un reçu ou une autre preuve d’achat, ainsi qu’un article inutilisé dans son état et son emballage d’origine. Elle exclut certains produits de santé et de soin et indique que les articles soldés sont exclus du remboursement.",
+            "Un remboursement partiel peut s’appliquer si des pièces manquent ou si l’article est endommagé ou a perdu son état d’origine pour une raison dont la boutique n’est pas responsable."
+          ]
+        },
+        {
+          "title": "Envoi du retour",
+          "items": [
+            "La page dirige les clients vers support@hofish-maternity.com pour organiser le retour. Elle indique Amazon.com Services, Inc., 33333 LBJ FWY, Dallas, TX 75241-7203, États-Unis, et demande d’éviter tout envoi au fabricant. Faites confirmer l’adresse avant l’expédition.",
+            "Les frais de retour sont à la charge du client et exclus du remboursement. Au-delà de 75 USD, la page suggère de choisir un envoi suivi ou assuré. Elle ne garantit pas la réception du colis."
+          ]
+        },
+        {
+          "title": "Décision et remboursement en attente",
+          "items": [
+            "La politique prévoit un courriel après réception et contrôle du retour, puis une décision d’acceptation ou de refus. Le crédit approuvé revient sur le moyen de paiement initial. La durée de traitement est chiffrée uniquement pour les annulations.",
+            "En l’absence de crédit, la page demande de vérifier le compte, puis de contacter l’émetteur de la carte et la banque avant d’écrire à support@hofish-maternity.com."
+          ]
+        },
+        {
+          "title": "Produits endommagés ou défectueux",
+          "items": [
+            "La page réserve le remplacement aux produits endommagés ou défectueux et exige un signalement à support@hofish-maternity.com dans les 72 heures suivant la livraison. Le délai d’acheminement du remplacement dépend de la destination."
+          ]
+        },
+        {
+          "title": "Cadeaux",
+          "items": [
+            "Pour un achat marqué comme cadeau et expédié directement à son destinataire, un retour accepté donne droit à un avoir pour cette personne. La page prévoit l’envoi postal d’un bon cadeau.",
+            "Si l’achat n’a pas été marqué comme cadeau ou a transité par la personne qui l’a acheté, le remboursement est adressé à cette personne."
+          ]
+        },
+        {
+          "title": "Différences entre les politiques publiées",
+          "items": [
+            "La politique Shopify distincte compte 30 jours à partir de la réception, indique contact@hofish.net et prévoit une étiquette pour les retours acceptés. Faites confirmer la procédure applicable à votre commande."
           ]
         }
       ]
@@ -483,81 +858,120 @@
   "/pages/shipping-delivery": {
     "en": {
       "title": "Shipping and delivery",
-      "intro": "The shipping page linked from the HOFISH store footer gives destination-based estimates and restrictions. HOFISH's other shipping pages publish different rates and timelines. Confirm availability and charges at checkout.",
+      "intro": "The HOFISH page linked in the store footer sets out handling, transit estimates, country-based prices and destination restrictions. Confirm the rate and available services at checkout.",
       "sections": [
         {
-          "title": "Handling and transit",
+          "title": "Processing and the delivery address",
           "items": [
-            "Handling normally takes 1–2 business days, with preorders handled separately. Verify your address before dispatch because the store says it cannot redirect the parcel once shipped.",
-            "The stated transit estimate is 3–5 business days, excluding weekends and holidays. Rural deliveries can take up to 20 business days. An incorrect address or customs clearance can cause delays."
+            "The stated handling time is one to two business days. The estimate excludes preorders.",
+            "Verify the full delivery address before dispatch. The page says HOFISH cannot redirect the parcel after it is on its way."
           ]
         },
         {
-          "title": "Destination rates",
+          "title": "Transit estimates",
           "items": [
-            "For orders below US$24.90, the page lists US$4.99 for the United States, US$7.50 for Canada and US$4.99 for Germany. Each row shows a 3–5 business day estimate.",
-            "The store footer advertises free shipping over US$24.90. Destination restrictions still apply and the page says rates can change."
+            "The published estimate is three to five business days in transit, excluding weekends and holidays. It allows up to 20 business days for rural destinations.",
+            "Handling adds a separate one to two business days. An invalid address, customs clearance or other events can extend the estimate."
           ]
         },
         {
-          "title": "Exceptions",
+          "title": "Prices by destination",
           "items": [
-            "The page excludes P.O. boxes and APO/FPO addresses from express shipping and assigns customs duties to the customer.",
-            "The store lists restrictions for destinations including France, the United Kingdom and Japan. See the official page for its full list and confirm current availability before ordering."
+            "For an order under USD 24.90, the table shows USD 4.99 for the United States, USD 7.50 for Canada and USD 4.99 for Germany. Each row gives three to five business days.",
+            "The footer advertises free shipping over USD 24.90. The shipping page says rates may change and also sets out destination restrictions."
+          ]
+        },
+        {
+          "title": "Express, customs and country restrictions",
+          "items": [
+            "The page excludes P.O. boxes and U.S. APO/FPO military addresses from express shipping. It says the customer pays customs duties.",
+            "The source lists restrictions for many destinations, including France, the United Kingdom and Japan. It describes the list as non-exhaustive and subject to change. Consult the original list and check what service is available for your destination."
+          ]
+        },
+        {
+          "title": "How the other pages differ",
+          "items": [
+            "The separate Delivery page gives standard, express and priority prices of USD 5.99, USD 8.99 and USD 15.99. The alternate Shipping policy estimates 3–5 business days for fulfillment plus 7–10 for transit. The footer's destination table and the checkout options are separate references."
           ]
         }
       ]
     },
     "de": {
       "title": "Versand und Zustellung",
-      "intro": "Die in der Fußzeile verlinkte HOFISH-Versandseite nennt Lieferzeiten, Preise und Einschränkungen nach Zielort. Andere Versandseiten des Shops enthalten abweichende Angaben. Prüfen Sie Verfügbarkeit und Kosten im Bestellvorgang.",
+      "intro": "Die im Shop-Footer verlinkte HOFISH-Seite nennt Bearbeitungszeiten, Laufzeitschätzungen, Preise nach Lieferland und Einschränkungen für bestimmte Ziele. Prüfen Sie Preis und Versandmöglichkeiten im Bestellvorgang.",
       "sections": [
         {
-          "title": "Bearbeitung und Transport",
+          "title": "Bearbeitung und Lieferadresse",
           "items": [
-            "Die Bearbeitung dauert in der Regel 1–2 Werktage. Für Vorbestellungen gelten andere Zeiten. Prüfen Sie Ihre Adresse vor dem Versand, da HOFISH Pakete nach eigenen Angaben anschließend nicht umleiten kann.",
-            "Der Transport dauert laut dieser Seite 3–5 Werktage ohne Wochenenden und Feiertage. In ländlichen Regionen kann die Lieferung bis zu 20 Werktage dauern. Adressfehler und Zollabfertigung können Verzögerungen verursachen."
+            "Die Seite nennt ein bis zwei Werktage Bearbeitungszeit. Für Vorbestellungen gilt diese Schätzung nicht.",
+            "Kontrollieren Sie vor dem Versand die vollständige Lieferadresse. Laut HOFISH kann ein bereits versandtes Paket nicht umgeleitet werden."
           ]
         },
         {
-          "title": "Preise nach Zielland",
+          "title": "Voraussichtliche Transportzeit",
           "items": [
-            "Für Bestellungen unter 24,90 USD nennt die Seite 4,99 USD für die USA, 7,50 USD für Kanada und 4,99 USD für Deutschland. Für jedes dieser Länder sind 3–5 Werktage angegeben.",
-            "Die Fußzeile wirbt mit kostenlosem Versand bei einem Bestellwert über 24,90 USD. Es gelten weiterhin länderspezifische Beschränkungen. Die Versandkosten können sich ändern."
+            "Die Seite nennt drei bis fünf Werktage Transportzeit ohne Wochenenden und Feiertage. Für ländliche Ziele sind bis zu 20 Werktage vorgesehen.",
+            "Die Bearbeitung dauert zusätzlich ein bis zwei Werktage. Eine ungültige Adresse, die Zollabfertigung oder andere Umstände können die Lieferung verzögern."
           ]
         },
         {
-          "title": "Ausnahmen",
+          "title": "Preise nach Lieferland",
           "items": [
-            "Expressversand ist für Postfächer und US-Militärpostadressen (APO/FPO) ausgeschlossen. Etwaige Zölle trägt laut Seite die Kundschaft.",
-            "HOFISH nennt Lieferbeschränkungen unter anderem für Frankreich, das Vereinigte Königreich und Japan. Die vollständige Liste steht auf der offiziellen Seite. Prüfen Sie die aktuelle Verfügbarkeit vor der Bestellung."
+            "Für Bestellungen unter 24,90 USD nennt die Tabelle 4,99 USD in den USA, 7,50 USD in Kanada und 4,99 USD in Deutschland. Für alle drei Ziele stehen dort drei bis fünf Werktage.",
+            "Der Footer bewirbt kostenlosen Versand bei Bestellungen über 24,90 USD. Laut Versandseite können sich die Preise ändern. Außerdem sind die Einschränkungen nach Lieferziel zu beachten."
+          ]
+        },
+        {
+          "title": "Express, Zoll und Einschränkungen nach Land",
+          "items": [
+            "Expressversand an Postfächer und US-Militäradressen mit APO oder FPO ist laut Seite ausgeschlossen. Zollabgaben trägt laut Richtlinie die Kundschaft.",
+            "Die Quelle nennt Einschränkungen für zahlreiche Länder, darunter Frankreich, das Vereinigte Königreich und Japan. Die Liste ist laut Seite nicht vollständig und kann sich ändern. Sehen Sie in die Originalliste und prüfen Sie die Verfügbarkeit für das konkrete Lieferziel."
+          ]
+        },
+        {
+          "title": "Abweichende Angaben auf anderen Seiten",
+          "items": [
+            "Die separate Seite Delivery nennt 5,99 USD für Standard-, 8,99 USD für Express- und 15,99 USD für Prioritätsversand. Die alternative Versandrichtlinie schätzt 3–5 Werktage Bearbeitung und weitere 7–10 Werktage Transport. Prüfen Sie die Optionen für Ihre Bestellung im Checkout."
           ]
         }
       ]
     },
     "fr": {
       "title": "Expédition et livraison",
-      "intro": "La page d’expédition accessible depuis le pied de page de HOFISH donne des estimations et des restrictions par destination. D’autres pages de la boutique indiquent des tarifs et délais différents. Vérifiez la disponibilité et les frais au moment de commander.",
+      "intro": "La page officielle de HOFISH liée dans le pied de page présente les délais de préparation et d’acheminement, les tarifs par destination et les restrictions. Vérifiez les frais et les services disponibles lors de la commande.",
       "sections": [
         {
-          "title": "Préparation et transport",
+          "title": "Préparation et adresse de livraison",
           "items": [
-            "La préparation prend en général 1 à 2 jours ouvrés. Les précommandes sont traitées séparément. Vérifiez votre adresse avant l’expédition, car HOFISH indique ne pas pouvoir réacheminer le colis une fois parti.",
-            "Le transport est estimé à 3 à 5 jours ouvrés, hors week-ends et jours fériés. En zone rurale, la livraison peut prendre jusqu’à 20 jours ouvrés. Une adresse incorrecte ou le dédouanement peut entraîner des retards."
+            "La page indique un à deux jours ouvrés de préparation. Cette estimation exclut les précommandes.",
+            "Vérifiez l’adresse de livraison complète avant l’expédition. HOFISH indique ne pas pouvoir réacheminer un colis déjà expédié."
+          ]
+        },
+        {
+          "title": "Délais d’acheminement",
+          "items": [
+            "Le délai annoncé est de trois à cinq jours ouvrés hors week-ends et jours fériés. Pour une zone rurale, la page prévoit jusqu’à 20 jours ouvrés.",
+            "Il faut ajouter le délai distinct de préparation d’un à deux jours ouvrés. Une adresse invalide, le dédouanement ou d’autres événements peuvent retarder la livraison."
           ]
         },
         {
           "title": "Tarifs par destination",
           "items": [
-            "Pour les commandes inférieures à 24,90 USD, la page indique 4,99 USD pour les États-Unis, 7,50 USD pour le Canada et 4,99 USD pour l’Allemagne. Le délai annoncé est de 3 à 5 jours ouvrés pour chacun de ces pays.",
-            "Le pied de page annonce la livraison gratuite au-delà de 24,90 USD. Les restrictions par destination restent applicables et les tarifs peuvent évoluer."
+            "Pour une commande inférieure à 24,90 USD, le tableau indique 4,99 USD pour les États-Unis, 7,50 USD pour le Canada et 4,99 USD pour l’Allemagne. Le délai annoncé est de trois à cinq jours ouvrés pour chaque destination.",
+            "Le pied de page annonce la livraison gratuite au-delà de 24,90 USD. La page précise que les tarifs peuvent changer et que certaines destinations sont soumises à des restrictions."
           ]
         },
         {
-          "title": "Exceptions",
+          "title": "Livraison express, douane et destinations restreintes",
           "items": [
-            "L’envoi express exclut les boîtes postales et les adresses militaires américaines APO/FPO. La page indique que les droits de douane sont à la charge du client.",
-            "La boutique cite notamment la France, le Royaume-Uni et le Japon parmi les destinations soumises à des restrictions. Consultez la liste complète sur la page officielle et vérifiez la disponibilité avant de commander."
+            "D’après la page, la livraison express exclut les boîtes postales et les adresses militaires américaines APO/FPO. Les droits de douane sont à la charge du client.",
+            "La source mentionne des restrictions pour de nombreuses destinations, dont la France, le Royaume-Uni et le Japon. La page précise que la liste peut évoluer et n’est pas exhaustive. Consultez la liste d’origine et vérifiez les services disponibles pour votre destination."
+          ]
+        },
+        {
+          "title": "Écarts avec les autres pages de livraison",
+          "items": [
+            "La page Delivery indique 5,99 USD en standard, 8,99 USD en express et 15,99 USD en prioritaire. Une autre politique annonce 3–5 jours ouvrés de préparation et 7–10 jours ouvrés de transit. Vérifiez l’option proposée lors de votre commande."
           ]
         }
       ]
@@ -569,17 +983,35 @@
       "intro": "This alternate shipping page publishes estimates and store names that differ from those in the footer’s Shipping Delivery page. Check the delivery terms shown for your destination at checkout.",
       "sections": [
         {
-          "title": "Processing, delivery and tracking",
+          "title": "Order preparation and transit",
           "items": [
-            "This page advertises free worldwide shipping and estimates 3–5 business days for fulfillment plus 7–10 business days in transit. The footer advertises free shipping for orders above USD 24.90. The Shipping Delivery page gives separate destination rates and shorter estimates.",
-            "An order with backordered or preordered items may arrive in separate shipments. The page says tracking comes by email or text and may take 1–3 working days to appear."
+            "This page advertises free worldwide shipping without identifying the carrier. It gives 3–5 working days on average to prepare the order and another 7–10 business days in transit after dispatch, depending on the destination.",
+            "It says holidays, natural disasters and pandemics may affect the estimates. The storefront footer instead advertises free shipping above USD 24.90, while its separate Shipping Delivery page gives other destination rates and shorter delivery estimates."
           ]
         },
         {
-          "title": "Address and package issues",
+          "title": "Preorders and backorders",
           "items": [
-            "Contact support@hofish-maternity.com promptly for an incorrect address. The page directs customers to the carrier if tracking shows delivery and the package is missing.",
-            "The returns and missing-package paragraphs refer to “Top Trend Store” and “Best Trends Online Store.” Confirm which terms apply with HOFISH before relying on those paragraphs."
+            "If an order combines items with different availability, the page says available stock ships first and preordered or backordered goods follow once ready. A first delivery may contain only part of the order."
+          ]
+        },
+        {
+          "title": "Tracking",
+          "items": [
+            "This page describes a confirmation message by email or, when a mobile number is provided, by text. The message includes a tracking number and link. It gives 1–3 working days for tracking data to appear and also directs buyers to the Order Tracking page."
+          ]
+        },
+        {
+          "title": "Correct a delivery address",
+          "items": [
+            "The page makes the buyer responsible for the address supplied at checkout. It directs address corrections to support@hofish-maternity.com immediately because orders move quickly into processing."
+          ]
+        },
+        {
+          "title": "Returns and missing packages",
+          "items": [
+            "The returns paragraph names Top Trend Store, assigns return shipping to the buyer and refers to the refund policy for the process. The package paragraph names Best Trends Online Store and states that store excludes responsibility for loss or theft.",
+            "When the carrier marks a package delivered and the recipient cannot locate it, the page directs the recipient to the carrier shown in tracking. It gives support@hofish-maternity.com for help with the process. Confirm the applicable terms and delivery charge with HOFISH because of the different store names and published rates."
           ]
         }
       ]
@@ -589,17 +1021,35 @@
       "intro": "Diese separate Versandseite nennt andere Lieferzeiten und Shopnamen als die im Fußbereich verlinkte Versand- und Lieferseite. Prüfen Sie die Konditionen für Ihr Ziel an der Kasse.",
       "sections": [
         {
-          "title": "Bearbeitung, Lieferung und Sendungsverfolgung",
+          "title": "Bearbeitung und Transport",
           "items": [
-            "Diese Seite wirbt mit kostenlosem weltweitem Versand und nennt 3–5 Werktage für die Bearbeitung sowie 7–10 Werktage für den Transport. Der Fußbereich wirbt mit kostenlosem Versand bei Bestellungen über 24,90 USD. Die Versand- und Lieferseite nennt eigene Länderpreise und kürzere Fristen.",
-            "Nachbestellte Artikel und Vorbestellungen können getrennt geliefert werden. Die Seite kündigt eine Sendungsnummer per E-Mail oder SMS an, die nach 1–3 Werktagen sichtbar sein kann."
+            "Die Seite wirbt mit kostenlosem weltweitem Versand, ohne einen Versanddienstleister zu benennen. Sie rechnet im Durchschnitt mit 3–5 Werktagen für die Bearbeitung und nach dem Versand je nach Zielort mit weiteren 7–10 Werktagen für den Transport.",
+            "Feiertage, Naturkatastrophen und Pandemien können diese Schätzwerte laut Seite beeinflussen. Der Shop-Fußbereich wirbt mit kostenlosem Versand über 24,90 USD. Die separate Versand- und Lieferseite nennt andere Preise nach Zielort und kürzere Lieferzeiten."
           ]
         },
         {
-          "title": "Adressfehler und fehlende Pakete",
+          "title": "Vorbestellte und nachzuliefernde Artikel",
           "items": [
-            "Bei einer falschen Adresse bittet die Seite um schnelle Kontaktaufnahme unter support@hofish-maternity.com. Wenn der Versanddienstleister die Sendung als zugestellt anzeigt und sie fehlt, verweist die Seite an den Versanddienstleister.",
-            "Die Absätze zu Rücksendungen und fehlenden Paketen nennen „Top Trend Store“ und „Best Trends Online Store“. Fragen Sie HOFISH, welche Bedingungen gelten."
+            "Bei Artikeln mit unterschiedlicher Verfügbarkeit verschickt der Shop laut Seite zuerst die lagernde Ware. Vorbestellte oder nachzuliefernde Artikel folgen, sobald sie verfügbar sind. Die erste Sendung kann daher nur einen Teil der Bestellung enthalten."
+          ]
+        },
+        {
+          "title": "Sendungsverfolgung",
+          "items": [
+            "Die Seite beschreibt eine Bestätigung per E-Mail oder bei hinterlegter Mobilnummer per SMS. Sie enthält eine Sendungsnummer und einen Verfolgungslink. Für das Erscheinen der Daten nennt die Seite 1–3 Werktage und verweist außerdem auf die Seite zur Sendungsverfolgung."
+          ]
+        },
+        {
+          "title": "Lieferadresse korrigieren",
+          "items": [
+            "Die Seite weist der kaufenden Person die Verantwortung für die beim Bestellen angegebene Adresse zu. Korrekturen sollen wegen der zügigen Bearbeitung unverzüglich an support@hofish-maternity.com gemeldet werden."
+          ]
+        },
+        {
+          "title": "Rücksendungen und fehlende Pakete",
+          "items": [
+            "Der Rücksendeabschnitt nennt Top Trend Store, weist der Kundschaft das Rückporto zu und verweist auf die Erstattungsrichtlinie. Der Paketabschnitt nennt Best Trends Online Store und erklärt, dieser Shop übernehme keine Verantwortung für Verlust oder Diebstahl.",
+            "Zeigt die Sendungsverfolgung eine Zustellung an und das Paket fehlt, verweist die Seite an den dort angegebenen Versanddienstleister. Hilfe bei der Meldung bietet laut Seite support@hofish-maternity.com. Lassen Sie wegen der unterschiedlichen Shopnamen und veröffentlichten Preise die geltenden Bedingungen und Versandkosten von HOFISH bestätigen."
           ]
         }
       ]
@@ -609,17 +1059,35 @@
       "intro": "Cette page distincte présente des délais et des noms de boutiques qui diffèrent de ceux de la page Livraison liée en bas du site. Vérifiez les conditions affichées pour votre destination lors de la commande.",
       "sections": [
         {
-          "title": "Préparation, livraison et suivi",
+          "title": "Préparation et transport",
           "items": [
-            "Cette page annonce la livraison internationale gratuite et estime la préparation à 3–5 jours ouvrés, puis le transport à 7–10 jours ouvrés. Le bas du site annonce la gratuité au-delà de 24,90 USD. La page Livraison affiche des tarifs par destination et des délais plus courts.",
-            "Les précommandes ou articles en réapprovisionnement peuvent faire l’objet d’envois séparés. Le suivi est annoncé par courriel ou SMS et peut prendre 1 à 3 jours ouvrés pour apparaître."
+            "La page annonce une livraison gratuite dans le monde entier sans identifier de transporteur. Elle estime le traitement à 3 à 5 jours ouvrés en moyenne, puis le transport à 7 à 10 jours ouvrés après expédition, selon la destination.",
+            "La page indique que les jours fériés, les catastrophes naturelles et les pandémies peuvent modifier ces estimations. Le pied de page annonce la gratuité au-delà de 24,90 USD. La page Livraison distincte affiche d’autres frais selon la destination et des délais plus courts."
           ]
         },
         {
-          "title": "Erreur d’adresse ou colis manquant",
+          "title": "Précommandes et réapprovisionnements",
           "items": [
-            "En cas d’erreur d’adresse, contactez rapidement support@hofish-maternity.com. Si le suivi indique une livraison et que le colis est introuvable, la page renvoie vers le transporteur.",
-            "Les passages sur les retours et les colis manquants citent « Top Trend Store » et « Best Trends Online Store ». Vérifiez auprès de HOFISH les dispositions applicables."
+            "Pour une commande qui combine des articles de disponibilité différente, la page indique que les articles en stock partent d’abord et que ceux en précommande ou en réapprovisionnement suivent une fois disponibles. Le premier envoi peut donc ne contenir qu’une partie de la commande."
+          ]
+        },
+        {
+          "title": "Suivi de la commande",
+          "items": [
+            "La page décrit une confirmation avec un numéro et un lien de suivi, envoyée par courriel ou par SMS si un numéro de mobile a été fourni. Elle indique 1 à 3 jours ouvrés pour l’affichage du suivi et renvoie également vers la page de suivi des commandes."
+          ]
+        },
+        {
+          "title": "Corriger l’adresse de livraison",
+          "items": [
+            "La page indique que l’acheteur est responsable de l’adresse renseignée lors de la commande. Vu la rapidité du traitement, elle demande de signaler toute correction immédiatement à support@hofish-maternity.com."
+          ]
+        },
+        {
+          "title": "Retours et colis manquants",
+          "items": [
+            "Le passage sur les retours nomme Top Trend Store, met les frais de retour à la charge de l’acheteur et renvoie vers la politique de remboursement. Le passage sur les colis nomme Best Trends Online Store et indique que cette boutique décline la responsabilité en cas de perte ou de vol.",
+            "Si le colis est signalé comme livré mais reste introuvable, la page renvoie vers le transporteur affiché dans le suivi. Elle indique support@hofish-maternity.com pour obtenir de l’aide. Faites confirmer par HOFISH les conditions et les frais applicables compte tenu des différences de noms et de tarifs publiés."
           ]
         }
       ]
@@ -628,48 +1096,90 @@
   "/pages/size-chart": {
     "en": {
       "title": "Size guide",
-      "intro": "Sizing depends on the product. The standalone HOFISH size-chart page contains a heading without a measurement table. Check the item description and variant selector before choosing a size.",
+      "intro": "Choose the size from the page for the exact HOFISH product you want. The store's general Size Chart page opens with a heading and has no published size table.",
       "sections": [
         {
-          "title": "Seamless Deep V Nursing Bra, three-pack",
+          "title": "How to use the product page",
           "items": [
-            "The product description maps Small to US bra sizes 32B–32DD and 34B–34C.",
-            "Medium covers 34D–34DD, 36B–36D and 38B–38C.",
-            "Large covers 38D–38DD and 40B–40D.",
-            "X-Large covers 42B, 42C, 42D and 42DD.",
-            "The product selector also shows XX-Large. The description gives no band and cup range for that size. These ranges apply to this style."
+            "Check the size choices and any fit information in the description or product images for the exact style. Some selectors spell out sizes such as X-Large, and others use XL or 2XL.",
+            "The letters on the size selector alone do not tell you the matching band, cup, waist or hip measurements. Confirm the measurements with HOFISH if the item does not supply them."
+          ]
+        },
+        {
+          "title": "Deep-V seamless nursing bra, three-pack",
+          "items": [
+            "Small corresponds to U.S. sizes 32B–32DD and 34B–34C according to this product's description.",
+            "Medium corresponds to 34D–34DD, 36B–36D and 38B–38C.",
+            "Large corresponds to 38D–38DD and 40B–40D.",
+            "X-Large corresponds to 42B, 42C, 42D and 42DD.",
+            "The selector includes XX-Large. The description gives no matching band and cup measurements for this size. The ranges above belong to this Deep-V style."
+          ]
+        },
+        {
+          "title": "Leggings, jeans and shorts",
+          "items": [
+            "Check the product's size choices and whether it has a stretchy waistband or an over-bump panel. These details vary by style.",
+            "Ask HOFISH about measurements using the item's name and the size you are comparing when the product page has no written chart."
           ]
         }
       ]
     },
     "de": {
       "title": "Größenratgeber",
-      "intro": "Die Größen hängen vom Modell ab. Die allgemeine Größenseite von HOFISH zeigt eine Überschrift ohne Maßtabelle. Prüfen Sie vor der Auswahl die Produktbeschreibung und die Größen im Auswahlmenü.",
+      "intro": "Wählen Sie die Größe auf der Seite des konkreten HOFISH-Artikels. Auf der allgemeinen Größenseite des Shops erscheint eine Überschrift ohne Maßtabelle.",
       "sections": [
         {
-          "title": "Nahtloser Still-BH mit tiefem V-Ausschnitt im Dreierpack",
+          "title": "So nutzen Sie die Produktseite",
           "items": [
-            "Laut Produktbeschreibung entspricht S den US-BH-Größen 32B–32DD und 34B–34C.",
-            "M umfasst 34D–34DD, 36B–36D und 38B–38C.",
-            "L umfasst 38D–38DD und 40B–40D.",
-            "XL umfasst 42B, 42C, 42D und 42DD.",
-            "Im Auswahlmenü erscheint auch XXL. Die Beschreibung nennt dafür keine Unterbrust- und Körbchengrößen. Die genannten Größenbereiche gelten für dieses Modell."
+            "Prüfen Sie die auswählbaren Größen und die Passformhinweise in der Beschreibung oder den Bildern des konkreten Modells. Je nach Artikel stehen ausgeschriebene Größen wie X-Large oder Kürzel wie XL und 2XL zur Auswahl.",
+            "Die Buchstabengröße allein gibt kein Unterbrust-, Cup-, Taillen- oder Hüftmaß an. Falls zum Produkt keine Maße veröffentlicht sind, fragen Sie bei HOFISH nach."
+          ]
+        },
+        {
+          "title": "Nahtloser Deep-V-Still-BH im Dreierpack",
+          "items": [
+            "Small entspricht laut Produktbeschreibung den US-BH-Größen 32B–32DD und 34B–34C.",
+            "Medium entspricht 34D–34DD, 36B–36D und 38B–38C.",
+            "Large entspricht 38D–38DD und 40B–40D.",
+            "X-Large entspricht 42B, 42C, 42D und 42DD.",
+            "XX-Large ist auswählbar. Die Beschreibung nennt dafür keine Unterbrust- und Cupgrößen. Die obigen Bereiche gelten für dieses Deep-V-Modell."
+          ]
+        },
+        {
+          "title": "Leggings, Jeans und Shorts",
+          "items": [
+            "Prüfen Sie die Größenauswahl des Artikels sowie den Schnitt, etwa einen dehnbaren Bund oder einen Einsatz über dem Bauch. Diese Merkmale unterscheiden sich je nach Modell.",
+            "Fehlt eine schriftliche Maßtabelle, nennen Sie HOFISH bei Ihrer Anfrage den Artikel und die Größe, die Sie vergleichen möchten."
           ]
         }
       ]
     },
     "fr": {
       "title": "Guide des tailles",
-      "intro": "Les tailles varient d’un modèle à l’autre. La page générale des tailles de HOFISH comporte un titre sans tableau de mesures. Consultez la description et les tailles proposées sur la fiche de l’article avant de faire votre choix.",
+      "intro": "Choisissez votre taille sur la fiche de l’article HOFISH qui vous intéresse. La page générale du guide des tailles affiche un titre sans tableau de mesures.",
       "sections": [
         {
-          "title": "Soutien-gorge d’allaitement sans coutures à col V profond, lot de trois",
+          "title": "Comment lire une fiche produit",
           "items": [
-            "D’après la fiche produit, la taille S correspond aux tailles américaines 32B à 32DD et 34B à 34C.",
-            "La taille M correspond à 34D à 34DD, 36B à 36D et 38B à 38C.",
-            "La taille L correspond à 38D à 38DD et 40B à 40D.",
-            "La taille XL correspond à 42B, 42C, 42D et 42DD.",
-            "Le menu des tailles propose aussi le XXL. La description ne précise aucune correspondance de tour et de bonnet pour cette taille. Ces correspondances s’appliquent à ce modèle."
+            "Vérifiez les tailles proposées et les indications de coupe dans la description ou les images du modèle précis. Certains sélecteurs indiquent X-Large en toutes lettres, d’autres affichent XL ou 2XL.",
+            "Une lettre ne suffit pas pour déterminer un tour de dessous de poitrine, un bonnet, un tour de taille ou un tour de hanches. Si la fiche ne donne pas de mesures, demandez-les à HOFISH."
+          ]
+        },
+        {
+          "title": "Soutiens-gorge d’allaitement sans coutures à décolleté en V profond, lot de trois",
+          "items": [
+            "D’après la description du produit, Small correspond aux tailles américaines 32B–32DD et 34B–34C.",
+            "Medium correspond à 34D–34DD, 36B–36D et 38B–38C.",
+            "Large correspond à 38D–38DD et 40B–40D.",
+            "X-Large correspond à 42B, 42C, 42D et 42DD.",
+            "XX-Large figure parmi les choix proposés. La description ne donne aucune correspondance de tour de poitrine ou de bonnet pour cette taille. Les plages ci-dessus concernent ce modèle à décolleté en V."
+          ]
+        },
+        {
+          "title": "Leggings, jeans et shorts",
+          "items": [
+            "Regardez les tailles et la construction du modèle précis, notamment s’il a une ceinture extensible ou un bandeau au-dessus du ventre. Ces détails varient selon l’article.",
+            "Si la fiche n’a pas de tableau écrit, demandez les mesures à HOFISH en précisant l’article et la taille qui vous intéressent."
           ]
         }
       ]
@@ -681,16 +1191,64 @@
       "intro": "This store page describes the terms for using the Shopify storefront and placing orders. It names “colors choice” as operator and cites California law. The separate Shopify policy page names HOFISH Maternity & Baby and refers to United States law.",
       "sections": [
         {
-          "title": "Orders and availability",
+          "title": "Who can use the store",
           "items": [
-            "The text requires accurate billing and account information and reserves the right to limit or cancel orders, change prices or product descriptions, and restrict sales by region or quantity.",
-            "Returns and exchanges are addressed in the return policy. The privacy policy governs personal information submitted through the store."
+            "The terms cover people who browse, buy, sell or submit content on the Shopify-hosted store. They require the age of majority where the user lives, including where an adult permits a minor dependent to use the site.",
+            "The operator may refuse service. Written permission is required to copy, resell or otherwise exploit the service. The page says card information is encrypted in transit while other submissions may travel unencrypted and be adapted for different networks."
           ]
         },
         {
-          "title": "Use of the service",
+          "title": "Catalog accuracy, prices and availability",
           "items": [
-            "The document covers third-party services, rights to use customer feedback, prohibited uses, warranty and liability limitations, termination and future revisions."
+            "Product information may be incomplete or out of date. Screen colors may differ from actual products. The operator reserves the right to change prices, descriptions and the service without prior notice.",
+            "Some products may be exclusive to the online store or available in limited quantities. Sales can be limited by customer, region or jurisdiction. The return policy governs returns and exchanges."
+          ]
+        },
+        {
+          "title": "Orders and billing",
+          "items": [
+            "The operator may refuse orders or cap quantities by person, household or order. It may link orders by account, payment card or address and restrict purchasing by suspected resellers or distributors.",
+            "Customers are expected to keep their purchase, billing and account information current. The operator may try to notify a customer of changes using the contact details supplied at checkout."
+          ]
+        },
+        {
+          "title": "Optional tools and third-party sites",
+          "items": [
+            "External tools are offered without endorsement or guarantees. Their providers’ terms govern use. Third-party sites, materials and transactions are outside the store’s stated responsibility. Questions about third-party products go to the provider."
+          ]
+        },
+        {
+          "title": "Submissions and privacy",
+          "items": [
+            "The operator claims broad permission to edit, publish and translate feedback or contest entries without compensation, confidentiality or a reply. It can moderate submissions. Contributors are responsible for accuracy and for respecting privacy and intellectual property rights.",
+            "The store’s privacy policy governs personal information submitted through the store."
+          ]
+        },
+        {
+          "title": "Corrections and prohibited conduct",
+          "items": [
+            "The operator may correct errors in listings, shipping costs, delivery estimates or availability and may cancel orders already placed. A revision date does not establish that all information was reviewed.",
+            "The list of prohibited uses includes illegal activity, harassment, discrimination, infringement, false information, malware, phishing, scraping and interference with security."
+          ]
+        },
+        {
+          "title": "Warranty, liability and third-party claims",
+          "items": [
+            "The terms disclaim guarantees about service continuity, reliability and product fitness. They limit liability for losses such as lost data and indirect damages to the extent the applicable law permits.",
+            "The indemnity clause concerns third-party claims, including certain legal costs, arising from a breach, a violation of law or an infringement of another party’s rights."
+          ]
+        },
+        {
+          "title": "Termination and interpretation",
+          "items": [
+            "Customers may end service by telling the store or stopping use. The operator may cut off access without notice for suspected breaches. Amounts already owed and prior liabilities may survive termination.",
+            "If a provision cannot be enforced, the rest of the terms remain in place. The terms and posted rules supersede earlier agreements. Failure to enforce a right does not waive it."
+          ]
+        },
+        {
+          "title": "Applicable law, updates and contact",
+          "items": [
+            "The page cites California law. The operator can publish revised terms, and continued use after publication is treated as acceptance. This version has no dedicated terms contact section. The shared store footer lists contact@hofish.net."
           ]
         }
       ]
@@ -700,16 +1258,64 @@
       "intro": "Diese Shop-Seite behandelt die Nutzung des Shopify-Shops und Bestellungen. Sie nennt „colors choice“ als Betreiber und das Recht Kaliforniens. Die separate Shopify-Richtlinie nennt HOFISH Maternity & Baby und das Recht der Vereinigten Staaten.",
       "sections": [
         {
-          "title": "Bestellungen und Verfügbarkeit",
+          "title": "Wer den Shop nutzen darf",
           "items": [
-            "Der Text verlangt korrekte Rechnungs- und Kontodaten und behält sich vor, Bestellungen zu begrenzen oder zu stornieren, Preise oder Produktbeschreibungen zu ändern und Verkäufe nach Region oder Menge einzuschränken.",
-            "Rückgaben und Umtausch werden in den Rückgabebedingungen behandelt. Für personenbezogene Daten, die im Shop übermittelt werden, gilt die Datenschutzerklärung."
+            "Die Bedingungen gelten für Personen, die im Shopify-Shop stöbern, kaufen, verkaufen oder Beiträge einreichen. Maßgeblich ist die Volljährigkeit am Wohnort, auch wenn Erwachsene minderjährigen Angehörigen die Nutzung erlauben.",
+            "Der Betreiber kann den Dienst verweigern. Für die Vervielfältigung, den Weiterverkauf und die sonstige Verwertung des Dienstes ist eine schriftliche Erlaubnis erforderlich. Laut Seite werden Kartendaten bei der Übertragung verschlüsselt. Andere Beiträge können unverschlüsselt übertragen und technisch an verschiedene Netze angepasst werden."
           ]
         },
         {
-          "title": "Nutzung des Shops",
+          "title": "Katalogangaben, Preise und Verfügbarkeit",
           "items": [
-            "Das Dokument behandelt Dienste Dritter, die Nutzung von Kundenfeedback, unzulässige Nutzungsweisen, Einschränkungen bei Gewährleistung und Haftung, die Beendigung des Dienstes und spätere Änderungen."
+            "Produktangaben können unvollständig oder veraltet sein. Bildschirmfarben können von der tatsächlichen Farbe abweichen. Der Betreiber behält sich vor, Preise, Beschreibungen und den Dienst ohne Vorankündigung zu ändern.",
+            "Manche Artikel sind nur online oder in begrenzter Menge verfügbar. Verkäufe können nach Kunde, Region oder Rechtsgebiet eingeschränkt werden. Für Rückgabe und Umtausch gelten die Rückgabebedingungen."
+          ]
+        },
+        {
+          "title": "Bestellungen und Rechnungsdaten",
+          "items": [
+            "Der Betreiber kann Bestellungen ablehnen oder Mengen je Person, Haushalt oder Bestellung begrenzen. Er kann Bestellungen anhand von Konto, Zahlungskarte oder Adresse zusammenfassen und mutmaßliche Wiederverkäufer oder Vertriebspartner beschränken.",
+            "Kauf-, Rechnungs- und Kontodaten sollen aktuell sein. Bei einer Änderung oder Stornierung kann der Betreiber versuchen, die bei der Bestellung angegebene Kontaktmöglichkeit zu nutzen."
+          ]
+        },
+        {
+          "title": "Optionale Werkzeuge und Websites Dritter",
+          "items": [
+            "Externe Werkzeuge werden ohne Empfehlung oder Zusicherung angeboten. Für ihre Nutzung gelten die Bedingungen des jeweiligen Anbieters. Der Shop sieht sich für fremde Websites, Inhalte und Transaktionen nicht verantwortlich. Fragen zu Produkten Dritter sind an den Anbieter zu richten."
+          ]
+        },
+        {
+          "title": "Beiträge und Datenschutz",
+          "items": [
+            "Der Betreiber beansprucht weitreichende Rechte zur Bearbeitung, Veröffentlichung und Übersetzung von Feedback und Wettbewerbsbeiträgen, ohne Vergütung, Vertraulichkeit oder Antwort zuzusagen. Er kann Beiträge moderieren. Einreichende sind für die Richtigkeit und die Wahrung fremder Datenschutz- und Schutzrechte verantwortlich.",
+            "Für im Shop übermittelte personenbezogene Daten verweist der Text auf die Datenschutzerklärung."
+          ]
+        },
+        {
+          "title": "Korrekturen und unzulässige Nutzung",
+          "items": [
+            "Der Betreiber kann falsche Produktangaben, Versandkosten, Lieferzeiten und Verfügbarkeiten korrigieren und bereits aufgegebene Bestellungen stornieren. Ein Aktualisierungsdatum belegt keine vollständige Überprüfung aller Angaben.",
+            "Als unzulässige Nutzung nennt der Text unter anderem Rechtsverstöße, Belästigung, Diskriminierung, Schutzrechtsverletzungen, Falschangaben, Schadsoftware, Phishing, Scraping und Eingriffe in Sicherheitsfunktionen."
+          ]
+        },
+        {
+          "title": "Gewährleistung, Haftung und Ansprüche Dritter",
+          "items": [
+            "Die Bedingungen schließen Zusagen zur lückenlosen Verfügbarkeit, Zuverlässigkeit und Eignung von Produkten aus. Soweit rechtlich zulässig, begrenzen sie die Haftung etwa bei Datenverlust und mittelbaren Schäden.",
+            "Die Freistellungsklausel betrifft Ansprüche Dritter und bestimmte Rechtskosten, wenn sie auf einem Verstoß gegen die Bedingungen, gegen Gesetze oder gegen fremde Rechte beruhen."
+          ]
+        },
+        {
+          "title": "Beendigung und Auslegung",
+          "items": [
+            "Kunden können den Dienst durch Mitteilung oder durch Einstellung der Nutzung beenden. Bei einem vermuteten Verstoß kann der Betreiber den Zugang ohne Vorankündigung sperren. Offene Beträge und bereits entstandene Pflichten können bestehen bleiben.",
+            "Ist eine Klausel nicht durchsetzbar, gelten die übrigen Bedingungen weiter. Die Bedingungen und veröffentlichten Regeln ersetzen frühere Vereinbarungen. Die Nichtdurchsetzung eines Rechts gilt nicht als Verzicht."
+          ]
+        },
+        {
+          "title": "Anwendbares Recht, Änderungen und Kontakt",
+          "items": [
+            "Die Seite nennt das Recht Kaliforniens. Der Betreiber kann neue Bedingungen veröffentlichen und wertet die weitere Nutzung danach als Zustimmung. Diese Fassung hat keinen eigenen Kontaktabschnitt. Die allgemeine Fußzeile nennt contact@hofish.net."
           ]
         }
       ]
@@ -719,16 +1325,64 @@
       "intro": "Cette page décrit l’utilisation de la boutique Shopify et la passation des commandes. Elle désigne « colors choice » comme exploitant et cite le droit californien. La politique Shopify distincte nomme HOFISH Maternity & Baby et renvoie au droit des États-Unis.",
       "sections": [
         {
-          "title": "Commandes et disponibilité",
+          "title": "Accès à la boutique",
           "items": [
-            "Le texte exige des données de facturation et de compte exactes et prévoit la possibilité de limiter ou d’annuler des commandes, de modifier les prix ou les descriptions, et de restreindre les ventes par zone ou quantité.",
-            "La politique de retour précise les conditions de retour et d’échange. La politique de confidentialité régit les données personnelles communiquées via la boutique."
+            "Les conditions couvrent les visiteurs, acheteurs, vendeurs et contributeurs de la boutique hébergée par Shopify. La majorité dans le lieu de résidence est requise, y compris lorsqu’un adulte autorise un mineur à sa charge à accéder au site.",
+            "L’exploitant peut refuser le service. La copie, la revente ou toute autre exploitation du service requiert une autorisation écrite. La page indique que les données de carte sont chiffrées en transit. Les autres contenus peuvent circuler sans chiffrement et être adaptés à différents réseaux."
           ]
         },
         {
-          "title": "Utilisation du service",
+          "title": "Fiches produits, prix et disponibilité",
           "items": [
-            "Le document aborde les services de tiers, les droits d’utilisation des avis des clients, les usages interdits, les limites des garanties et de la responsabilité, la résiliation et les modifications ultérieures."
+            "Les informations du catalogue peuvent être incomplètes ou anciennes. Les couleurs à l’écran peuvent différer des couleurs réelles. L’exploitant se réserve la possibilité de modifier sans préavis les prix, les descriptions et le service.",
+            "Des articles peuvent être proposés uniquement en ligne ou en quantité limitée. Les ventes peuvent être restreintes selon le client, la région ou la juridiction. Les retours et les échanges relèvent de la politique de retour."
+          ]
+        },
+        {
+          "title": "Commandes et facturation",
+          "items": [
+            "L’exploitant peut refuser une commande ou plafonner les quantités par personne, foyer ou commande. Il peut rapprocher des commandes par compte, carte ou adresse et restreindre celles qu’il attribue à des revendeurs ou distributeurs.",
+            "Les clients sont tenus de mettre à jour leurs données d’achat, de facturation et de compte. En cas de modification ou d’annulation, l’exploitant peut tenter de les joindre aux coordonnées données lors de la commande."
+          ]
+        },
+        {
+          "title": "Outils facultatifs et sites tiers",
+          "items": [
+            "Les outils externes sont proposés sans recommandation ni garantie. Leur utilisation relève des conditions du fournisseur. La boutique écarte sa responsabilité pour les sites, contenus et transactions de tiers. Les questions sur leurs produits sont à adresser au fournisseur concerné."
+          ]
+        },
+        {
+          "title": "Contributions et données personnelles",
+          "items": [
+            "L’exploitant revendique un droit étendu de modifier, publier et traduire les avis et les participations aux concours, sans promettre de rémunération, de confidentialité ni de réponse. Il peut modérer les contributions. Les auteurs répondent de leur exactitude ainsi que du respect de la vie privée et de la propriété intellectuelle.",
+            "La politique de confidentialité régit les données personnelles communiquées à la boutique."
+          ]
+        },
+        {
+          "title": "Corrections et utilisations interdites",
+          "items": [
+            "L’exploitant peut rectifier les fiches, les frais de livraison, les délais et la disponibilité, puis annuler des commandes déjà passées. Une date de mise à jour ne signifie pas que toutes les informations ont été revues.",
+            "Le texte interdit notamment les activités illégales, le harcèlement, la discrimination, les atteintes aux droits, les déclarations trompeuses, les logiciels malveillants, l’hameçonnage, l’extraction automatisée et les atteintes aux dispositifs de sécurité."
+          ]
+        },
+        {
+          "title": "Garanties, responsabilité et réclamations de tiers",
+          "items": [
+            "Les conditions excluent les garanties quant à la continuité du service, à sa fiabilité et à l’aptitude des produits à l’usage prévu. Elles limitent, dans la mesure permise par le droit applicable, la responsabilité pour des pertes telles que la perte de données et les dommages indirects.",
+            "La clause d’indemnisation vise les réclamations de tiers et certains frais juridiques découlant d’un manquement aux conditions, d’une infraction à la loi ou d’une atteinte aux droits d’autrui."
+          ]
+        },
+        {
+          "title": "Résiliation et interprétation",
+          "items": [
+            "Un client peut mettre fin au service en prévenant la boutique ou en cessant de l’utiliser. L’exploitant peut couper l’accès sans préavis s’il soupçonne un manquement. Les sommes dues et les obligations déjà nées peuvent subsister.",
+            "Si une clause est inapplicable, les autres restent en vigueur. Les conditions et règles publiées remplacent les accords antérieurs. Le fait de ne pas exercer un droit n’équivaut pas à y renoncer."
+          ]
+        },
+        {
+          "title": "Droit applicable, mises à jour et contact",
+          "items": [
+            "La page cite le droit californien. L’exploitant peut publier des conditions modifiées et considère que l’utilisation après leur publication vaut acceptation. Cette version ne comporte pas de rubrique de contact dédiée. Le pied de page de la boutique indique contact@hofish.net."
           ]
         }
       ]
@@ -740,17 +1394,51 @@
       "intro": "HOFISH’s posted website terms address access, user submissions and disputes.",
       "sections": [
         {
-          "title": "Access and submissions",
+          "title": "Access, age and permitted use",
           "items": [
-            "The website terms set an age threshold of 18 and grant limited access for personal use. They restrict republication, commercial reuse and unauthorized automation.",
-            "Users are responsible for their submissions. The terms give HOFISH a license to use those submissions on the site and allow removal of content or suspension of accounts."
+            "The site terms set a minimum age of 18 and require authority to accept them. Access is limited to revocable, personal, noncommercial use.",
+            "HOFISH and its suppliers reserve their intellectual-property rights. The text restricts republication, commercial exploitation, modification, reverse engineering and use to build a competing site. It allows changes or suspension without notice and promises no website maintenance or support."
           ]
         },
         {
-          "title": "Disputes and liability",
+          "title": "Submissions, feedback and conduct",
           "items": [
-            "The document calls for written notice and an attempt to resolve a dispute informally, followed in covered cases by individual arbitration. It also discusses small claims, exceptions and a waiver of class proceedings.",
-            "The posted terms state a USD 50 liability cap to the extent allowed by law and describe limits on warranties and support."
+            "Authors bear responsibility for their posts and for keeping copies. The terms give HOFISH an irrevocable worldwide license, including sublicensing, for using those posts on the site. They separately assign rights in suggestions and treat them as nonconfidential.",
+            "The acceptable-use rules address infringement, abusive or deceptive content, spam, harvesting user data, unauthorized access and automated requests. Enforcement may include editing or removing content, closing an account or notifying authorities. Users may have to cover certain third-party claims arising from their use, breaches or submissions."
+          ]
+        },
+        {
+          "title": "Third parties, cookies and releases",
+          "items": [
+            "External advertisements and sites follow their own terms and privacy practices. The text places responsibility for user posts and interactions on users, includes a broad release of site-related claims and invokes California Civil Code section 1542 for California residents.",
+            "The cookie paragraph identifies browsing history and preferences as inputs for customizing the site."
+          ]
+        },
+        {
+          "title": "Warranties, liability and termination",
+          "items": [
+            "For the site, the text disclaims warranties and limits any warranties required by law to 90 days from first use where allowed. It excludes specified losses and gives a USD 50 aggregate cap, subject to local law.",
+            "Termination ends access immediately and can lead to deletion of account content. The text identifies provisions that continue after termination."
+          ]
+        },
+        {
+          "title": "Copyright complaints",
+          "items": [
+            "The copyright section describes removal and account termination for repeated infringement. It calls for a signed notice identifying the work, the disputed material and its location, contact information and declarations of good faith, accuracy and authority. It refers to 17 U.S.C. § 512 and warns that material misrepresentations can carry liability."
+          ]
+        },
+        {
+          "title": "Notice and individual arbitration",
+          "items": [
+            "The text gives 16830 Ventura Blvd., Suite 360, Encino, CA 91436 for written dispute notices. A notice identifies the claim and requested remedy. After 30 days from receipt without resolution, the text directs covered disputes to individual arbitration in English before one neutral arbitrator, normally through the American Arbitration Association.",
+            "For claims below USD 10,000 the initiating party can choose a procedure without in-person attendance. At USD 10,000 or above, the arbitration rules determine hearing rights. The terms discuss hearing location, filing limits, confidentiality, cost sharing and a payment floor of USD 2,500 if the award beats the company’s last qualifying settlement offer."
+          ]
+        },
+        {
+          "title": "Exceptions, changes and contact",
+          "items": [
+            "The terms include jury and class-action waivers, with routes for individual small claims and urgent interim relief. They list defamation, certain computer-law claims and specified intellectual-property disputes as outside arbitration. The court venue appears in the source as “Netherlands County, California,” which the text does not clarify.",
+            "The terms describe electronic notices, a 30-calendar-day period for substantial changes for existing users, and immediate effect for new users. They address export controls, severability and assignment, and list warranty@hofish.net as the general terms contact."
           ]
         }
       ]
@@ -760,17 +1448,51 @@
       "intro": "Die auf der HOFISH-Website veröffentlichten Bedingungen regeln den Zugang, Nutzerbeiträge und Streitigkeiten.",
       "sections": [
         {
-          "title": "Zugang und Beiträge",
+          "title": "Zugang, Mindestalter und zulässige Nutzung",
           "items": [
-            "Die Bedingungen nennen ein Mindestalter von 18 Jahren und räumen ein begrenztes Recht zur persönlichen Nutzung ein. Sie beschränken die Weiterveröffentlichung, die kommerzielle Nutzung und nicht genehmigte Automatisierung.",
-            "Nutzerinnen und Nutzer sind für ihre Beiträge verantwortlich. Die Bedingungen räumen HOFISH ein Nutzungsrecht für Beiträge auf der Website ein und erlauben, Inhalte zu entfernen oder Konten zu sperren."
+            "Die Websitebedingungen setzen ein Mindestalter von 18 Jahren und die Befugnis zur Zustimmung voraus. Die widerrufliche Nutzungserlaubnis gilt für persönliche, nicht gewerbliche Zwecke.",
+            "HOFISH und seine Lieferanten behalten sich ihre Schutzrechte vor. Der Text beschränkt Wiederveröffentlichung, kommerzielle Nutzung, Änderungen, Rückentwicklung und die Nutzung zum Aufbau einer Konkurrenzwebsite. Änderungen oder Aussetzungen sind laut Text ohne Vorankündigung möglich. Eine Wartung oder Unterstützung für die Website wird nicht zugesagt."
           ]
         },
         {
-          "title": "Streitigkeiten und Haftung",
+          "title": "Beiträge, Feedback und Verhalten",
           "items": [
-            "Das Dokument sieht eine schriftliche Mitteilung und einen Versuch der gütlichen Einigung vor, gefolgt von einem Einzelschiedsverfahren in den erfassten Fällen. Es behandelt auch Verfahren für geringfügige Forderungen, Ausnahmen und den Verzicht auf Sammelverfahren.",
-            "Die veröffentlichten Bedingungen nennen eine Haftungsobergrenze von 50 USD, soweit gesetzlich zulässig, sowie Einschränkungen bei Gewährleistung und Support."
+            "Verfassende tragen die Verantwortung für ihre Beiträge und deren Sicherung. Die Bedingungen räumen HOFISH für die Verwendung der Beiträge auf der Website eine unwiderrufliche weltweite Lizenz mit Unterlizenzrecht ein. Die Rechte an Vorschlägen werden gesondert übertragen. Vorschläge gelten als nicht vertraulich.",
+            "Die Nutzungsregeln betreffen Rechtsverletzungen, missbräuchliche oder irreführende Inhalte, Spam, das Sammeln von Nutzerdaten, unbefugten Zugang und automatisierte Anfragen. Als Maßnahmen nennt der Text das Bearbeiten oder Entfernen von Beiträgen, Kontoschließung und Meldung an Behörden. Nutzende können nach den Bedingungen für bestimmte Ansprüche Dritter aus ihrer Nutzung, aus Verstößen oder aus ihren Beiträgen einstehen müssen."
+          ]
+        },
+        {
+          "title": "Dritte, Cookies und Anspruchsverzichte",
+          "items": [
+            "Für externe Anzeigen und Websites gelten eigene Nutzungs- und Datenschutzbedingungen. Der Text weist den Nutzenden die Verantwortung für Beiträge und Interaktionen zu und enthält einen weitreichenden Verzicht auf Ansprüche im Zusammenhang mit der Website. Für Personen mit Wohnsitz in Kalifornien verweist er auf § 1542 des dortigen Zivilgesetzbuchs.",
+            "Der Abschnitt zu Cookies nennt besuchte Seiten und Einstellungen als Grundlage für die Anpassung der Website."
+          ]
+        },
+        {
+          "title": "Gewährleistung, Haftung und Beendigung",
+          "items": [
+            "Der Text schließt Gewährleistungen für die Website aus und beschränkt gesetzlich erforderliche Gewährleistungen, soweit zulässig, auf 90 Tage ab der ersten Nutzung. Er schließt bestimmte Schäden aus und nennt eine Gesamthaftungsgrenze von 50 USD, vorbehaltlich des anwendbaren Rechts.",
+            "Bei einer Beendigung erlischt der Zugang sofort. Kontobeiträge können gelöscht werden. Der Text bezeichnet Bestimmungen, die nach der Beendigung fortgelten."
+          ]
+        },
+        {
+          "title": "Urheberrechtsbeschwerden",
+          "items": [
+            "Der Urheberrechtsabschnitt beschreibt die Entfernung von Inhalten und die Kontoschließung bei wiederholten Verstößen. Eine unterschriebene Meldung soll das Werk, den beanstandeten Inhalt und dessen Fundstelle, Kontaktdaten und Erklärungen zu gutem Glauben, Richtigkeit und Berechtigung enthalten. Der Text verweist auf 17 U.S.C. § 512 und nennt eine mögliche Haftung bei wesentlichen Falschangaben."
+          ]
+        },
+        {
+          "title": "Streitmitteilung und Einzelschiedsverfahren",
+          "items": [
+            "Für schriftliche Streitmitteilungen nennt der Text 16830 Ventura Blvd., Suite 360, Encino, CA 91436. Die Mitteilung bezeichnet den Anspruch und die beantragte Abhilfe. Bleibt der Streit 30 Tage ab Eingang ungelöst, sieht der Text ein Einzelschiedsverfahren auf Englisch vor einer neutralen Schiedsperson vor, üblicherweise über die American Arbitration Association.",
+            "Bei Forderungen unter 10.000 USD kann die antragstellende Partei ein Verfahren ohne persönliches Erscheinen wählen. Ab 10.000 USD regeln die Schiedsregeln das Recht auf eine Anhörung. Der Text behandelt Anhörungsort, Fristen, Vertraulichkeit, Kostenteilung und eine Untergrenze von 2.500 USD, wenn der Schiedsspruch das letzte einschlägige Vergleichsangebot des Unternehmens übersteigt."
+          ]
+        },
+        {
+          "title": "Ausnahmen, Änderungen und Kontakt",
+          "items": [
+            "Der Text enthält Verzichte auf Juryverfahren und Sammelklagen. Er sieht Ausnahmen für individuelle Bagatellsachen und dringenden vorläufigen Rechtsschutz vor. Verleumdung, bestimmte Ansprüche nach Computerrecht und bestimmte Schutzrechtsstreitigkeiten nennt er als Ausnahmen vom Schiedsverfahren. Die Gerichtsstandsangabe „Netherlands County, California“ bleibt im Original ungeklärt.",
+            "Die Bedingungen beschreiben elektronische Mitteilungen, eine Frist von 30 Kalendertagen für wesentliche Änderungen bei bestehenden Nutzenden und die unmittelbare Geltung für neue Nutzende. Sie behandeln Exportkontrollen, die Teilunwirksamkeit und die Abtretung. Als allgemeinen Kontakt zu den Bedingungen nennen sie warranty@hofish.net."
           ]
         }
       ]
@@ -780,17 +1502,51 @@
       "intro": "Les conditions publiées par HOFISH traitent de l’accès au site, des contributions des utilisateurs et des litiges.",
       "sections": [
         {
-          "title": "Accès et contributions",
+          "title": "Accès, âge minimal et utilisation autorisée",
           "items": [
-            "Les conditions fixent un âge minimal de 18 ans et accordent un droit d’accès limité à un usage personnel. Elles encadrent la republication, la réutilisation commerciale et l’automatisation non autorisée.",
-            "Les utilisateurs sont responsables de leurs contributions. Les conditions autorisent HOFISH à utiliser ces contributions sur le site, à retirer du contenu ou à suspendre des comptes."
+            "Le texte fixe un âge minimal de 18 ans et exige la capacité d’accepter les conditions. L’autorisation d’accès est révocable et réservée à un usage personnel et non commercial.",
+            "HOFISH et ses fournisseurs conservent leurs droits de propriété intellectuelle. Le texte restreint la republication, l’exploitation commerciale, la modification, la rétro-ingénierie et l’utilisation pour créer un site concurrent. Il prévoit des modifications ou une suspension sans préavis et ne promet ni maintenance ni assistance pour le site."
           ]
         },
         {
-          "title": "Litiges et responsabilité",
+          "title": "Contributions, suggestions et conduite",
           "items": [
-            "Le document prévoit une notification écrite et une tentative de règlement amiable, suivie d’un arbitrage individuel dans les cas couverts. Il aborde aussi les procédures relatives aux petits litiges, les exceptions et la renonciation aux actions collectives.",
-            "Les conditions affichées fixent un plafond de responsabilité de 50 USD dans la mesure autorisée par la loi et précisent les limites des garanties et de l’assistance."
+            "Les auteurs sont responsables de leurs publications et de leur sauvegarde. Les conditions accordent à HOFISH une licence mondiale irrévocable, avec droit de sous-licence, pour leur utilisation sur le site. Elles prévoient une cession distincte des droits sur les suggestions, traitées comme non confidentielles.",
+            "Les règles d’utilisation visent les atteintes aux droits, les contenus abusifs ou trompeurs, les pourriels, la collecte de données d’autres utilisateurs, l’accès non autorisé et les requêtes automatisées. Le texte prévoit la modification ou la suppression de publications, la fermeture d’un compte ou un signalement aux autorités. Il prévoit aussi une indemnisation pour certaines réclamations de tiers liées à l’utilisation, aux manquements ou aux publications."
+          ]
+        },
+        {
+          "title": "Tiers, cookies et renonciations",
+          "items": [
+            "Les publicités et sites externes relèvent de leurs propres conditions et pratiques de confidentialité. Le texte rend les utilisateurs responsables de leurs publications et échanges et prévoit une renonciation étendue aux réclamations liées au site. Pour les résidents de Californie, il invoque l’article 1542 du Code civil de cet État.",
+            "Le passage sur les cookies cite les pages consultées et les préférences parmi les données utilisées pour adapter le site."
+          ]
+        },
+        {
+          "title": "Garanties, responsabilité et résiliation",
+          "items": [
+            "Le texte écarte les garanties relatives au site et limite celles exigées par la loi à 90 jours à compter de la première utilisation lorsque le droit le permet. Il exclut certains dommages et fixe un plafond global de 50 USD sous réserve du droit applicable.",
+            "La résiliation met immédiatement fin à l’accès et peut entraîner la suppression du contenu du compte. Le texte précise quelles clauses restent applicables."
+          ]
+        },
+        {
+          "title": "Signalements au titre du droit d’auteur",
+          "items": [
+            "La section sur le droit d’auteur prévoit le retrait de contenus et la fermeture de comptes en cas de récidive. Le signalement signé doit identifier l’œuvre, le contenu contesté et son emplacement, indiquer des coordonnées et inclure les déclarations de bonne foi, d’exactitude et d’habilitation. Le texte renvoie à 17 U.S.C. § 512 et évoque une responsabilité en cas de fausse déclaration substantielle."
+          ]
+        },
+        {
+          "title": "Notification du litige et arbitrage individuel",
+          "items": [
+            "Le texte indique 16830 Ventura Blvd., Suite 360, Encino, CA 91436 pour les notifications écrites de litige. La notification précise la demande et la réparation souhaitée. À défaut de règlement 30 jours après réception, le texte prévoit, pour les litiges concernés, un arbitrage individuel en anglais devant un arbitre neutre, généralement sous l’égide de l’American Arbitration Association.",
+            "Pour une demande inférieure à 10 000 USD, la partie demanderesse peut choisir une procédure sans comparution. À partir de 10 000 USD, les règles d’arbitrage déterminent le droit à une audience. Le texte traite du lieu d’audience, des délais, de la confidentialité, du partage des frais et d’un versement minimal de 2 500 USD si la sentence dépasse la dernière offre de règlement de l’entreprise répondant aux conditions du texte."
+          ]
+        },
+        {
+          "title": "Exceptions, modifications et contact",
+          "items": [
+            "Les conditions prévoient des renonciations au procès devant jury et aux actions collectives, avec des voies distinctes pour les petits litiges individuels et les mesures provisoires urgentes. Le texte exclut de l’arbitrage la diffamation, certains litiges informatiques et certains litiges de propriété intellectuelle. La désignation du tribunal par « Netherlands County, California » reste inexpliquée dans la source.",
+            "Les conditions prévoient les notifications électroniques, un délai de 30 jours calendaires pour les modifications substantielles concernant les utilisateurs existants et une application immédiate aux nouveaux utilisateurs. Elles traitent du contrôle des exportations, de la divisibilité des clauses et de la cession. L’adresse générale indiquée est warranty@hofish.net."
           ]
         }
       ]
@@ -802,16 +1558,31 @@
       "intro": "This separate privacy page identifies www.hofish.net and Shopify. Its published text contains template instructions and blanks.",
       "sections": [
         {
-          "title": "Data and purposes described",
+          "title": "Device, order and support information",
           "items": [
-            "The document covers device, order and support information, use of Shopify for fulfillment and payments, cookies and analytics, fraud prevention, and potential disclosures to vendors and authorities.",
-            "It presents passages on access, correction, erasure, portability and transfers outside Europe. It leaves the minimum age, parts of the provider list, the company’s automated decision-making choice and contact instructions unfilled."
+            "The text names www.hofish.net and lists browser and device details, IP and time zone, browsing and search activity, and order details such as payment, billing, delivery and contact information. It leaves the scope of support data and other sources partly blank.",
+            "It describes Shopify’s role in processing information and possible sharing with legal authorities. Uses include site operation, analytics, checkout, fulfillment, fraud screening and updates or marketing aligned with stated preferences. Provider lists and the minimum age are unfinished."
           ]
         },
         {
-          "title": "Unfinished policy wording",
+          "title": "Advertising, cookies and browser choices",
           "items": [
-            "A conditional template paragraph includes a statement about selling personal information. The footer privacy policy says HOFISH does not plan to sell data. These pages give conflicting wording and leave actual practice unclear."
+            "The template has conditional passages for analytics and targeted advertising. It includes opt-out examples for Facebook, Google, Bing and the Digital Advertising Alliance while leaving the exact services in use unresolved.",
+            "Cookie tables describe functions for cart and checkout, storefront sessions, login, account changes, analytics and marketing referrals. The page gives 30 minutes to two years as the range for most persistent cookies, notes that blocking can affect access and says it does not change its practices based on Do Not Track."
+          ]
+        },
+        {
+          "title": "Retention, fraud screening and European data",
+          "items": [
+            "The retention clause describes keeping order information until an erasure request. The European template lists potential grounds including consent, performance of a contract and legal obligations without selecting which apply.",
+            "The page describes temporary fraud screening by Shopify after failed transactions. It leaves HOFISH’s own choice about significant automated decisions blank. The European rights passage describes processing first in Ireland and transfers outside Europe, including to Canada and the United States."
+          ]
+        },
+        {
+          "title": "Rights, complaints and gaps in the published text",
+          "items": [
+            "The European and California passages discuss access, correction, erasure and portability. The California section also discusses appointing a representative. The complaint section gives a mailing address in Diamond Bar, California, but leaves the email, update date and supervisory-authority details as placeholders.",
+            "A conditional template block describes sales of personal information but omits categories, opt-out instructions, rules for minors and incentives. The footer policy says HOFISH does not plan to sell data. The two documents leave actual practices unclear."
           ]
         }
       ]
@@ -821,16 +1592,31 @@
       "intro": "Diese separate Datenschutzerklärung nennt www.hofish.net und Shopify. Der veröffentlichte Text enthält Anweisungen aus einer Vorlage und offene Felder.",
       "sections": [
         {
-          "title": "Beschriebene Daten und Zwecke",
+          "title": "Geräte-, Bestell- und Supportdaten",
           "items": [
-            "Der Text behandelt Geräte-, Bestell- und Supportdaten, den Einsatz von Shopify für Abwicklung und Zahlungen, Cookies und Analysen, Betrugsprävention und mögliche Weitergaben an Dienstleister und Behörden.",
-            "Er enthält Abschnitte über Auskunft, Berichtigung, Löschung, Übertragbarkeit und Übermittlungen außerhalb Europas. Mindestalter, Teile der Dienstleisterliste, Angaben zu automatisierten Entscheidungen des Unternehmens und Kontakthinweise bleiben offen."
+            "Der Text nennt www.hofish.net und führt Browser- und Geräteangaben, IP-Adresse, Zeitzone, Nutzungs- und Suchaktivität sowie Zahlungs-, Rechnungs-, Versand- und Kontaktdaten auf. Der Umfang der Supportdaten und weiterer Quellen bleibt teilweise offen.",
+            "Die Erklärung beschreibt Shopifys Rolle bei der Verarbeitung und eine mögliche Weitergabe an Behörden. Ergänzend nennt sie Shopbetrieb, Analyse, Zahlung, Abwicklung, Betrugsprüfung sowie Nachrichten oder Werbung nach den angegebenen Präferenzen. Anbieterlisten und Mindestalter sind nicht ausgefüllt."
           ]
         },
         {
-          "title": "Offene Punkte der Erklärung",
+          "title": "Werbung, Cookies und Browsereinstellungen",
           "items": [
-            "Ein bedingter Vorlagenabschnitt enthält eine Aussage zum Verkauf personenbezogener Daten. Die im Fußbereich verlinkte Datenschutzerklärung gibt an, dass HOFISH keinen Datenverkauf beabsichtigt. Die widersprüchlichen Formulierungen lassen die tatsächliche Praxis offen."
+            "Die Vorlage enthält bedingte Abschnitte für Analysen und zielgerichtete Werbung. Als Beispiele für Widerspruchsmöglichkeiten nennt sie Facebook, Google, Bing und die Digital Advertising Alliance. Welche Dienste tatsächlich genutzt werden, bleibt offen.",
+            "Die Cookie-Tabellen beschreiben Warenkorb, Bezahlvorgang, Shopsitzung, Anmeldung, Kontoänderungen, Analyse und Marketingverweise. Für die meisten dauerhaften Cookies nennt der Text Laufzeiten von 30 Minuten bis zwei Jahren. Das Blockieren kann den Zugang beeinträchtigen. Do Not Track ändert laut Text die Praxis nicht."
+          ]
+        },
+        {
+          "title": "Aufbewahrung, Betrugsprüfung und europäische Daten",
+          "items": [
+            "Der Aufbewahrungsabschnitt beschreibt die Speicherung von Bestelldaten bis zu einem Löschantrag. Der europäische Vorlagentext nennt mögliche Grundlagen, darunter Einwilligung, Vertragserfüllung und gesetzliche Pflichten, ohne die anwendbaren auszuwählen.",
+            "Die Seite beschreibt eine zeitweilige Betrugsprüfung durch Shopify nach fehlgeschlagenen Zahlungen. Die Aussage zu erheblichen vollautomatischen Entscheidungen von HOFISH bleibt offen. Der Abschnitt zu europäischen Rechten beschreibt eine erste Verarbeitung in Irland und Übermittlungen außerhalb Europas, darunter nach Kanada und in die USA."
+          ]
+        },
+        {
+          "title": "Rechte, Beschwerden und Lücken im veröffentlichten Text",
+          "items": [
+            "Die Abschnitte zu Europa und Kalifornien behandeln Auskunft, Berichtigung, Löschung und Datenübertragbarkeit. Für Kalifornien wird auch eine Vertretung genannt. Für Beschwerden gibt der Text eine Postadresse in Diamond Bar, Kalifornien, an. E-Mail-Adresse, Aktualisierungsdatum und zuständige Aufsichtsbehörde bleiben Platzhalter.",
+            "Ein bedingter Vorlagenabschnitt beschreibt den Verkauf personenbezogener Daten, ohne Kategorien, Widerspruchsverfahren, Regeln für Minderjährige oder Anreize einzutragen. Die Datenschutzerklärung in der Fußzeile gibt an, dass HOFISH keinen Datenverkauf plant. Die tatsächliche Praxis bleibt anhand beider Texte unklar."
           ]
         }
       ]
@@ -840,16 +1626,31 @@
       "intro": "Cette page distincte cite www.hofish.net et Shopify. Le texte publié contient des consignes de modèle et des champs non remplis.",
       "sections": [
         {
-          "title": "Données et finalités mentionnées",
+          "title": "Données d’appareil, de commande et d’assistance",
           "items": [
-            "Le texte aborde les données de l’appareil, des commandes et de l’assistance, le recours à Shopify pour l’exécution et les paiements, les cookies et statistiques, la prévention de la fraude et la transmission éventuelle à des prestataires ou autorités.",
-            "Il comporte des passages sur l’accès, la rectification, l’effacement, la portabilité et les transferts hors d’Europe. L’âge minimal, certains prestataires, les choix de l’entreprise concernant les décisions automatisées et les coordonnées restent à compléter."
+            "Le texte nomme www.hofish.net et cite les renseignements de navigateur et d’appareil, l’adresse IP, le fuseau horaire, l’activité de navigation et de recherche ainsi que les données de paiement, de facturation, de livraison et de contact. La liste des données d’assistance et des autres sources reste partiellement vide.",
+            "Le texte décrit la participation de Shopify au traitement des données et leur transmission éventuelle aux autorités. Il mentionne le fonctionnement du site, l’analyse, le paiement, la livraison, la détection de fraude et les communications ou promotions selon les préférences exprimées. Les listes de prestataires et l’âge minimal restent à compléter."
           ]
         },
         {
-          "title": "Rédaction inachevée",
+          "title": "Publicité, cookies et réglages du navigateur",
           "items": [
-            "Un passage conditionnel du modèle contient une déclaration relative à la vente de données personnelles. La politique liée en bas du site indique que HOFISH ne prévoit pas de vendre les données. Ces formulations divergentes laissent les pratiques effectives incertaines."
+            "Le modèle prévoit des passages conditionnels pour l’analyse et la publicité ciblée. Il cite des possibilités de désactivation pour Facebook, Google, Bing et la Digital Advertising Alliance tout en laissant indéterminés les services effectivement utilisés.",
+            "Les tableaux de cookies décrivent le panier, le paiement, les sessions de navigation, la connexion, les modifications du compte, l’analyse et les recommandations marketing. Le texte donne une durée de 30 minutes à deux ans pour la plupart des cookies persistants, signale que le blocage peut gêner l’accès et indique que le signal Do Not Track ne modifie pas les pratiques."
+          ]
+        },
+        {
+          "title": "Conservation, détection de fraude et données européennes",
+          "items": [
+            "Le passage sur la conservation prévoit de garder les renseignements de commande jusqu’à une demande d’effacement. Le modèle européen énumère des fondements possibles, dont le consentement, l’exécution d’un contrat et les obligations légales, sans préciser ceux qui s’appliquent.",
+            "La page décrit une détection temporaire de fraude par Shopify après des transactions échouées. Elle laisse en suspens la position de HOFISH sur les décisions entièrement automatisées ayant un effet significatif. Le passage sur les droits européens décrit un traitement initial en Irlande puis des transferts hors d’Europe, notamment vers le Canada et les États-Unis."
+          ]
+        },
+        {
+          "title": "Droits, réclamations et éléments manquants",
+          "items": [
+            "Les passages sur l’Europe et la Californie traitent de l’accès, de la rectification, de l’effacement et de la portabilité. La section californienne évoque aussi la désignation d’un mandataire. La partie sur les réclamations donne une adresse postale à Diamond Bar, en Californie, mais laisse vides le courriel, la date de mise à jour et les coordonnées de l’autorité compétente.",
+            "Un bloc conditionnel du modèle décrit la vente de renseignements personnels sans préciser les catégories, les moyens de s’y opposer, les règles pour les mineurs ni les incitations. La politique du pied de page indique que HOFISH ne prévoit pas de vendre les données. Les pratiques effectives restent indéterminées à la lecture des deux textes."
           ]
         }
       ]
@@ -863,15 +1664,27 @@
         {
           "title": "Request and eligibility",
           "items": [
-            "Email contact@hofish.net before sending anything. The policy says approved requests receive a shipping label and return instructions.",
-            "Items must be unworn or unused, with tags and original packaging, and accompanied by proof of purchase. Exclusions include sale items, gift cards, personal-care products, custom or perishable goods and certain hazardous materials."
+            "Start the request at contact@hofish.net within 30 days of receiving the item. The Shopify page requires the original condition, tags and packaging, with the product unworn or unused and accompanied by a receipt or other purchase evidence.",
+            "For an approved request, the page describes a return label and directions for the address and shipping procedure. Returns sent before a request is made are ineligible under this version. The text gives no mailing address or postage price."
           ]
         },
         {
-          "title": "Damages, exchanges and credits",
+          "title": "Damage, defects and order errors",
           "items": [
-            "The policy asks customers to report damage, defects or incorrect items promptly. For a replacement, it describes returning the accepted item and placing a new order.",
-            "After inspection and approval, a refund goes to the original payment method. The payment provider may take additional time to post it."
+            "The page asks customers to inspect the shipment on arrival and report damage, a defect or the wrong item immediately so the store can assess the issue. The footer policy specifies a 72-hour window for damaged or defective goods, while this page uses an immediate reporting instruction."
+          ]
+        },
+        {
+          "title": "Excluded products",
+          "items": [
+            "The published exclusions include discounted merchandise, gift cards, perishables, personalized or special-order items and personal-care goods. It also rules out hazardous materials, flammable liquids and gases."
+          ]
+        },
+        {
+          "title": "Changing items and refund status",
+          "items": [
+            "For a different item, the page describes requesting a return, waiting for acceptance, then placing a new purchase separately.",
+            "After inspecting the return received, the store says it will notify you of the decision. An approved refund goes back automatically to the original method. A bank or card issuer may take additional time to show the credit, and this page gives no fixed posting deadline."
           ]
         }
       ]
@@ -883,15 +1696,27 @@
         {
           "title": "Antrag und Voraussetzungen",
           "items": [
-            "Schreiben Sie vor jeder Rücksendung an contact@hofish.net. Nach Genehmigung sieht die Richtlinie ein Versandetikett und Rücksendehinweise vor.",
-            "Die Ware muss ungetragen oder unbenutzt sein und mit Etiketten, Originalverpackung und Kaufnachweis zurückgegeben werden. Ausgenommen sind unter anderem reduzierte Artikel, Geschenkkarten, Körperpflegeartikel, Sonderanfertigungen, verderbliche Waren und bestimmte Gefahrstoffe."
+            "Die Shopify-Seite nennt contact@hofish.net für Anträge innerhalb von 30 Tagen nach Erhalt. Die Ware muss ungetragen oder unbenutzt und in ursprünglichem Zustand sein. Etiketten, Originalverpackung und ein Beleg oder anderer Kaufnachweis sind erforderlich.",
+            "Bei einem akzeptierten Antrag beschreibt die Seite ein Rücksendeetikett sowie Angaben zur Adresse und zum Ablauf. Unangemeldete Rücksendungen nimmt der Shop laut dieser Fassung nicht an. Die Seite nennt weder eine Versandadresse noch einen Portobetrag."
           ]
         },
         {
-          "title": "Mängel, Umtausch und Erstattung",
+          "title": "Schäden, Mängel und Falschlieferungen",
           "items": [
-            "Schäden, Mängel oder falsch gelieferte Artikel sollen unverzüglich gemeldet werden. Für Ersatz beschreibt die Richtlinie eine genehmigte Rückgabe mit anschließender neuer Bestellung.",
-            "Nach Prüfung und Genehmigung erfolgt die Erstattung über das ursprüngliche Zahlungsmittel. Der Zahlungsdienstleister kann für die Gutschrift weitere Zeit benötigen."
+            "Die Seite bittet darum, die Lieferung beim Eingang zu prüfen und Schäden, Mängel oder eine Falschlieferung sofort zu melden, damit der Shop den Fall prüfen kann. Die Fußzeilenrichtlinie nennt für Schäden und Mängel 72 Stunden, während diese Fassung eine sofortige Meldung verlangt."
+          ]
+        },
+        {
+          "title": "Ausgeschlossene Produkte",
+          "items": [
+            "Ausgenommen sind laut Richtlinie reduzierte Ware, Geschenkkarten, verderbliche Waren, Sonder- oder personalisierte Bestellungen und Körperpflegeprodukte. Sie schließt auch Gefahrstoffe sowie entzündliche Flüssigkeiten und Gase aus."
+          ]
+        },
+        {
+          "title": "Anderen Artikel bestellen und Gutschrift verfolgen",
+          "items": [
+            "Für einen anderen Artikel beschreibt die Seite zunächst einen Rückgabeantrag und dessen Annahme. Der gewünschte Artikel wird anschließend separat bestellt.",
+            "Nach Eingang und Prüfung der Rücksendung kündigt der Shop eine Nachricht zur Entscheidung an. Genehmigte Beträge werden automatisch auf das ursprünglich genutzte Zahlungsmittel erstattet. Banken oder Kartenanbieter können für die Anzeige der Gutschrift mehr Zeit benötigen. Eine feste Frist nennt diese Fassung nicht."
           ]
         }
       ]
@@ -901,17 +1726,29 @@
       "intro": "La politique Shopify distincte permet de demander un retour dans les 30 jours suivant la réception. La version liée en bas du site indique un autre point de départ et un autre moyen de contact.",
       "sections": [
         {
-          "title": "Demande et admissibilité",
+          "title": "Demande et conditions d’acceptation",
           "items": [
-            "Écrivez à contact@hofish.net avant tout envoi. La politique prévoit une étiquette et des instructions de retour si la demande est acceptée.",
-            "Les articles doivent être non portés ou inutilisés, avec leurs étiquettes, leur emballage d’origine et une preuve d’achat. Parmi les exclusions figurent les articles soldés, les cartes-cadeaux, les produits de soin, les produits personnalisés ou périssables et certaines matières dangereuses."
+            "La page Shopify indique d’écrire à contact@hofish.net dans les 30 jours suivant la réception. L’article doit être intact, non porté ou inutilisé, avec ses étiquettes, son emballage d’origine et un reçu ou une autre preuve d’achat.",
+            "En cas d’acceptation, la page prévoit une étiquette et des instructions sur l’adresse et la procédure d’envoi. Un article expédié avant le dépôt de la demande est exclu de cette procédure. La page ne précise ni adresse de retour ni montant des frais d’envoi."
           ]
         },
         {
-          "title": "Défauts, échanges et remboursements",
+          "title": "Dommages, défauts et erreurs de livraison",
           "items": [
-            "La politique demande de signaler rapidement tout dommage, défaut ou erreur de livraison. Pour un remplacement, elle décrit un retour accepté suivi d’une nouvelle commande.",
-            "Une fois le retour inspecté et approuvé, le remboursement est versé sur le moyen de paiement d’origine. Le prestataire de paiement peut prendre un délai supplémentaire pour l’afficher."
+            "La page demande de vérifier le colis à la réception et de signaler immédiatement un dommage, un défaut ou un article erroné pour permettre à la boutique d’examiner le cas. La version liée en bas du site indique un délai de 72 heures pour les dommages ou défauts, tandis que cette version demande un signalement immédiat."
+          ]
+        },
+        {
+          "title": "Produits exclus",
+          "items": [
+            "Les articles soldés, cartes-cadeaux, produits périssables, commandes spéciales ou personnalisées et produits de soin figurent parmi les exclusions. La page exclut aussi les matières dangereuses, les liquides inflammables et les gaz."
+          ]
+        },
+        {
+          "title": "Échange et suivi du remboursement",
+          "items": [
+            "Pour obtenir un autre article, la page décrit une demande de retour suivie, après acceptation, d’un achat séparé.",
+            "Après réception et inspection du retour, la boutique annonce qu’elle communiquera sa décision. Le remboursement accepté revient automatiquement sur le moyen de paiement initial. La banque ou l’émetteur de la carte peut prendre du temps pour afficher le crédit. Cette page ne fixe pas de délai précis."
           ]
         }
       ]
@@ -923,15 +1760,64 @@
       "intro": "The separate Shopify terms identify HOFISH Maternity & Baby as the operator and refer to United States law. The store’s other terms-of-service page names “colors choice” and California law.",
       "sections": [
         {
-          "title": "Store terms",
+          "title": "Who can use the store",
           "items": [
-            "The document covers the storefront, account and order information, changes to products and prices, availability and order limits, returns under the return policy, and third-party tools or websites."
+            "The terms cover people who browse, buy, sell or submit content on the Shopify-hosted store. They require the age of majority where the user lives, including where an adult permits a minor dependent to use the site.",
+            "The operator may refuse service. Written permission is required to copy, resell or otherwise exploit the service. The page says card information is encrypted in transit while other submissions may travel unencrypted and be adapted for different networks."
           ]
         },
         {
-          "title": "Feedback, restrictions and contact",
+          "title": "Catalog accuracy, prices and availability",
           "items": [
-            "The text covers use of customer submissions, prohibited conduct, limits on warranties and liability, service termination and changes to the terms. It gives contact@hofish.net for questions."
+            "Product information may be incomplete or out of date. Screen colors may differ from actual products. The operator reserves the right to change prices, descriptions and the service without prior notice.",
+            "Some products may be exclusive to the online store or available in limited quantities. Sales can be limited by customer, region or jurisdiction. The return policy governs returns and exchanges."
+          ]
+        },
+        {
+          "title": "Orders and billing",
+          "items": [
+            "The operator may refuse orders or cap quantities by person, household or order. It may link orders by account, payment card or address and restrict purchasing by suspected resellers or distributors.",
+            "Customers are expected to keep their purchase, billing and account information current. The operator may try to notify a customer of changes using the contact details supplied at checkout."
+          ]
+        },
+        {
+          "title": "Optional tools and third-party sites",
+          "items": [
+            "External tools are offered without endorsement or guarantees. Their providers’ terms govern use. Third-party sites, materials and transactions are outside the store’s stated responsibility. Questions about third-party products go to the provider."
+          ]
+        },
+        {
+          "title": "Submissions and privacy",
+          "items": [
+            "The operator claims broad permission to edit, publish and translate feedback or contest entries without compensation, confidentiality or a reply. It can moderate submissions. Contributors are responsible for accuracy and for respecting privacy and intellectual property rights.",
+            "The store’s privacy policy governs personal information submitted through the store."
+          ]
+        },
+        {
+          "title": "Corrections and prohibited conduct",
+          "items": [
+            "The operator may correct errors in listings, shipping costs, delivery estimates or availability and may cancel orders already placed. A revision date does not establish that all information was reviewed.",
+            "The list of prohibited uses includes illegal activity, harassment, discrimination, infringement, false information, malware, phishing, scraping and interference with security."
+          ]
+        },
+        {
+          "title": "Warranty, liability and third-party claims",
+          "items": [
+            "The terms disclaim guarantees about service continuity, reliability and product fitness. They limit liability for losses such as lost data and indirect damages to the extent the applicable law permits.",
+            "The indemnity clause concerns third-party claims, including certain legal costs, arising from a breach, a violation of law or an infringement of another party’s rights."
+          ]
+        },
+        {
+          "title": "Termination and interpretation",
+          "items": [
+            "Customers may end service by telling the store or stopping use. The operator may cut off access without notice for suspected breaches. Amounts already owed and prior liabilities may survive termination.",
+            "If a provision cannot be enforced, the rest of the terms remain in place. The terms and posted rules supersede earlier agreements. Failure to enforce a right does not waive it."
+          ]
+        },
+        {
+          "title": "Applicable law, updates and contact",
+          "items": [
+            "The page cites United States law. The operator can publish revised terms, and continued use after publication is treated as acceptance. The policy gives contact@hofish.net for questions about the terms."
           ]
         }
       ]
@@ -941,15 +1827,64 @@
       "intro": "Die separaten Shopify-Bedingungen nennen HOFISH Maternity & Baby als Betreiber und das Recht der Vereinigten Staaten. Die andere Seite mit Geschäftsbedingungen nennt „colors choice“ und kalifornisches Recht.",
       "sections": [
         {
-          "title": "Shop und Bestellungen",
+          "title": "Wer den Shop nutzen darf",
           "items": [
-            "Das Dokument behandelt den Shop, Konto- und Bestelldaten, Änderungen an Produkten und Preisen, Verfügbarkeit und Bestellgrenzen, Rückgaben nach der Rückgaberichtlinie sowie Dienste und Websites Dritter."
+            "Die Bedingungen gelten für Personen, die im Shopify-Shop stöbern, kaufen, verkaufen oder Beiträge einreichen. Maßgeblich ist die Volljährigkeit am Wohnort, auch wenn Erwachsene minderjährigen Angehörigen die Nutzung erlauben.",
+            "Der Betreiber kann den Dienst verweigern. Für die Vervielfältigung, den Weiterverkauf und die sonstige Verwertung des Dienstes ist eine schriftliche Erlaubnis erforderlich. Laut Seite werden Kartendaten bei der Übertragung verschlüsselt. Andere Beiträge können unverschlüsselt übertragen und technisch an verschiedene Netze angepasst werden."
           ]
         },
         {
-          "title": "Feedback, Einschränkungen und Kontakt",
+          "title": "Katalogangaben, Preise und Verfügbarkeit",
           "items": [
-            "Der Text behandelt die Nutzung von Kundenbeiträgen, unzulässiges Verhalten, Einschränkungen bei Gewährleistung und Haftung, die Beendigung des Dienstes und Änderungen der Bedingungen. Als Kontaktadresse nennt er contact@hofish.net."
+            "Produktangaben können unvollständig oder veraltet sein. Bildschirmfarben können von der tatsächlichen Farbe abweichen. Der Betreiber behält sich vor, Preise, Beschreibungen und den Dienst ohne Vorankündigung zu ändern.",
+            "Manche Artikel sind nur online oder in begrenzter Menge verfügbar. Verkäufe können nach Kunde, Region oder Rechtsgebiet eingeschränkt werden. Für Rückgabe und Umtausch gelten die Rückgabebedingungen."
+          ]
+        },
+        {
+          "title": "Bestellungen und Rechnungsdaten",
+          "items": [
+            "Der Betreiber kann Bestellungen ablehnen oder Mengen je Person, Haushalt oder Bestellung begrenzen. Er kann Bestellungen anhand von Konto, Zahlungskarte oder Adresse zusammenfassen und mutmaßliche Wiederverkäufer oder Vertriebspartner beschränken.",
+            "Kauf-, Rechnungs- und Kontodaten sollen aktuell sein. Bei einer Änderung oder Stornierung kann der Betreiber versuchen, die bei der Bestellung angegebene Kontaktmöglichkeit zu nutzen."
+          ]
+        },
+        {
+          "title": "Optionale Werkzeuge und Websites Dritter",
+          "items": [
+            "Externe Werkzeuge werden ohne Empfehlung oder Zusicherung angeboten. Für ihre Nutzung gelten die Bedingungen des jeweiligen Anbieters. Der Shop sieht sich für fremde Websites, Inhalte und Transaktionen nicht verantwortlich. Fragen zu Produkten Dritter sind an den Anbieter zu richten."
+          ]
+        },
+        {
+          "title": "Beiträge und Datenschutz",
+          "items": [
+            "Der Betreiber beansprucht weitreichende Rechte zur Bearbeitung, Veröffentlichung und Übersetzung von Feedback und Wettbewerbsbeiträgen, ohne Vergütung, Vertraulichkeit oder Antwort zuzusagen. Er kann Beiträge moderieren. Einreichende sind für die Richtigkeit und die Wahrung fremder Datenschutz- und Schutzrechte verantwortlich.",
+            "Für im Shop übermittelte personenbezogene Daten verweist der Text auf die Datenschutzerklärung."
+          ]
+        },
+        {
+          "title": "Korrekturen und unzulässige Nutzung",
+          "items": [
+            "Der Betreiber kann falsche Produktangaben, Versandkosten, Lieferzeiten und Verfügbarkeiten korrigieren und bereits aufgegebene Bestellungen stornieren. Ein Aktualisierungsdatum belegt keine vollständige Überprüfung aller Angaben.",
+            "Als unzulässige Nutzung nennt der Text unter anderem Rechtsverstöße, Belästigung, Diskriminierung, Schutzrechtsverletzungen, Falschangaben, Schadsoftware, Phishing, Scraping und Eingriffe in Sicherheitsfunktionen."
+          ]
+        },
+        {
+          "title": "Gewährleistung, Haftung und Ansprüche Dritter",
+          "items": [
+            "Die Bedingungen schließen Zusagen zur lückenlosen Verfügbarkeit, Zuverlässigkeit und Eignung von Produkten aus. Soweit rechtlich zulässig, begrenzen sie die Haftung etwa bei Datenverlust und mittelbaren Schäden.",
+            "Die Freistellungsklausel betrifft Ansprüche Dritter und bestimmte Rechtskosten, wenn sie auf einem Verstoß gegen die Bedingungen, gegen Gesetze oder gegen fremde Rechte beruhen."
+          ]
+        },
+        {
+          "title": "Beendigung und Auslegung",
+          "items": [
+            "Kunden können den Dienst durch Mitteilung oder durch Einstellung der Nutzung beenden. Bei einem vermuteten Verstoß kann der Betreiber den Zugang ohne Vorankündigung sperren. Offene Beträge und bereits entstandene Pflichten können bestehen bleiben.",
+            "Ist eine Klausel nicht durchsetzbar, gelten die übrigen Bedingungen weiter. Die Bedingungen und veröffentlichten Regeln ersetzen frühere Vereinbarungen. Die Nichtdurchsetzung eines Rechts gilt nicht als Verzicht."
+          ]
+        },
+        {
+          "title": "Anwendbares Recht, Änderungen und Kontakt",
+          "items": [
+            "Die Seite nennt das Recht der Vereinigten Staaten. Der Betreiber kann neue Bedingungen veröffentlichen und wertet die weitere Nutzung danach als Zustimmung. Für Fragen zu den Bedingungen nennt die Richtlinie contact@hofish.net."
           ]
         }
       ]
@@ -959,15 +1894,64 @@
       "intro": "Les conditions Shopify distinctes désignent HOFISH Maternity & Baby comme exploitant et citent le droit des États-Unis. L’autre page de conditions de service désigne « colors choice » et cite le droit californien.",
       "sections": [
         {
-          "title": "Boutique et commandes",
+          "title": "Accès à la boutique",
           "items": [
-            "Le document traite de la boutique, des données de compte et de commande, des modifications de produits et de prix, de la disponibilité et des limites de commande, des retours selon la politique applicable et des outils ou sites tiers."
+            "Les conditions couvrent les visiteurs, acheteurs, vendeurs et contributeurs de la boutique hébergée par Shopify. La majorité dans le lieu de résidence est requise, y compris lorsqu’un adulte autorise un mineur à sa charge à accéder au site.",
+            "L’exploitant peut refuser le service. La copie, la revente ou toute autre exploitation du service requiert une autorisation écrite. La page indique que les données de carte sont chiffrées en transit. Les autres contenus peuvent circuler sans chiffrement et être adaptés à différents réseaux."
           ]
         },
         {
-          "title": "Contributions, restrictions et contact",
+          "title": "Fiches produits, prix et disponibilité",
           "items": [
-            "Le texte aborde l’utilisation des contributions des clients, les comportements interdits, les limites des garanties et de la responsabilité, l’arrêt du service et la modification des conditions. Pour toute question, il indique contact@hofish.net."
+            "Les informations du catalogue peuvent être incomplètes ou anciennes. Les couleurs à l’écran peuvent différer des couleurs réelles. L’exploitant se réserve la possibilité de modifier sans préavis les prix, les descriptions et le service.",
+            "Des articles peuvent être proposés uniquement en ligne ou en quantité limitée. Les ventes peuvent être restreintes selon le client, la région ou la juridiction. Les retours et les échanges relèvent de la politique de retour."
+          ]
+        },
+        {
+          "title": "Commandes et facturation",
+          "items": [
+            "L’exploitant peut refuser une commande ou plafonner les quantités par personne, foyer ou commande. Il peut rapprocher des commandes par compte, carte ou adresse et restreindre celles qu’il attribue à des revendeurs ou distributeurs.",
+            "Les clients sont tenus de mettre à jour leurs données d’achat, de facturation et de compte. En cas de modification ou d’annulation, l’exploitant peut tenter de les joindre aux coordonnées données lors de la commande."
+          ]
+        },
+        {
+          "title": "Outils facultatifs et sites tiers",
+          "items": [
+            "Les outils externes sont proposés sans recommandation ni garantie. Leur utilisation relève des conditions du fournisseur. La boutique écarte sa responsabilité pour les sites, contenus et transactions de tiers. Les questions sur leurs produits sont à adresser au fournisseur concerné."
+          ]
+        },
+        {
+          "title": "Contributions et données personnelles",
+          "items": [
+            "L’exploitant revendique un droit étendu de modifier, publier et traduire les avis et les participations aux concours, sans promettre de rémunération, de confidentialité ni de réponse. Il peut modérer les contributions. Les auteurs répondent de leur exactitude ainsi que du respect de la vie privée et de la propriété intellectuelle.",
+            "La politique de confidentialité régit les données personnelles communiquées à la boutique."
+          ]
+        },
+        {
+          "title": "Corrections et utilisations interdites",
+          "items": [
+            "L’exploitant peut rectifier les fiches, les frais de livraison, les délais et la disponibilité, puis annuler des commandes déjà passées. Une date de mise à jour ne signifie pas que toutes les informations ont été revues.",
+            "Le texte interdit notamment les activités illégales, le harcèlement, la discrimination, les atteintes aux droits, les déclarations trompeuses, les logiciels malveillants, l’hameçonnage, l’extraction automatisée et les atteintes aux dispositifs de sécurité."
+          ]
+        },
+        {
+          "title": "Garanties, responsabilité et réclamations de tiers",
+          "items": [
+            "Les conditions excluent les garanties quant à la continuité du service, à sa fiabilité et à l’aptitude des produits à l’usage prévu. Elles limitent, dans la mesure permise par le droit applicable, la responsabilité pour des pertes telles que la perte de données et les dommages indirects.",
+            "La clause d’indemnisation vise les réclamations de tiers et certains frais juridiques découlant d’un manquement aux conditions, d’une infraction à la loi ou d’une atteinte aux droits d’autrui."
+          ]
+        },
+        {
+          "title": "Résiliation et interprétation",
+          "items": [
+            "Un client peut mettre fin au service en prévenant la boutique ou en cessant de l’utiliser. L’exploitant peut couper l’accès sans préavis s’il soupçonne un manquement. Les sommes dues et les obligations déjà nées peuvent subsister.",
+            "Si une clause est inapplicable, les autres restent en vigueur. Les conditions et règles publiées remplacent les accords antérieurs. Le fait de ne pas exercer un droit n’équivaut pas à y renoncer."
+          ]
+        },
+        {
+          "title": "Droit applicable, mises à jour et contact",
+          "items": [
+            "La page cite le droit des États-Unis. L’exploitant peut publier des conditions modifiées et considère que l’utilisation après leur publication vaut acceptation. La politique indique contact@hofish.net pour les questions sur les conditions."
           ]
         }
       ]

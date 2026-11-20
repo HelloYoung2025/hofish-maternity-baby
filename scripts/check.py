@@ -1,9 +1,11 @@
 """Check source coverage, locale parity and links in the generated reference."""
 from collections import Counter
 from html.parser import HTMLParser
+import re
 from urllib.parse import unquote, urlsplit
 
-from build import CONTENT_FILES, LANGUAGES, ROOT, SHOP_INDEX, SOURCE, external, load, path_for
+from build import LANGUAGES, ROOT, SHOP_INDEX, SOURCE, external, load_snapshot, path_for
+from github_docs import DOCS, doc_path, documents
 
 
 class Page(HTMLParser):
@@ -11,6 +13,7 @@ class Page(HTMLParser):
         super().__init__()
         self.language = ""
         self.headings = 0
+        self.table_rows = 0
         self.links = []
         self.assets = []
         self.ids = set()
@@ -25,6 +28,8 @@ class Page(HTMLParser):
             self.language = attrs["lang"]
         if tag == "h1":
             self.headings += 1
+        if tag == "tr":
+            self.table_rows += 1
         if tag == "a":
             self.links.append((attrs["href"], attrs.get("hreflang")))
         if tag in {"link", "script"}:
@@ -40,15 +45,43 @@ def destination(file, url):
     return result / "index.html" if result.is_dir() else result
 
 
+def check_github_docs(content, manifest, interface):
+    expected = {DOCS / path: prose for path, prose in documents(content, manifest, interface)}
+    assert set(DOCS.rglob("*.md")) == expected.keys(), "Missing or stale GitHub pages"
+    linked = {}
+    for file, prose in expected.items():
+        assert file.read_text(encoding="utf-8") == prose, f"Regenerate {file}"
+        linked[file] = set()
+        for url in re.findall(r"\]\(<([^>]+)>\)", prose):
+            if urlsplit(url).scheme:
+                external(url)
+            else:
+                target = destination(file, url)
+                assert target in expected, (file, url, target)
+                linked[file].add(target)
+    for language in LANGUAGES:
+        pending = [DOCS / doc_path("/", language)]
+        visited = set()
+        while pending:
+            file = pending.pop()
+            if file in visited:
+                continue
+            visited.add(file)
+            pending.extend(target for target in linked[file] if target.is_relative_to(DOCS / language))
+        assert visited == {file for file in expected if file.is_relative_to(DOCS / language)}, language
+    print(f"Verified {len(expected)} GitHub pages are current, linked and reachable by language.")
+
+
 def main():
     output = ROOT / "dist"
-    sources = load("sources")["pages"]
-    content = {route: record for name in CONTENT_FILES for route, record in load(name).items()}
-    assert sources.keys() == content.keys(), "Content and source routes differ"
+    content, manifest, interface = load_snapshot()
+    sources = manifest["pages"]
     for route, texts in content.items():
-        assert set(texts) == set(LANGUAGES), route
+        english_items = [len(section["items"]) for section in texts["en"]["sections"]]
+        assert english_items and all(english_items), route
         for language, record in texts.items():
             assert record["title"].strip() and record["intro"].strip(), (route, language)
+            assert [len(section["items"]) for section in record["sections"]] == english_items, (route, language)
             for section in record["sections"]:
                 assert section["title"].strip() and all(item.strip() for item in section["items"]), (route, language)
 
@@ -58,6 +91,12 @@ def main():
         for key, kind in (("products", "product"), ("articles", "article"), ("tags", "tag")):
             for target in source.get(key, []):
                 assert sources[target]["type"] == kind, (route, target, kind)
+        if route in products:
+            variants = source["variants"]
+            assert variants and len({row["label"] for row in variants}) == len(variants), route
+            for variant in variants:
+                assert isinstance(variant["available"], bool) and variant["usd_cents"] > 0, route
+        assert all(target in sources and target != route for target in source.get("related", [])), route
 
     expected = {
         (output / path_for(route, language)): (route, language)
@@ -74,6 +113,8 @@ def main():
         assert alternates == {lang: output / path_for(route, lang) for lang in LANGUAGES}, file
         if route in sources:
             assert (SOURCE + route, None) in page.links, file
+        if route in products:
+            assert page.table_rows == len(sources[route]["variants"]) + 1, file
         for asset in page.assets:
             assert not urlsplit(asset).netloc and destination(file, asset).is_file(), (file, asset)
         for url, _ in page.links:
@@ -91,6 +132,7 @@ def main():
     print(f"Verified {len(expected)} pages, {checked_links} internal links, {indexed} indexed and "
           f"{len(sources) - indexed} supplemental source routes.")
     print(", ".join(f"{kind}: {count}" for kind, count in sorted(counts.items())))
+    check_github_docs(content, manifest, interface)
 
 
 if __name__ == "__main__":

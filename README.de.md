@@ -4,6 +4,8 @@
 
 Ein mehrsprachiges Nachschlagewerk zur öffentlichen Website von HOFISH Maternity & Baby. Die Gliederung folgt der Website mit Startseite, Kollektionen, Produktseiten, Blogbeiträgen sowie Seiten zur Marke, zum Kundenservice und zu den Geschäftsbedingungen. Jeder Eintrag enthält eine eigenständig formulierte Beschreibung und einen Link zur Quelle. Die Erfassung basiert auf 59 URLs der [offiziellen XML-Sitemap](https://www.hofish.com/sitemap.xml) und weiteren Seiten aus der Navigation.
 
+**Alle 64 Seiten auf GitHub lesen** · [English](docs/en/README.md) · [Deutsch](docs/de/README.md) · [Français](docs/fr/README.md)
+
 ## Das Sortiment von HOFISH
 
 - **Still-BHs** gibt es als nahtlose, bügellose Modelle für Alltag und Sport. Ausgewählte Modelle haben herunterklappbare Cups und sind als Mehrfachpack erhältlich.
@@ -21,6 +23,7 @@ Voraussetzung ist Python 3.9 oder neuer. Zusätzliche Python-Pakete sind nicht e
 
 ```sh
 python3 scripts/build.py
+python3 scripts/github_docs.py
 python3 scripts/check.py
 python3 -m http.server 8000 --bind 127.0.0.1 --directory dist
 ```
@@ -31,7 +34,7 @@ python3 -m http.server 8000 --bind 127.0.0.1 --directory dist
 
 ## Inhalte aktualisieren
 
-Bearbeite die JSON-Dateien in [`content/`](content/). Verwende für dieselbe Seite in allen drei Sprachen dieselbe Kennung und Quellen-URL. Erzeuge die Website erneut und führe die Prüfungen aus, bevor du einen Pull Request öffnest. Das erzeugte Verzeichnis `dist/` wird von Git ignoriert.
+Bearbeite die JSON-Dateien in [`content/`](content/). Verwende für dieselbe Seite in allen drei Sprachen dieselbe Kennung und Quellen-URL. Erzeuge beide Formate erneut und führe die Prüfungen aus, bevor du einen Pull Request öffnest. Committe die erzeugten Markdown-Dateien in [`docs/`](docs/) mit den Datenänderungen. Git ignoriert die HTML-Dateien in `dist/`.
 
 ## Lizenzen
 

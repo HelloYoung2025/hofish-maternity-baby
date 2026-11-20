@@ -344,6 +344,133 @@
             "XX-Large"
           ]
         }
+      ],
+      "variants": [
+        {
+          "label": "Beige（3PACK） / Small",
+          "usd_cents": 2999,
+          "available": false
+        },
+        {
+          "label": "Beige（3PACK） / Medium",
+          "usd_cents": 2999,
+          "available": true
+        },
+        {
+          "label": "Beige（3PACK） / Large",
+          "usd_cents": 2999,
+          "available": true
+        },
+        {
+          "label": "Beige（3PACK） / X-Large",
+          "usd_cents": 2999,
+          "available": true
+        },
+        {
+          "label": "Beige（3PACK） / XX-Large",
+          "usd_cents": 2999,
+          "available": true
+        },
+        {
+          "label": "Black（3PACK） / Small",
+          "usd_cents": 2999,
+          "available": true
+        },
+        {
+          "label": "Black（3PACK） / Medium",
+          "usd_cents": 2999,
+          "available": true
+        },
+        {
+          "label": "Black（3PACK） / Large",
+          "usd_cents": 2999,
+          "available": true
+        },
+        {
+          "label": "Black（3PACK） / X-Large",
+          "usd_cents": 2999,
+          "available": true
+        },
+        {
+          "label": "Black（3PACK） / XX-Large",
+          "usd_cents": 2999,
+          "available": true
+        },
+        {
+          "label": "Black+Beige+Pink / Small",
+          "usd_cents": 2999,
+          "available": true
+        },
+        {
+          "label": "Black+Beige+Pink / Medium",
+          "usd_cents": 2999,
+          "available": true
+        },
+        {
+          "label": "Black+Beige+Pink / Large",
+          "usd_cents": 2999,
+          "available": true
+        },
+        {
+          "label": "Black+Beige+Pink / X-Large",
+          "usd_cents": 2999,
+          "available": true
+        },
+        {
+          "label": "Black+Beige+Pink / XX-Large",
+          "usd_cents": 2999,
+          "available": true
+        },
+        {
+          "label": "Black+Grey+Elegant Pink / Small",
+          "usd_cents": 2999,
+          "available": true
+        },
+        {
+          "label": "Black+Grey+Elegant Pink / Medium",
+          "usd_cents": 2999,
+          "available": true
+        },
+        {
+          "label": "Black+Grey+Elegant Pink / Large",
+          "usd_cents": 2999,
+          "available": true
+        },
+        {
+          "label": "Black+Grey+Elegant Pink / X-Large",
+          "usd_cents": 2999,
+          "available": true
+        },
+        {
+          "label": "Black+Grey+Elegant Pink / XX-Large",
+          "usd_cents": 2999,
+          "available": true
+        },
+        {
+          "label": "Pink（3PACK） / Small",
+          "usd_cents": 2999,
+          "available": false
+        },
+        {
+          "label": "Pink（3PACK） / Medium",
+          "usd_cents": 2999,
+          "available": false
+        },
+        {
+          "label": "Pink（3PACK） / Large",
+          "usd_cents": 2999,
+          "available": false
+        },
+        {
+          "label": "Pink（3PACK） / X-Large",
+          "usd_cents": 2999,
+          "available": false
+        },
+        {
+          "label": "Pink（3PACK） / XX-Large",
+          "usd_cents": 2999,
+          "available": false
+        }
       ]
     },
     "/products/hofish-3-pack-seamless-clip-down-deep-v-neck-push-up-nursing-bra-maternity-bras-3pack-inlcuding-extenders-clips": {
@@ -451,6 +578,123 @@
             "X-Large",
             "XX-Large"
           ]
+        }
+      ],
+      "variants": [
+        {
+          "label": "3Pack: Black/Beige/Pink / Small",
+          "usd_cents": 2999,
+          "available": false
+        },
+        {
+          "label": "3Pack: Black/Beige/Pink / Medium",
+          "usd_cents": 2999,
+          "available": true
+        },
+        {
+          "label": "3Pack: Black/Beige/Pink / Large",
+          "usd_cents": 2999,
+          "available": true
+        },
+        {
+          "label": "3Pack: Black/Beige/Pink / X-Large",
+          "usd_cents": 2999,
+          "available": true
+        },
+        {
+          "label": "3Pack: Black/Beige/Pink / XX-Large",
+          "usd_cents": 2999,
+          "available": false
+        },
+        {
+          "label": "3Pack: Black / Small",
+          "usd_cents": 2999,
+          "available": false
+        },
+        {
+          "label": "3Pack: Black / Medium",
+          "usd_cents": 2999,
+          "available": false
+        },
+        {
+          "label": "3Pack: Black / Large",
+          "usd_cents": 2999,
+          "available": false
+        },
+        {
+          "label": "3Pack: Black / X-Large",
+          "usd_cents": 2999,
+          "available": true
+        },
+        {
+          "label": "3Pack: Beige / Small",
+          "usd_cents": 2999,
+          "available": false
+        },
+        {
+          "label": "3Pack: Beige / Medium",
+          "usd_cents": 2999,
+          "available": true
+        },
+        {
+          "label": "3Pack: Beige / Large",
+          "usd_cents": 2999,
+          "available": false
+        },
+        {
+          "label": "3Pack: Beige / X-Large",
+          "usd_cents": 2999,
+          "available": true
+        },
+        {
+          "label": "3Pack:Black/Grey/Elegant Pink / Small",
+          "usd_cents": 2999,
+          "available": false
+        },
+        {
+          "label": "3Pack:Black/Grey/Elegant Pink / Medium",
+          "usd_cents": 2999,
+          "available": false
+        },
+        {
+          "label": "3Pack:Black/Grey/Elegant Pink / Large",
+          "usd_cents": 2999,
+          "available": false
+        },
+        {
+          "label": "3Pack:Black/Grey/Elegant Pink / X-Large",
+          "usd_cents": 2999,
+          "available": true
+        },
+        {
+          "label": "3Pack:Black/Grey/Elegant Pink / XX-Large",
+          "usd_cents": 2999,
+          "available": true
+        },
+        {
+          "label": "3Pack:Fixed Pad(pink-black-beige) / Small",
+          "usd_cents": 2999,
+          "available": false
+        },
+        {
+          "label": "3Pack:Fixed Pad(pink-black-beige) / Medium",
+          "usd_cents": 2999,
+          "available": true
+        },
+        {
+          "label": "3Pack:Fixed Pad(pink-black-beige) / Large",
+          "usd_cents": 2999,
+          "available": true
+        },
+        {
+          "label": "3Pack:Fixed Pad(pink-black-beige) / X-Large",
+          "usd_cents": 2999,
+          "available": true
+        },
+        {
+          "label": "3Pack:Fixed Pad(pink-black-beige) / XX-Large",
+          "usd_cents": 2999,
+          "available": true
         }
       ]
     },
@@ -586,6 +830,88 @@
             "XX-Large"
           ]
         }
+      ],
+      "variants": [
+        {
+          "label": "Non-padded：3 Pack Grey/Black/White / Medium",
+          "usd_cents": 3599,
+          "available": true
+        },
+        {
+          "label": "Non-padded：3 Pack Grey/Black/White / Large",
+          "usd_cents": 3599,
+          "available": true
+        },
+        {
+          "label": "Non-padded：3 Pack Grey/Black/White / X-Large",
+          "usd_cents": 3599,
+          "available": false
+        },
+        {
+          "label": "Non-padded：3 Pack Grey/Black/White / XX-Large",
+          "usd_cents": 3599,
+          "available": false
+        },
+        {
+          "label": "Non-padded: Black Chocolatebrown / Medium",
+          "usd_cents": 3599,
+          "available": true
+        },
+        {
+          "label": "Non-padded: Black Chocolatebrown / Large",
+          "usd_cents": 3599,
+          "available": false
+        },
+        {
+          "label": "Non-padded: Black Chocolatebrown / X-Large",
+          "usd_cents": 3599,
+          "available": false
+        },
+        {
+          "label": "Non-padded: Black Chocolatebrown / XX-Large",
+          "usd_cents": 3599,
+          "available": false
+        },
+        {
+          "label": "Non-padded: Black Latte / Medium",
+          "usd_cents": 3599,
+          "available": true
+        },
+        {
+          "label": "Non-padded: Black Latte / Large",
+          "usd_cents": 3599,
+          "available": true
+        },
+        {
+          "label": "Non-padded: Black Latte / X-Large",
+          "usd_cents": 3599,
+          "available": false
+        },
+        {
+          "label": "Non-padded: Black Latte / XX-Large",
+          "usd_cents": 3599,
+          "available": false
+        },
+        {
+          "label": "Non-padded: Black Latte Chocolatebrown / Medium",
+          "usd_cents": 3599,
+          "available": false
+        },
+        {
+          "label": "Non-padded: Black Latte Chocolatebrown / Large",
+          "usd_cents": 3599,
+          "available": false
+        },
+        {
+          "label": "Non-padded: Black Latte Chocolatebrown / X-Large",
+          "usd_cents": 3599,
+          "available": false
+        },
+        {
+          "label": "Non-padded: Black Latte Chocolatebrown / XX-Large",
+          "usd_cents": 3599,
+          "available": false
+        }
       ]
     },
     "/products/3-pack-full-bust-seamless-nursing-maternity-bras-s-xxl-copy-1": {
@@ -652,6 +978,38 @@
             "Large",
             "X-Large"
           ]
+        }
+      ],
+      "variants": [
+        {
+          "label": "2Pack : Black / Medium",
+          "usd_cents": 2999,
+          "available": true
+        },
+        {
+          "label": "2Pack : Black / Large",
+          "usd_cents": 2999,
+          "available": true
+        },
+        {
+          "label": "2Pack : Black / X-Large",
+          "usd_cents": 2999,
+          "available": true
+        },
+        {
+          "label": "2Pack : Black/Beige / Medium",
+          "usd_cents": 2999,
+          "available": true
+        },
+        {
+          "label": "2Pack : Black/Beige / Large",
+          "usd_cents": 2999,
+          "available": true
+        },
+        {
+          "label": "2Pack : Black/Beige / X-Large",
+          "usd_cents": 2999,
+          "available": true
         }
       ]
     },
@@ -830,6 +1188,158 @@
             "2XL"
           ]
         }
+      ],
+      "variants": [
+        {
+          "label": "2Pack:Black/Beige / S",
+          "usd_cents": 1699,
+          "available": false
+        },
+        {
+          "label": "2Pack:Black/Beige / M",
+          "usd_cents": 1699,
+          "available": true
+        },
+        {
+          "label": "2Pack:Black/Beige / L",
+          "usd_cents": 1699,
+          "available": true
+        },
+        {
+          "label": "2Pack:Black/Beige / XL",
+          "usd_cents": 1699,
+          "available": true
+        },
+        {
+          "label": "2Pack:Black/Beige / 2XL",
+          "usd_cents": 1699,
+          "available": true
+        },
+        {
+          "label": "2Pack:Black/Pink / S",
+          "usd_cents": 1699,
+          "available": false
+        },
+        {
+          "label": "2Pack:Black/Pink / M",
+          "usd_cents": 1699,
+          "available": true
+        },
+        {
+          "label": "2Pack:Black/Pink / L",
+          "usd_cents": 1699,
+          "available": true
+        },
+        {
+          "label": "2Pack:Black/Pink / XL",
+          "usd_cents": 1699,
+          "available": true
+        },
+        {
+          "label": "2Pack:Black/Pink / 2XL",
+          "usd_cents": 1699,
+          "available": true
+        },
+        {
+          "label": "2Pack:Beige*2 / S",
+          "usd_cents": 15099,
+          "available": false
+        },
+        {
+          "label": "2Pack:Beige*2 / M",
+          "usd_cents": 15099,
+          "available": false
+        },
+        {
+          "label": "2Pack:Beige*2 / L",
+          "usd_cents": 15099,
+          "available": false
+        },
+        {
+          "label": "2Pack:Beige*2 / XL",
+          "usd_cents": 15099,
+          "available": false
+        },
+        {
+          "label": "2Pack:Beige*2 / 2XL",
+          "usd_cents": 15099,
+          "available": false
+        },
+        {
+          "label": "3Pack:Beige/Black/Pink / S",
+          "usd_cents": 2199,
+          "available": false
+        },
+        {
+          "label": "3Pack:Beige/Black/Pink / M",
+          "usd_cents": 2199,
+          "available": true
+        },
+        {
+          "label": "3Pack:Beige/Black/Pink / L",
+          "usd_cents": 2199,
+          "available": true
+        },
+        {
+          "label": "3Pack:Beige/Black/Pink / XL",
+          "usd_cents": 2199,
+          "available": true
+        },
+        {
+          "label": "3Pack:Beige/Black/Pink / 2XL",
+          "usd_cents": 2199,
+          "available": true
+        },
+        {
+          "label": "New 2Pack :Black/Pink / S",
+          "usd_cents": 1699,
+          "available": false
+        },
+        {
+          "label": "New 2Pack :Black/Pink / M",
+          "usd_cents": 1699,
+          "available": false
+        },
+        {
+          "label": "New 2Pack :Black/Pink / L",
+          "usd_cents": 1699,
+          "available": false
+        },
+        {
+          "label": "New 2Pack :Black/Pink / XL",
+          "usd_cents": 1699,
+          "available": false
+        },
+        {
+          "label": "New 2Pack :Black/Pink / 2XL",
+          "usd_cents": 1699,
+          "available": false
+        },
+        {
+          "label": "New 2Pack :Black/Beige / S",
+          "usd_cents": 1899,
+          "available": false
+        },
+        {
+          "label": "New 2Pack :Black/Beige / M",
+          "usd_cents": 1899,
+          "available": true
+        },
+        {
+          "label": "New 2Pack :Black/Beige / L",
+          "usd_cents": 1899,
+          "available": true
+        },
+        {
+          "label": "New 2Pack :Black/Beige / XL",
+          "usd_cents": 1899,
+          "available": true
+        },
+        {
+          "label": "New 2Pack :Black/Beige / 2XL",
+          "usd_cents": 1899,
+          "available": true
+        }
       ]
     },
     "/products/hofish-pumping-bra-hands-free-nursing-sports-for-pregnancy-breastfeeding-womens-maternity-adjustable-seamless": {
@@ -908,6 +1418,38 @@
             "Medium",
             "Large"
           ]
+        }
+      ],
+      "variants": [
+        {
+          "label": "Black / Small",
+          "usd_cents": 2199,
+          "available": false
+        },
+        {
+          "label": "Black / Medium",
+          "usd_cents": 2199,
+          "available": false
+        },
+        {
+          "label": "Black / Large",
+          "usd_cents": 2199,
+          "available": false
+        },
+        {
+          "label": "Black+Nude / Small",
+          "usd_cents": 3899,
+          "available": false
+        },
+        {
+          "label": "Black+Nude / Medium",
+          "usd_cents": 3899,
+          "available": false
+        },
+        {
+          "label": "Black+Nude / Large",
+          "usd_cents": 3899,
+          "available": false
         }
       ]
     },
@@ -1099,6 +1641,183 @@
             "XX-Large"
           ]
         }
+      ],
+      "variants": [
+        {
+          "label": "Black / Small",
+          "usd_cents": 2299,
+          "available": false
+        },
+        {
+          "label": "Black / Medium",
+          "usd_cents": 2299,
+          "available": false
+        },
+        {
+          "label": "Black / Large",
+          "usd_cents": 2299,
+          "available": false
+        },
+        {
+          "label": "Black / X-Large",
+          "usd_cents": 2299,
+          "available": false
+        },
+        {
+          "label": "Black / XX-Large",
+          "usd_cents": 2299,
+          "available": false
+        },
+        {
+          "label": "White01 / Small",
+          "usd_cents": 2299,
+          "available": false
+        },
+        {
+          "label": "White01 / Medium",
+          "usd_cents": 2299,
+          "available": false
+        },
+        {
+          "label": "White01 / Large",
+          "usd_cents": 2299,
+          "available": false
+        },
+        {
+          "label": "White01 / X-Large",
+          "usd_cents": 2299,
+          "available": false
+        },
+        {
+          "label": "White01 / XX-Large",
+          "usd_cents": 2299,
+          "available": false
+        },
+        {
+          "label": "Coffee / Small",
+          "usd_cents": 2299,
+          "available": false
+        },
+        {
+          "label": "Coffee / Medium",
+          "usd_cents": 2299,
+          "available": false
+        },
+        {
+          "label": "Coffee / Large",
+          "usd_cents": 2299,
+          "available": false
+        },
+        {
+          "label": "Coffee / X-Large",
+          "usd_cents": 2299,
+          "available": true
+        },
+        {
+          "label": "Coffee / XX-Large",
+          "usd_cents": 2299,
+          "available": false
+        },
+        {
+          "label": "Beige / Small",
+          "usd_cents": 2299,
+          "available": false
+        },
+        {
+          "label": "Beige / Medium",
+          "usd_cents": 2299,
+          "available": true
+        },
+        {
+          "label": "Beige / Large",
+          "usd_cents": 2299,
+          "available": true
+        },
+        {
+          "label": "Beige / X-Large",
+          "usd_cents": 2299,
+          "available": true
+        },
+        {
+          "label": "Beige / XX-Large",
+          "usd_cents": 2299,
+          "available": false
+        },
+        {
+          "label": "2Pack:Black/Beige / Small",
+          "usd_cents": 3299,
+          "available": false
+        },
+        {
+          "label": "2Pack:Black/Beige / Medium",
+          "usd_cents": 3299,
+          "available": true
+        },
+        {
+          "label": "2Pack:Black/Beige / Large",
+          "usd_cents": 3299,
+          "available": true
+        },
+        {
+          "label": "2Pack:Black/Beige / X-Large",
+          "usd_cents": 3299,
+          "available": true
+        },
+        {
+          "label": "2Pack:Black/Beige / XX-Large",
+          "usd_cents": 3299,
+          "available": true
+        },
+        {
+          "label": "2Pack:Black/Blue Green / Small",
+          "usd_cents": 3299,
+          "available": false
+        },
+        {
+          "label": "2Pack:Black/Blue Green / Medium",
+          "usd_cents": 3299,
+          "available": true
+        },
+        {
+          "label": "2Pack:Black/Blue Green / Large",
+          "usd_cents": 3299,
+          "available": true
+        },
+        {
+          "label": "2Pack:Black/Blue Green / X-Large",
+          "usd_cents": 3299,
+          "available": true
+        },
+        {
+          "label": "2Pack:Black/Blue Green / XX-Large",
+          "usd_cents": 3299,
+          "available": false
+        },
+        {
+          "label": "2Pack:blackgrey/bluegreen / Small",
+          "usd_cents": 3299,
+          "available": false
+        },
+        {
+          "label": "2Pack:blackgrey/bluegreen / Medium",
+          "usd_cents": 3299,
+          "available": true
+        },
+        {
+          "label": "2Pack:blackgrey/bluegreen / Large",
+          "usd_cents": 3299,
+          "available": true
+        },
+        {
+          "label": "2Pack:blackgrey/bluegreen / X-Large",
+          "usd_cents": 3299,
+          "available": true
+        },
+        {
+          "label": "2Pack:blackgrey/bluegreen / XX-Large",
+          "usd_cents": 3299,
+          "available": false
+        }
       ]
     },
     "/products/hofish-womens-seamless-all-in-one-hands-free-pumping-bra-supportive-maternity-nursing-everyday-bra-2": {
@@ -1204,6 +1923,68 @@
             "X-Large"
           ]
         }
+      ],
+      "variants": [
+        {
+          "label": "2Pack：Black Beige / Medium",
+          "usd_cents": 3999,
+          "available": true
+        },
+        {
+          "label": "2Pack：Black Beige / Large",
+          "usd_cents": 3999,
+          "available": true
+        },
+        {
+          "label": "2Pack：Black Beige / X-Large",
+          "usd_cents": 3999,
+          "available": true
+        },
+        {
+          "label": "Black / Medium",
+          "usd_cents": 1999,
+          "available": true
+        },
+        {
+          "label": "Black / Large",
+          "usd_cents": 1999,
+          "available": true
+        },
+        {
+          "label": "Black / X-Large",
+          "usd_cents": 1999,
+          "available": true
+        },
+        {
+          "label": "Beige / Medium",
+          "usd_cents": 1999,
+          "available": true
+        },
+        {
+          "label": "Beige / Large",
+          "usd_cents": 1999,
+          "available": true
+        },
+        {
+          "label": "Beige / X-Large",
+          "usd_cents": 1999,
+          "available": true
+        },
+        {
+          "label": "2Pack:Black / Medium",
+          "usd_cents": 3999,
+          "available": true
+        },
+        {
+          "label": "2Pack:Black / Large",
+          "usd_cents": 3999,
+          "available": false
+        },
+        {
+          "label": "2Pack:Black / X-Large",
+          "usd_cents": 3999,
+          "available": true
+        }
       ]
     },
     "/products/1345-hofish-zippum-bra-hands-free-pumping-nursing-bra-dual-zip-adjustable-non-stretch-prevents-bottle-drop-breastfeeding-comfort-support-black": {
@@ -1254,6 +2035,28 @@
             "XL",
             "2XL"
           ]
+        }
+      ],
+      "variants": [
+        {
+          "label": "Black / M",
+          "usd_cents": 2999,
+          "available": true
+        },
+        {
+          "label": "Black / L",
+          "usd_cents": 2999,
+          "available": true
+        },
+        {
+          "label": "Black / XL",
+          "usd_cents": 2999,
+          "available": true
+        },
+        {
+          "label": "Black / 2XL",
+          "usd_cents": 2999,
+          "available": true
         }
       ]
     },
@@ -1368,6 +2171,83 @@
             "2XL",
             "S"
           ]
+        }
+      ],
+      "variants": [
+        {
+          "label": "Black / M",
+          "usd_cents": 2999,
+          "available": true
+        },
+        {
+          "label": "Black / L",
+          "usd_cents": 2999,
+          "available": true
+        },
+        {
+          "label": "Black / XL",
+          "usd_cents": 2999,
+          "available": true
+        },
+        {
+          "label": "Black / 2XL",
+          "usd_cents": 2999,
+          "available": true
+        },
+        {
+          "label": "Black / S",
+          "usd_cents": 2999,
+          "available": false
+        },
+        {
+          "label": "Beige / M",
+          "usd_cents": 2999,
+          "available": true
+        },
+        {
+          "label": "Beige / L",
+          "usd_cents": 2999,
+          "available": true
+        },
+        {
+          "label": "Beige / XL",
+          "usd_cents": 2999,
+          "available": true
+        },
+        {
+          "label": "Beige / 2XL",
+          "usd_cents": 2999,
+          "available": true
+        },
+        {
+          "label": "Beige / S",
+          "usd_cents": 2999,
+          "available": false
+        },
+        {
+          "label": "Brown / M",
+          "usd_cents": 2999,
+          "available": true
+        },
+        {
+          "label": "Brown / L",
+          "usd_cents": 2999,
+          "available": false
+        },
+        {
+          "label": "Brown / XL",
+          "usd_cents": 2999,
+          "available": true
+        },
+        {
+          "label": "Brown / 2XL",
+          "usd_cents": 2999,
+          "available": true
+        },
+        {
+          "label": "Brown / S",
+          "usd_cents": 2999,
+          "available": true
         }
       ]
     },
@@ -1487,6 +2367,88 @@
             "XX-Large"
           ]
         }
+      ],
+      "variants": [
+        {
+          "label": "Black / Medium",
+          "usd_cents": 3599,
+          "available": false
+        },
+        {
+          "label": "Black / Large",
+          "usd_cents": 3599,
+          "available": false
+        },
+        {
+          "label": "Black / X-Large",
+          "usd_cents": 3599,
+          "available": false
+        },
+        {
+          "label": "Black / XX-Large",
+          "usd_cents": 3599,
+          "available": false
+        },
+        {
+          "label": "Beige / Medium",
+          "usd_cents": 3599,
+          "available": true
+        },
+        {
+          "label": "Beige / Large",
+          "usd_cents": 3599,
+          "available": false
+        },
+        {
+          "label": "Beige / X-Large",
+          "usd_cents": 3599,
+          "available": false
+        },
+        {
+          "label": "Beige / XX-Large",
+          "usd_cents": 3599,
+          "available": false
+        },
+        {
+          "label": "Black and Beige / Medium",
+          "usd_cents": 4999,
+          "available": false
+        },
+        {
+          "label": "Black and Beige / Large",
+          "usd_cents": 4999,
+          "available": false
+        },
+        {
+          "label": "Black and Beige / X-Large",
+          "usd_cents": 4999,
+          "available": false
+        },
+        {
+          "label": "Black and Beige / XX-Large",
+          "usd_cents": 4999,
+          "available": false
+        },
+        {
+          "label": "Light Brown / Medium",
+          "usd_cents": 3599,
+          "available": false
+        },
+        {
+          "label": "Light Brown / Large",
+          "usd_cents": 3599,
+          "available": false
+        },
+        {
+          "label": "Light Brown / X-Large",
+          "usd_cents": 3599,
+          "available": true
+        },
+        {
+          "label": "Light Brown / XX-Large",
+          "usd_cents": 3599,
+          "available": false
+        }
       ]
     },
     "/products/womens-maternity-leggings-ultra-soft-pregnancy-yoga-pants-over-the-bump-thermal-bottom-underwear-workout-leggings": {
@@ -1564,6 +2526,83 @@
             "X-Large",
             "XX-Large"
           ]
+        }
+      ],
+      "variants": [
+        {
+          "label": "Non See Thru With Pockets / Navyblue / Small",
+          "usd_cents": 2699,
+          "available": false
+        },
+        {
+          "label": "Non See Thru With Pockets / Navyblue / Medium",
+          "usd_cents": 2699,
+          "available": false
+        },
+        {
+          "label": "Non See Thru With Pockets / Navyblue / Large",
+          "usd_cents": 2699,
+          "available": false
+        },
+        {
+          "label": "Non See Thru With Pockets / Navyblue / X-Large",
+          "usd_cents": 2699,
+          "available": false
+        },
+        {
+          "label": "Non See Thru With Pockets / Navyblue / XX-Large",
+          "usd_cents": 2699,
+          "available": false
+        },
+        {
+          "label": "Upgrade Yoga Pants: Brown / Small",
+          "usd_cents": 2699,
+          "available": false
+        },
+        {
+          "label": "Upgrade Yoga Pants: Brown / Medium",
+          "usd_cents": 2699,
+          "available": false
+        },
+        {
+          "label": "Upgrade Yoga Pants: Brown / Large",
+          "usd_cents": 2699,
+          "available": false
+        },
+        {
+          "label": "Upgrade Yoga Pants: Brown / X-Large",
+          "usd_cents": 2699,
+          "available": false
+        },
+        {
+          "label": "Upgrade Yoga Pants: Brown / XX-Large",
+          "usd_cents": 2699,
+          "available": true
+        },
+        {
+          "label": "Non See Thru With Pockets / Black / Small",
+          "usd_cents": 2699,
+          "available": false
+        },
+        {
+          "label": "Non See Thru With Pockets / Black / Medium",
+          "usd_cents": 2699,
+          "available": false
+        },
+        {
+          "label": "Non See Thru With Pockets / Black / Large",
+          "usd_cents": 2699,
+          "available": false
+        },
+        {
+          "label": "Non See Thru With Pockets / Black / X-Large",
+          "usd_cents": 2699,
+          "available": false
+        },
+        {
+          "label": "Non See Thru With Pockets / Black / XX-Large",
+          "usd_cents": 2699,
+          "available": false
         }
       ]
     },
@@ -1655,6 +2694,83 @@
             "XX-Large"
           ]
         }
+      ],
+      "variants": [
+        {
+          "label": "Light Blue / Small",
+          "usd_cents": 2499,
+          "available": false
+        },
+        {
+          "label": "Light Blue / Medium",
+          "usd_cents": 2499,
+          "available": false
+        },
+        {
+          "label": "Light Blue / Large",
+          "usd_cents": 2499,
+          "available": false
+        },
+        {
+          "label": "Light Blue / X-Large",
+          "usd_cents": 2499,
+          "available": false
+        },
+        {
+          "label": "Light Blue / XX-Large",
+          "usd_cents": 2499,
+          "available": false
+        },
+        {
+          "label": "Dark Blue / Small",
+          "usd_cents": 2499,
+          "available": true
+        },
+        {
+          "label": "Dark Blue / Medium",
+          "usd_cents": 2499,
+          "available": true
+        },
+        {
+          "label": "Dark Blue / Large",
+          "usd_cents": 2499,
+          "available": true
+        },
+        {
+          "label": "Dark Blue / X-Large",
+          "usd_cents": 2499,
+          "available": true
+        },
+        {
+          "label": "Dark Blue / XX-Large",
+          "usd_cents": 2499,
+          "available": true
+        },
+        {
+          "label": "New Navy / Small",
+          "usd_cents": 2499,
+          "available": false
+        },
+        {
+          "label": "New Navy / Medium",
+          "usd_cents": 2499,
+          "available": false
+        },
+        {
+          "label": "New Navy / Large",
+          "usd_cents": 2499,
+          "available": false
+        },
+        {
+          "label": "New Navy / X-Large",
+          "usd_cents": 2499,
+          "available": false
+        },
+        {
+          "label": "New Navy / XX-Large",
+          "usd_cents": 2499,
+          "available": false
+        }
       ]
     },
     "/products/womens-super-comfy-maternity-skinny-jeans-navy": {
@@ -1686,12 +2802,22 @@
           "url": "https://www.hofish.com/cdn/shop/files/fa833c6a-a354-484e-a5df-5c39dcf20586_1600x.jpg?v=1781261489"
         },
         {
-          "kind": "video",
-          "url": "https://cdn.shopify.com/videos/c/o/v/7a4a3b708f9847db9efbc6b1cd9325f8.mp4"
+          "kind": "reference",
+          "url": "https://cdn.shopify.com/videos/c/o/v/7a4a3b708f9847db9efbc6b1cd9325f8.mp4",
+          "title": {
+            "en": "Unrelated nursing-bra video on the source page",
+            "de": "Thematisch unpassendes Still-BH-Video der Originalseite",
+            "fr": "Vidéo de soutien-gorge sans rapport avec le jean sur la page d’origine"
+          }
         },
         {
-          "kind": "video",
-          "url": "https://cdn.shopify.com/videos/c/o/v/592269096d5a4cfd9fafbf9861450f0a.mp4"
+          "kind": "reference",
+          "url": "https://cdn.shopify.com/videos/c/o/v/592269096d5a4cfd9fafbf9861450f0a.mp4",
+          "title": {
+            "en": "Unrelated nursing-bra video on the source page",
+            "de": "Thematisch unpassendes Still-BH-Video der Originalseite",
+            "fr": "Vidéo de soutien-gorge sans rapport avec le jean sur la page d’origine"
+          }
         }
       ],
       "options": [
@@ -1708,6 +2834,23 @@
             "L",
             "XL"
           ]
+        }
+      ],
+      "variants": [
+        {
+          "label": "Upgrade:light Blue / M",
+          "usd_cents": 2399,
+          "available": false
+        },
+        {
+          "label": "Upgrade:light Blue / L",
+          "usd_cents": 2399,
+          "available": false
+        },
+        {
+          "label": "Upgrade:light Blue / XL",
+          "usd_cents": 2399,
+          "available": false
         }
       ]
     },
@@ -1752,6 +2895,33 @@
             "X-Large",
             "XX-Large"
           ]
+        }
+      ],
+      "variants": [
+        {
+          "label": "Black / Small",
+          "usd_cents": 1299,
+          "available": false
+        },
+        {
+          "label": "Black / Medium",
+          "usd_cents": 1299,
+          "available": false
+        },
+        {
+          "label": "Black / Large",
+          "usd_cents": 1299,
+          "available": false
+        },
+        {
+          "label": "Black / X-Large",
+          "usd_cents": 1299,
+          "available": false
+        },
+        {
+          "label": "Black / XX-Large",
+          "usd_cents": 1299,
+          "available": false
         }
       ]
     },
@@ -1835,6 +3005,83 @@
             "XX-Large"
           ]
         }
+      ],
+      "variants": [
+        {
+          "label": "Darkgreen / Small",
+          "usd_cents": 2499,
+          "available": false
+        },
+        {
+          "label": "Darkgreen / Medium",
+          "usd_cents": 2499,
+          "available": true
+        },
+        {
+          "label": "Darkgreen / Large",
+          "usd_cents": 2499,
+          "available": true
+        },
+        {
+          "label": "Darkgreen / X-Large",
+          "usd_cents": 2499,
+          "available": false
+        },
+        {
+          "label": "Darkgreen / XX-Large",
+          "usd_cents": 2499,
+          "available": false
+        },
+        {
+          "label": "Navy / Small",
+          "usd_cents": 2499,
+          "available": false
+        },
+        {
+          "label": "Navy / Medium",
+          "usd_cents": 2499,
+          "available": false
+        },
+        {
+          "label": "Navy / Large",
+          "usd_cents": 2499,
+          "available": false
+        },
+        {
+          "label": "Navy / X-Large",
+          "usd_cents": 2499,
+          "available": false
+        },
+        {
+          "label": "Navy / XX-Large",
+          "usd_cents": 2499,
+          "available": false
+        },
+        {
+          "label": "Dark Grey / Small",
+          "usd_cents": 2499,
+          "available": false
+        },
+        {
+          "label": "Dark Grey / Medium",
+          "usd_cents": 2499,
+          "available": false
+        },
+        {
+          "label": "Dark Grey / Large",
+          "usd_cents": 2499,
+          "available": false
+        },
+        {
+          "label": "Dark Grey / X-Large",
+          "usd_cents": 2499,
+          "available": false
+        },
+        {
+          "label": "Dark Grey / XX-Large",
+          "usd_cents": 2499,
+          "available": false
+        }
       ]
     },
     "/pages/hofish-mattresses-recalls": {
@@ -1875,12 +3122,20 @@
     "/pages/delivery": {
       "type": "page",
       "indexed": true,
-      "links": []
+      "links": [],
+      "related": [
+        "/pages/shipping-delivery",
+        "/pages/shipping-policy"
+      ]
     },
     "/pages/terms-of-use": {
       "type": "page",
       "indexed": true,
-      "links": []
+      "links": [],
+      "related": [
+        "/pages/terms-of-service",
+        "/policies/terms-of-service"
+      ]
     },
     "/pages/about-us": {
       "type": "page",
@@ -1890,7 +3145,10 @@
     "/pages/privacy-policy": {
       "type": "page",
       "indexed": true,
-      "links": []
+      "links": [],
+      "related": [
+        "/policies/privacy-policy"
+      ]
     },
     "/pages/contact": {
       "type": "page",
@@ -1900,32 +3158,59 @@
     "/pages/terms-of-service": {
       "type": "page",
       "indexed": true,
-      "links": []
+      "links": [],
+      "related": [
+        "/pages/terms-of-use",
+        "/policies/terms-of-service"
+      ]
     },
     "/pages/shipping-policy": {
       "type": "page",
       "indexed": true,
-      "links": []
+      "links": [],
+      "related": [
+        "/pages/shipping-delivery",
+        "/pages/delivery"
+      ]
     },
     "/pages/refund-policy": {
       "type": "page",
       "indexed": true,
-      "links": []
+      "links": [],
+      "related": [
+        "/policies/refund-policy",
+        "/pages/contact"
+      ]
     },
     "/pages/order-tracking": {
       "type": "page",
       "indexed": true,
-      "links": []
+      "links": [],
+      "related": [
+        "/pages/contact",
+        "/pages/shipping-delivery"
+      ]
     },
     "/pages/size-chart": {
       "type": "page",
       "indexed": true,
-      "links": []
+      "links": [],
+      "related": [
+        "/products/hofish-3-pack-seamless-clip-down-deep-v-neck-push-up-nursing-bra-maternity-bras-3pack-inlcuding-extenders-clips",
+        "/pages/contact"
+      ]
     },
     "/pages/faqs": {
       "type": "page",
       "indexed": true,
-      "links": []
+      "links": [],
+      "related": [
+        "/pages/size-chart",
+        "/pages/order-tracking",
+        "/pages/shipping-delivery",
+        "/pages/refund-policy",
+        "/pages/contact"
+      ]
     },
     "/pages/shipping-delivery": {
       "type": "page",
@@ -1939,6 +3224,11 @@
           "kind": "image",
           "url": "https://www.hofish.com/cdn/shop/files/D-__D_1000x.jpg?v=1703749304"
         }
+      ],
+      "related": [
+        "/pages/delivery",
+        "/pages/shipping-policy",
+        "/pages/order-tracking"
       ]
     },
     "/collections/nursing-tank": {
@@ -1955,25 +3245,40 @@
       "products": [
         "/products/womens-super-comfy-maternity-skinny-jeans-navy"
       ],
-      "links": []
+      "links": [],
+      "related": [
+        "/products/womens-maternity-leggings-ultra-soft-pregnancy-yoga-pants-over-the-bump-thermal-bottom-underwear-workout-leggings",
+        "/collections/maternity-pants-1"
+      ]
     },
     "/collections/best-seller": {
       "type": "collection",
       "indexed": true,
       "products": [],
-      "links": []
+      "links": [],
+      "related": [
+        "/collections/hot-selling",
+        "/collections/all"
+      ]
     },
     "/collections/pumping-bras": {
       "type": "collection",
       "indexed": true,
       "products": [],
-      "links": []
+      "links": [],
+      "related": [
+        "/collections/nursing-pumping",
+        "/collections/all-bra"
+      ]
     },
     "/collections/maternity-sleep-bra": {
       "type": "collection",
       "indexed": true,
       "products": [],
-      "links": []
+      "links": [],
+      "related": [
+        "/collections/all-bra"
+      ]
     },
     "/collections/all-bra": {
       "type": "collection",
@@ -1995,7 +3300,11 @@
       "type": "collection",
       "indexed": true,
       "products": [],
-      "links": []
+      "links": [],
+      "related": [
+        "/products/hofish-seamless-support-nursing-bra-medium-impact-maternity-nursing-sports-bras-breastfeeding-bra-for-pregnancy-postpartum-3",
+        "/collections/nursing"
+      ]
     },
     "/collections/maternity-tees-tanks": {
       "type": "collection",
@@ -2003,7 +3312,10 @@
       "products": [
         "/products/hofish-womens-breast-feeding-tops-maternity-nursing-cami-with-build-in-shelf-bra-3-pack-nary-blue-red-1"
       ],
-      "links": []
+      "links": [],
+      "related": [
+        "/collections/nursing-tank"
+      ]
     },
     "/collections/maternity-shorts": {
       "type": "collection",
@@ -2014,19 +3326,30 @@
         "/products/womens-maternity-leggings-ultra-soft-pregnancy-yoga-pants-over-the-bump-thermal-bottom-underwear-workout-leggings",
         "/products/womens-super-comfy-maternity-skinny-jeans-light-blue"
       ],
-      "links": []
+      "links": [],
+      "related": [
+        "/collections/maternity-pants-1"
+      ]
     },
     "/collections/baby-bottle": {
       "type": "collection",
       "indexed": true,
       "products": [],
-      "links": []
+      "links": [],
+      "related": [
+        "/blogs/news",
+        "/collections/nursing-pumping"
+      ]
     },
     "/collections/for-pregnancy": {
       "type": "collection",
       "indexed": true,
       "products": [],
-      "links": []
+      "links": [],
+      "related": [
+        "/collections/maternity-pants-1",
+        "/collections/maternity-nursing-bra"
+      ]
     },
     "/collections/nursing-pumping": {
       "type": "collection",
@@ -2034,19 +3357,30 @@
       "products": [
         "/products/hofish-womens-seamless-all-in-one-hands-free-pumping-bra-supportive-maternity-nursing-everyday-bra-2"
       ],
-      "links": []
+      "links": [],
+      "related": [
+        "/collections/all-bra"
+      ]
     },
     "/collections/electric-breast-pump": {
       "type": "collection",
       "indexed": true,
       "products": [],
-      "links": []
+      "links": [],
+      "related": [
+        "/collections/nursing-pumping",
+        "/blogs/news/tagged/breast-pump"
+      ]
     },
     "/collections/maternity-underwear": {
       "type": "collection",
       "indexed": true,
       "products": [],
-      "links": []
+      "links": [],
+      "related": [
+        "/products/hofish-no-show-maternity-support-underwear-compression-over-bump",
+        "/collections/maternity-pants-1"
+      ]
     },
     "/collections/maternity-pants": {
       "type": "collection",
@@ -2067,7 +3401,10 @@
       "products": [
         "/products/womens-super-comfy-maternity-skinny-jeans-navy"
       ],
-      "links": []
+      "links": [],
+      "related": [
+        "/collections/maternity-jeans-short"
+      ]
     },
     "/collections/maternity-jeans-short": {
       "type": "collection",
@@ -2075,7 +3412,10 @@
       "products": [
         "/products/womens-super-comfy-maternity-skinny-jeans-light-blue"
       ],
-      "links": []
+      "links": [],
+      "related": [
+        "/collections/maternity-pants-1"
+      ]
     },
     "/collections/hot-selling": {
       "type": "collection",
@@ -2123,19 +3463,31 @@
       "type": "collection",
       "indexed": true,
       "products": [],
-      "links": []
+      "links": [],
+      "related": [
+        "/collections/nursing",
+        "/collections/maternity-pants-1"
+      ]
     },
     "/collections/childrens-toys": {
       "type": "collection",
       "indexed": true,
       "products": [],
-      "links": []
+      "links": [],
+      "related": [
+        "/collections/all",
+        "/blogs/news"
+      ]
     },
     "/collections/pumping-bra": {
       "type": "collection",
       "indexed": true,
       "products": [],
-      "links": []
+      "links": [],
+      "related": [
+        "/collections/all-bra",
+        "/collections/nursing-pumping"
+      ]
     },
     "/collections/maternity-nursing-bra": {
       "type": "collection",
@@ -2189,7 +3541,15 @@
         {
           "kind": "image",
           "url": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/Nipple_Type_and_Breastfeeding_Can_I_Breastfeed_with_Flat_or_Inverted_Nipples_3.jpg?v=1680089587"
+        },
+        {
+          "kind": "reference",
+          "title": "NHS",
+          "url": "https://www.nhs.uk/baby/breastfeeding-and-bottle-feeding/breastfeeding-problems/sore-nipples/"
         }
+      ],
+      "related": [
+        "/blogs/news/test-2"
       ]
     },
     "/blogs/news/test-3": {
@@ -2207,7 +3567,16 @@
         {
           "kind": "image",
           "url": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/How_to_Measure_for_Right_Breast_Pump_Flange_Size_3.jpg?v=1680089951"
+        },
+        {
+          "kind": "reference",
+          "title": "FDA",
+          "url": "https://www.fda.gov/medical-devices/breast-pumps/using-breast-pump"
         }
+      ],
+      "related": [
+        "/blogs/news/breast-pump-why-low-or-no-suction",
+        "/blogs/news/test-2"
       ]
     },
     "/blogs/news/test-2": {
@@ -2225,7 +3594,15 @@
         {
           "kind": "image",
           "url": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/3_Things_I_Wish_I_Had_Known_Before_Giving_Birth_About_Postpartum_Recovery_3.jpg?v=1680090095"
+        },
+        {
+          "kind": "reference",
+          "title": "RCOG",
+          "url": "https://www.rcog.org.uk/for-the-public/perineal-tears-and-episiotomies-in-childbirth/first-and-second-degree-tears/"
         }
+      ],
+      "related": [
+        "/blogs/news/test"
       ]
     },
     "/collections/all": {
@@ -2261,17 +3638,28 @@
     "/policies/privacy-policy": {
       "type": "page",
       "indexed": false,
-      "links": []
+      "links": [],
+      "related": [
+        "/pages/privacy-policy"
+      ]
     },
     "/policies/terms-of-service": {
       "type": "page",
       "indexed": false,
-      "links": []
+      "links": [],
+      "related": [
+        "/pages/terms-of-service",
+        "/pages/terms-of-use"
+      ]
     },
     "/policies/refund-policy": {
       "type": "page",
       "indexed": false,
-      "links": []
+      "links": [],
+      "related": [
+        "/pages/refund-policy",
+        "/pages/contact"
+      ]
     }
   }
 }

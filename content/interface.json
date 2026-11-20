@@ -40,7 +40,16 @@
     "media": "Images and videos",
     "navigation": "Main navigation",
     "video": "Source video",
-    "community": "Community"
+    "community": "Community",
+    "contents": "On this page",
+    "related_pages": "Related pages",
+    "variants": "Variant details",
+    "variant": "Variant",
+    "price": "Listed price",
+    "availability": "Availability",
+    "available": "Available",
+    "unavailable": "Unavailable",
+    "variant_note": "Prices and availability are from the source snapshot. Check the official page for current information."
   },
   "de": {
     "label": "Deutsch",
@@ -83,7 +92,16 @@
     "media": "Bilder und Videos",
     "navigation": "Hauptnavigation",
     "video": "Videoquelle",
-    "community": "Community"
+    "community": "Community",
+    "contents": "Auf dieser Seite",
+    "related_pages": "Verwandte Seiten",
+    "variants": "Varianten im Detail",
+    "variant": "Variante",
+    "price": "Preis laut Quelle",
+    "availability": "Verfügbarkeit",
+    "available": "Verfügbar",
+    "unavailable": "Nicht verfügbar",
+    "variant_note": "Preise und Verfügbarkeit entsprechen dem Erfassungsstand. Aktuelle Angaben finden Sie auf der Originalseite."
   },
   "fr": {
     "label": "Français",
@@ -126,6 +144,15 @@
     "media": "Images et vidéos",
     "navigation": "Navigation principale",
     "video": "Vidéo d’origine",
-    "community": "Communauté"
+    "community": "Communauté",
+    "contents": "Sur cette page",
+    "related_pages": "Pages associées",
+    "variants": "Détail des variantes",
+    "variant": "Variante",
+    "price": "Prix affiché",
+    "availability": "Disponibilité",
+    "available": "Disponible",
+    "unavailable": "Indisponible",
+    "variant_note": "Les prix et la disponibilité correspondent à la date du relevé. Vérifiez les informations actuelles sur la page d’origine."
   }
 }

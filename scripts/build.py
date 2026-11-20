@@ -41,12 +41,23 @@ def external(url):
     return url
 
 
-def blocks(sections):
-    return "".join(
-        f'<section class="prose"><h2>{escape(section["title"])}</h2><ul>'
-        + "".join(f"<li>{escape(item)}</li>" for item in section["items"]) + "</ul></section>"
-        for section in sections
+def blocks(sections, anchored=False):
+    result = []
+    for index, section in enumerate(sections, start=1):
+        anchor = f' id="section-{index}"' if anchored else ""
+        items = "".join(f"<li>{escape(item)}</li>" for item in section["items"])
+        result.append(f'<section class="prose"{anchor}><h2>{escape(section["title"])}</h2><ul>{items}</ul></section>')
+    return "".join(result)
+
+
+def contents_links(sections, ui):
+    if len(sections) < 4:
+        return ""
+    links = "".join(
+        f'<li>{link(f"#section-{index}", section["title"])}</li>'
+        for index, section in enumerate(sections, start=1)
     )
+    return f'<nav class="contents" aria-label="{escape(ui["contents"])}"><h2>{escape(ui["contents"])}</h2><ul>{links}</ul></nav>'
 
 
 def options_table(options, ui):
@@ -62,10 +73,39 @@ def options_table(options, ui):
     )
 
 
-def related_sources(metadata, language, ui):
-    links = metadata.get("links", [])
+def variant_price(cents, language):
+    separator = "." if language == "en" else ","
+    dollars, remainder = divmod(cents, 100)
+    return f"{dollars}{separator}{remainder:02} USD"
+
+
+def variant_rows(variants, language, ui):
+    return [
+        (variant["label"], variant_price(variant["usd_cents"], language),
+         ui["available"] if variant["available"] else ui["unavailable"])
+        for variant in variants
+    ]
+
+
+def variants_table(variants, language, ui, snapshot):
+    if not variants:
+        return ""
+    title = escape(ui["variants"])
+    headers = "".join(f'<th scope="col">{escape(ui[key])}</th>' for key in ("variant", "price", "availability"))
+    rows = "".join(
+        f'<tr><th scope="row">{escape(label)}</th><td>{price}</td><td>{escape(availability)}</td></tr>'
+        for label, price, availability in variant_rows(variants, language, ui)
+    )
+    return (
+        f'<section class="prose"><details><summary>{title} ({len(variants)})</summary>'
+        f'<p class="small">{escape(ui["snapshot"])} · {escape(snapshot)}. {escape(ui["variant_note"])}</p>'
+        f'<table><thead><tr>{headers}</tr></thead><tbody>{rows}</tbody></table></details></section>'
+    )
+
+
+def reference_links(metadata, language, ui):
     media, related = [], []
-    for item in links:
+    for item in metadata.get("links", []):
         kind = item.get("kind", "reference")
         gallery = kind in MEDIA
         bucket = media if gallery else related
@@ -74,12 +114,19 @@ def related_sources(metadata, language, ui):
             label = label[language]
         if gallery:
             label = f'{ui.get(kind, ui["image"])} {len(bucket) + 1}'
-        bucket.append(f'<li>{link(external(item["url"]), label)}</li>')
+        bucket.append((external(item["url"]), label))
+    return related, media
+
+
+def related_sources(metadata, language, ui):
+    related, media = reference_links(metadata, language, ui)
     visual = ""
     if media:
-        visual = f'<details><summary>{escape(ui["media"])} ({len(media)})</summary><ul>{"".join(media)}</ul></details>'
-    references = f'<ul>{"".join(related)}</ul>' if related else ""
-    return f'<section class="prose"><h2>{escape(ui["sources"])}</h2>{references}{visual}</section>' if links else ""
+        media_links = "".join(f"<li>{link(url, label)}</li>" for url, label in media)
+        visual = f'<details><summary>{escape(ui["media"])} ({len(media)})</summary><ul>{media_links}</ul></details>'
+    references = "".join(f"<li>{link(url, label)}</li>" for url, label in related)
+    references = f"<ul>{references}</ul>" if references else ""
+    return f'<section class="prose"><h2>{escape(ui["sources"])}</h2>{references}{visual}</section>' if related or media else ""
 
 
 class Edition:
@@ -96,6 +143,30 @@ class Edition:
 
     def routes(self, kind):
         return [route for route, page in self.sources["pages"].items() if page["type"] == kind]
+
+    def link_groups(self, route, meta):
+        ui = self.ui
+        kind = meta["type"]
+        groups = []
+        if kind == "collection":
+            groups.append((ui["products"], meta["products"], True))
+            if route == SHOP_INDEX:
+                groups.append((ui["collections"], [item for item in self.collections if item != route], False))
+        if kind == "blog":
+            groups.extend([(ui["posts"], self.articles, True), (ui["tags"], self.tags, False)])
+        if kind == "tag":
+            groups.append((ui["posts"], meta["articles"], True))
+        if kind == "article":
+            groups.append((ui["tags"], meta.get("tags", []), False))
+        if kind == "product":
+            memberships = [
+                item for item in self.collections if item != SHOP_INDEX
+                and route in self.sources["pages"][item]["products"]
+            ]
+            groups.append((ui["collections"], memberships, False))
+        if meta.get("related"):
+            groups.append((ui["related_pages"], meta["related"], False))
+        return groups
 
     def relative(self, current, target):
         return quote(relpath(target, dirname(path_for(current, self.language)) or "."))
@@ -194,30 +265,18 @@ class Edition:
             parent = f'<p class="breadcrumb">{self.internal(route, *breadcrumb)} <span aria-hidden="true">/</span></p>'
         body = (
             f'{parent}<h1>{escape(title)}</h1><p class="lede">{escape(intro)}</p>'
-            + blocks(record["sections"]) + options_table(meta.get("options"), ui)
+            + contents_links(record["sections"], ui)
+            + blocks(record["sections"], anchored=True) + options_table(meta.get("options"), ui)
+            + variants_table(meta.get("variants"), self.language, ui, self.sources["snapshot"])
         )
-        if kind == "collection":
-            products = meta["products"]
-            body += self.cards(route, products, ui["products"], descriptions=True)
-            if not products:
-                body += f'<p class="notice">{escape(ui["empty"])}</p>'
-            if route == SHOP_INDEX:
-                body += self.cards(route, [item for item in self.collections if item != route], ui["collections"])
-            else:
-                body += f'<p>{self.internal(route, SHOP_INDEX, ui["more"] + " →")}</p>'
-        if kind == "blog":
-            body += self.cards(route, self.articles, ui["posts"], descriptions=True)
-            body += self.cards(route, self.tags, ui["tags"])
-        if kind == "tag":
-            body += self.cards(route, meta["articles"], ui["posts"], descriptions=True)
-        if kind == "article":
-            body += self.cards(route, meta.get("tags", []), ui["tags"])
-        if kind == "product":
-            memberships = [
-                item for item in self.collections if item != SHOP_INDEX
-                and route in self.sources["pages"][item]["products"]
-            ]
-            body += self.cards(route, memberships, ui["collections"])
+        if kind == "collection" and not meta["products"]:
+            body += f'<p class="notice">{escape(ui["empty"])}</p>'
+        body += "".join(
+            self.cards(route, targets, heading, descriptions)
+            for heading, targets, descriptions in self.link_groups(route, meta)
+        )
+        if kind == "collection" and route != SHOP_INDEX:
+            body += f'<p>{self.internal(route, SHOP_INDEX, ui["more"] + " →")}</p>'
         return title, intro, body + related_sources(meta, self.language, ui) + self.source_line(route)
 
     def render(self, route):
@@ -267,10 +326,7 @@ class Edition:
 """
 
 
-def main():
-    parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--output", type=Path, default=ROOT / "dist")
-    args = parser.parse_args()
+def load_snapshot():
     data = {}
     for file in CONTENT_FILES:
         entries = load(file)
@@ -287,6 +343,14 @@ def main():
     for path, texts in data.items():
         if set(texts) != set(LANGUAGES):
             raise ValueError(f"Missing language or unexpected language at {path}")
+    return data, sources, interface
+
+
+def main():
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--output", type=Path, default=ROOT / "dist")
+    args = parser.parse_args()
+    data, sources, interface = load_snapshot()
     for language in LANGUAGES:
         edition = Edition(language, data, sources, interface)
         for route in [*data, "/pages", "/search"]:
