@@ -4,6 +4,15 @@
 
 Ein mehrsprachiges Nachschlagewerk zur öffentlichen Website von HOFISH Maternity & Baby. Die Gliederung folgt der Website mit Startseite, Kollektionen, Produktseiten, Blogbeiträgen sowie Seiten zur Marke, zum Kundenservice und zu den Geschäftsbedingungen. Jeder Eintrag enthält eine eigenständig formulierte Beschreibung und einen Link zur Quelle. Die Erfassung basiert auf 59 URLs der [offiziellen XML-Sitemap](https://www.hofish.com/sitemap.xml) und weiteren Seiten aus der Navigation.
 
+## Das Sortiment von HOFISH
+
+- **Still-BHs** gibt es als nahtlose, bügellose Modelle für Alltag und Sport. Ausgewählte Modelle haben herunterklappbare Cups und sind als Mehrfachpack erhältlich.
+- **Abpump-BHs** halten die Brusthauben mit überlappenden Stofflagen oder Reißverschlussöffnungen in Position, damit die Hände frei bleiben. Mehrere Modelle lassen sich auch zum Stillen öffnen.
+- **Stilltops und Umstandsslips** umfassen elastische Tops mit integriertem Halt und Clips zum Öffnen sowie nahtlose Slips mit hohem Bund.
+- **Umstandsleggings, Jeans und Shorts** haben einen dehnbaren Bund oder Einsatz über dem Bauch. Dazu gehören auch Radlershorts mit Seitentaschen.
+
+Modelle und aktuelle Verfügbarkeit finden Sie im [offiziellen HOFISH-Katalog](https://www.hofish.com/collections/all).
+
 Konto, Sendungsverfolgung, Kontaktformulare und Einkauf sind auf der [HOFISH-Website](https://www.hofish.com/) verfügbar. Das Nachschlagewerk besteht aus statischen Dateien und ist zum Lesen bestimmt. Es enthält keine Shop-Skripte oder eingebetteten Formulare.
 
 ## Lokal starten
