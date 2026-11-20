@@ -2,13 +2,15 @@
   "/": {
     "en": {
       "title": "HOFISH Maternity & Baby",
-      "intro": "Explore HOFISH’s pregnancy and nursing clothing, pumping bras, baby collections and articles for parents.",
+      "intro": "HOFISH offers maternity and nursing wear for pregnancy, breastfeeding and hands-free pumping.",
       "sections": [
         {
-          "title": "Designed for pregnancy and nursing",
+          "title": "What HOFISH sells",
           "items": [
-            "HOFISH presents its collections around practical, comfortable clothing for pregnancy, breastfeeding and the months after birth.",
-            "The homepage highlights nursing wear and maternity bottoms, with separate selections for bras and tops, and for leggings, jeans and shorts."
+            "Nursing bras come in seamless, wire-free everyday and sports styles. The range includes full-coverage and deep-V designs, with drop-down cups and multipacks on selected styles.",
+            "Hands-free pumping bras hold pump flanges in place. Depending on the model, access is through overlapping fabric panels or zip openings. Several styles also have drop-down cups for breastfeeding.",
+            "Nursing camisoles combine stretch fabric with built-in support and clip-down access. Seamless maternity briefs have a high waistband that covers the bump.",
+            "Maternity leggings, skinny jeans and shorts use stretchy over-bump waistbands or panels. The range includes stretch-denim shorts and biker shorts with side pockets."
           ]
         },
         {
@@ -39,13 +41,15 @@
     },
     "de": {
       "title": "HOFISH Maternity & Baby",
-      "intro": "Entdecken Sie Umstands- und Stillkleidung, Abpump-BHs, Kollektionen rund ums Baby und Beiträge für Eltern.",
+      "intro": "HOFISH bietet Umstands- und Stillkleidung für die Schwangerschaft, das Stillen und das freihändige Abpumpen an.",
       "sections": [
         {
-          "title": "Für Schwangerschaft und Stillzeit",
+          "title": "Das Sortiment von HOFISH",
           "items": [
-            "Bei HOFISH steht praktische, bequeme Kleidung für die Schwangerschaft, die Stillzeit und die Monate nach der Geburt im Mittelpunkt.",
-            "Die Startseite stellt Still-BHs und Stilltops sowie Umstandsleggings, -jeans und -shorts in getrennten Bereichen vor."
+            "Nahtlose, bügellose Still-BHs gibt es für den Alltag und den Sport. Das Sortiment umfasst Modelle mit bedeckenden Cups oder tiefem V-Ausschnitt. Ausgewählte Modelle haben herunterklappbare Cups oder sind im Mehrfachpack erhältlich.",
+            "In Abpump-BHs bleiben die Brusthauben beim freihändigen Abpumpen in Position. Je nach Modell werden sie durch überlappende Stofflagen oder Reißverschlussöffnungen eingesetzt. Mehrere Modelle haben zusätzlich herunterklappbare Cups zum Stillen.",
+            "Elastische Stilltops haben integrierten Halt und lassen sich zum Stillen per Clip öffnen. Nahtlose Umstandsslips haben einen hohen Bund, der über den Bauch reicht.",
+            "Umstandsleggings, schmal geschnittene Jeans und Shorts haben einen dehnbaren Bund oder Einsatz über dem Bauch. Zum Sortiment gehören Shorts aus Stretchdenim und Radlershorts mit Seitentaschen."
           ]
         },
         {
@@ -76,13 +80,15 @@
     },
     "fr": {
       "title": "HOFISH Maternity & Baby",
-      "intro": "Découvrez les vêtements de grossesse et d’allaitement, les soutiens-gorge de tirage, les collections pour bébé et les articles destinés aux parents.",
+      "intro": "HOFISH propose des vêtements de grossesse et d’allaitement, ainsi que des soutiens-gorge pour tirer son lait les mains libres.",
       "sections": [
         {
-          "title": "Pour la grossesse et l’allaitement",
+          "title": "La gamme HOFISH",
           "items": [
-            "HOFISH privilégie les vêtements pratiques et confortables pendant la grossesse, l’allaitement et les mois qui suivent la naissance.",
-            "La page d’accueil présente séparément les soutiens-gorge et hauts d’allaitement, puis les leggings, jeans et shorts de grossesse."
+            "Les soutiens-gorge d’allaitement sans coutures et sans armatures se déclinent en modèles pour le quotidien ou le sport. La gamme comprend des bonnets couvrants et des décolletés en V profond. Certains modèles ont des bonnets rabattables ou sont proposés en lots.",
+            "Les soutiens-gorge de tirage maintiennent les téterelles en place pour tirer son lait les mains libres. Selon le modèle, elles s’insèrent entre deux couches de tissu ou par des ouvertures zippées. Plusieurs modèles ont aussi des bonnets rabattables pour allaiter.",
+            "Les débardeurs d’allaitement associent un tissu extensible, un maintien intégré et une ouverture à clips. Les culottes de grossesse sans coutures ont une taille haute qui couvre le ventre.",
+            "Les leggings, jeans slim et shorts de grossesse ont une ceinture ou un bandeau extensible qui couvre le ventre. La gamme comprend des shorts en denim extensible et des shorts cyclistes à poches latérales."
           ]
         },
         {

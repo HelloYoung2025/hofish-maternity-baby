@@ -131,6 +131,7 @@ class Edition:
     def home(self, route, record, meta):
         ui = self.ui
         groups = meta["groups"]
+        overview, *editorial_sections = record["sections"]
         primary = self.internal(route, SHOP_INDEX, ui["browse"], "button")
         secondary = self.internal(route, ARTICLE_INDEX, ui["journal"] + " →")
         hero = (
@@ -145,7 +146,7 @@ class Edition:
             for group, heading in (("featured", "featured"), ("nursing", "nursing"), ("pants", "pants"))
         )
         return (
-            hero + highlights + blocks(record["sections"])
+            hero + blocks([overview]) + highlights + blocks(editorial_sections)
             + self.cards(route, self.articles, ui["journal"])
             + self.cards(route, self.pages, ui["help"])
             + related_sources(meta, self.language, ui)
